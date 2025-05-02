@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "name": "Ответы@Майл.ру+",
+  "version": "1.0",
+
+  "description": "Дополнительные возможности для приятного деградирования на лучшем в мире сайте.",
+  "icons": {
+    "48": "icon/32.png"
+  },
+  "background": {
+    "scripts": ["libs/browser-polyfill.js", "libs/fstore.js", "background.js"]
+  },
+  "browser_action": {
+    "default_title": "OMR Plus",
+    "default_icon": {
+      "32": "icon/32.png"
+    }
+  },
+  "permissions": [
+    "tabs",
+    "contextMenus",
+    "storage",
+    "http://*.mail.ru/*",
+    "https://*.mail.ru/*"
+  ],
+  "content_scripts": [{
+    "js": [
+      "libs/browser-polyfill.js", "libs/freiweb.js", "libs/frouter.js", "libs/fstore.js",
+      "css.cns.js", "ans.cns.js",
+
+      "libs/emoji/emoji-ru.js", "libs/emoji/emoji-data.js", "libs/emoji/emoji-mart.js", "libs/emoji/emoji-popup.js",
+      "api.cns.js",
+      "ui-conscripts/ui-bulk.cns.js", "ui-conscripts/ui-emojis.cns.js",
+      "ui-conscripts/ui-profile.cns.js", "ui-conscripts/ui-posts.cns.js",
+
+      "net-filter.cns.js"
+    ],
+    "matches": [ "*://otvet.mail.ru/*" ],
+    "run_at": "document_start"
+  }],
+  "web_accessible_resources": [
+    "libs/emoji/emoji-ru.js", "libs/emoji/emoji-data.js", "libs/emoji/emoji-mart.js", "libs/emoji/emoji-popup.js",
+    "icon/kebab.svg"
+  ]
+}

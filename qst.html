@@ -1,0 +1,70 @@
+﻿<html>
+<head>
+<title>Настройки Ответы@Майл.ру+</title>
+<meta charset="utf-8"/>
+<script src="qst.js">
+</script>
+<link href="../bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body style="padding: 0.5rem;">
+<h2>Постинг вопросов</h2>
+<form>
+
+<div class="form-group">
+<label for="tit1">Заголовок вопроса #1:</label>
+<input type="text" name="title" class="form-control" maxLength="120" id="tit1"/>
+</div>
+<div class="form-group">
+<label for="tit2">Заголовок вопроса #2:</label>
+<input type="text" name="title" class="form-control" maxLength="120" id="tit2"/>
+</div>
+<div class="form-group">
+<label for="tit3">Заголовок вопроса #3:</label>
+<input type="text" name="title" class="form-control" maxLength="120" id="tit3"/>
+</div>
+<br/>
+
+Рандомизация текста:<br/>
+<select name="letter" class="form-control">
+<option value="lat">Латинские буквы</option>
+<option value="latnum">Латинские буквы + цифры</option>
+</select><br/>
+
+Рандомизация эмодзи:<br/>
+<select name="emoji" class="form-control">
+<option value="overflow">Вставлять эмоции с конца в начало</option>
+</select><br/>
+
+<label>
+<input name="random_cats" type="checkbox" class="form-check-input">
+</input>
+Рандомизация категорий
+</label>
+<br/>
+
+<label>
+<input name="use_polls" type="checkbox" class="form-check-input">
+</input>
+Не вопросы, а опросы без комментов (и хейта)
+</label>
+<br/><br/>
+
+Режим:<br/>
+<div style="display: none;">
+<label><input type="radio" name="mode" value="manual" style="margin-right: 5px;"  class="form-check-input"/>Вручную (1 нажатие кнопки = 1 вопрос)</label><br/>
+<label><input type="radio" name="mode" value="autom" style="margin-right: 5px;"  class="form-check-input"/>Автоматический (1 нажатие кнопки = вопросы со всех аккаунтов)</label>
+</div>
+<small>Пока что ручной. Открываете нужную категорию, нажимаете на значок расширения в панели справа от адресной строки и вопрос отправляется.</small>
+<br/><br/>
+
+<label>
+<input name="on" type="checkbox" checked class="form-check-input">
+</input>
+Включить
+</label>
+
+<button type="submit" class="btn btn-primary">Сохранить</button>
+
+</form>
+</body>
+</html>
