@@ -84,7 +84,7 @@ const mainMenu = async () => {
     "contexts": ["browser_action"],
     "onclick": () => {
       browser.windows.create({
-        url: browser.extension.getURL("qst.html"),
+        url: browser.runtime.getURL("qst.html"),
         type: "popup",
         height: 700,
         width: 500,
@@ -97,7 +97,7 @@ const mainMenu = async () => {
     "contexts": ["browser_action"],
     "onclick": () => {
       browser.windows.create({
-        url: browser.extension.getURL("answer/ans.html"),
+        url: browser.runtime.getURL("answer/ans.html"),
         type: "popup",
         height: 350,
         width: 500,
