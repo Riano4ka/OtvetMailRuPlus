@@ -132,7 +132,7 @@ var freiweb = {
     }
     const scr = document.createElement('script')
     scr.id = freiweb.makeId()
-    scr.innerHTML = code
+    scr.textContent = code
     document.documentElement.appendChild(scr)
   },
 

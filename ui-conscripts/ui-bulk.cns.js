@@ -33,12 +33,15 @@ const uiBulk = async () => {
 
       if (lookText) {
         const look = document.createElement('div')
-        look.innerHTML = '<a href="#">(что там?)</a>'
-        look.onclick = e => {
+        const link = document.createElement('a')
+        link.href = '#'
+        link.textContent = '(что там?)'
+        link.onclick = e => {
           e.preventDefault()
           e.stopPropagation()
           alert(lookText)
         }
+        look.appendChild(link)
 
         const time = target.querySelector('.nt--time')
         if (time) {

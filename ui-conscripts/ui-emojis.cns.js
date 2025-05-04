@@ -75,7 +75,7 @@ let runEmojis = () => {
             recent.appendChild(emItem)
         }
         const st = document.createElement('style')
-        st.innerHTML = '.recent-emoji:hover { opacity: 0.7; } em-picker { box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3) !important; }'
+        st.textContent = '.recent-emoji:hover { opacity: 0.7; } em-picker { box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3) !important; }'
         recent.appendChild(st)
         return recent
     }

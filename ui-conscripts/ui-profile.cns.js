@@ -9,7 +9,7 @@ const addStyle = () => {
     if (getStyle()) return
     const st = document.createElement('style')
     st.id = styleId
-    st.innerHTML = `body.user-banned {
+    st.textContent = `body.user-banned {
         div { opacity: 1 !important; pointer-events: auto !important; }
         a { opacity: 1 !important; pointer-events: auto !important; }
         li { opacity: 1 !important; pointer-events: auto !important; }

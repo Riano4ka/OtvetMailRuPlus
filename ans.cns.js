@@ -32,8 +32,8 @@ async function ansCon() {
       }
 
       let p = document.createElement('p')
-      p.innerHTML = str
-      if (!inp.innerHTML.includes(str))
+      p.textContent = str
+      if (!inp.textContent.includes(str))
       inp.appendChild(p)
 
       for (const link of document.querySelectorAll('a')) { 

@@ -4,7 +4,7 @@ const cssConscript = async () => {
 
   const style = document.createElement('style');
   style.type = 'text/css';
-  style.innerHTML = '.adv-slot-wrapper { display: none !important; } .ph-project-promo-container { display: none !important; } div.FDBh3 { display: none !important; }'
+  style.textContent = '.adv-slot-wrapper { display: none !important; } .ph-project-promo-container { display: none !important; } div.FDBh3 { display: none !important; }'
   let retries = 10
   const tryAppend = () => {
     console.log('Firefox tries')

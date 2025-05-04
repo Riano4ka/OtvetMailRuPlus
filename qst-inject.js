@@ -43,9 +43,9 @@
 
   if (window.__ASK1 || window.__ASK3) {
     const src = document.createElement('script')
-    src.innerHTML = 'var __RANDOM_CATS__ = ' + __ASK1 + ';'
-    src.innerHTML += 'var __USE_POLLS__ = ' + __ASK3 + ';'
-    src.innerHTML += 'var inje = ' + injectable.toString() + ';inje()'
+    src.textContent = 'var __RANDOM_CATS__ = ' + __ASK1 + ';'
+    src.textContent += 'var __USE_POLLS__ = ' + __ASK3 + ';'
+    src.textContent += 'var inje = ' + injectable.toString() + ';inje()'
     document.body.appendChild(src)
   }
 
