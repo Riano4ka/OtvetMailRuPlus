@@ -5,7 +5,9 @@
 
   "description": "Дополнительные возможности для приятного деградирования на лучшем в мире сайте.",
   "icons": {
-    "48": "icon/32.png"
+    "32": "icon/32.png",
+    "48": "icon/48.png",
+    "128": "icon/128.png"
   },
   "background": {
     "scripts": ["libs/browser-polyfill.js", "libs/fstore.js", "background.js"]
