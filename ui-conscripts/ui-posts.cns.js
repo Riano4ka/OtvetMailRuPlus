@@ -95,13 +95,17 @@ const initPostDeleter = () => {
             if (!ul) continue
             if (ul.innerHTML.includes('li-deleter')) continue
 
+            const pdelSvg = freiweb.renderSvg(16, 16, [
+              {'fill-rule': 'evenodd',
+              'd': 'M12.437 6a.463.463 0 01.464.489l-.367 6.679c0 1.104-.914 1.84-2.018 1.84H5.548c-1.103 0-2.017-.686-2.017-1.79l-.436-6.724A.462.462 0 013.558 6h8.879zM2.128 5a.529.529 0 01-.531-.525l.001-.012c0-.414.251-.769.608-.922.455-.241 1.681-.439 3.292-.542V1.41C5.498.632 6.13 0 6.908 0h2.184c.778 0 1.41.632 1.41 1.41v1.589c1.611.103 2.837.301 3.292.542.357.153.608.508.608.922 0 .297-.24.537-.537.537H2.128zm6.571-3.407H7.301A.301.301 0 007 1.894v1.041a46.454 46.454 0 012 0V1.894a.301.301 0 00-.301-.301z'}
+            ], 'Ainfb')
+
             const pdelLi = document.createElement('li')
             pdelLi.className = liClass + ' li-paid-deleter'
             const pdel = document.createElement('a')
             pdel.className = aClass
-            pdel.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="Ainfb">
-            <path fill-rule="evenodd" d="M12.437 6a.463.463 0 01.464.489l-.367 6.679c0 1.104-.914 1.84-2.018 1.84H5.548c-1.103 0-2.017-.686-2.017-1.79l-.436-6.724A.462.462 0 013.558 6h8.879zM2.128 5a.529.529 0 01-.531-.525l.001-.012c0-.414.251-.769.608-.922.455-.241 1.681-.439 3.292-.542V1.41C5.498.632 6.13 0 6.908 0h2.184c.778 0 1.41.632 1.41 1.41v1.589c1.611.103 2.837.301 3.292.542.357.153.608.508.608.922 0 .297-.24.537-.537.537H2.128zm6.571-3.407H7.301A.301.301 0 007 1.894v1.041a46.454 46.454 0 012 0V1.894a.301.301 0 00-.301-.301z"></path>
-            </svg>` + 'Удалить (35 руб.)'
+            pdel.appendChild(pdelSvg)
+            pdel.appendChild(document.createTextNode('Удалить (35 руб.)'))
             pdel.onclick = async (e) => {
                 e.preventDefault()
                 const { qid, aid } = getPostIds(ul)
@@ -114,13 +118,17 @@ const initPostDeleter = () => {
             pdelLi.appendChild(pdel)
             ul.appendChild(pdelLi)
 
+            const delSvg = freiweb.renderSvg(16, 16, [
+              {'fill-rule': 'evenodd',
+              'd': 'M12.437 6a.463.463 0 01.464.489l-.367 6.679c0 1.104-.914 1.84-2.018 1.84H5.548c-1.103 0-2.017-.686-2.017-1.79l-.436-6.724A.462.462 0 013.558 6h8.879zM2.128 5a.529.529 0 01-.531-.525l.001-.012c0-.414.251-.769.608-.922.455-.241 1.681-.439 3.292-.542V1.41C5.498.632 6.13 0 6.908 0h2.184c.778 0 1.41.632 1.41 1.41v1.589c1.611.103 2.837.301 3.292.542.357.153.608.508.608.922 0 .297-.24.537-.537.537H2.128zm6.571-3.407H7.301A.301.301 0 007 1.894v1.041a46.454 46.454 0 012 0V1.894a.301.301 0 00-.301-.301z'}
+            ], 'Ainfb')
+
             const deleterLi = document.createElement('li')
             deleterLi.className = liClass + ' li-deleter'
             const deleter = document.createElement('a')
             deleter.className = aClass
-            deleter.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="Ainfb">
-            <path fill-rule="evenodd" d="M12.437 6a.463.463 0 01.464.489l-.367 6.679c0 1.104-.914 1.84-2.018 1.84H5.548c-1.103 0-2.017-.686-2.017-1.79l-.436-6.724A.462.462 0 013.558 6h8.879zM2.128 5a.529.529 0 01-.531-.525l.001-.012c0-.414.251-.769.608-.922.455-.241 1.681-.439 3.292-.542V1.41C5.498.632 6.13 0 6.908 0h2.184c.778 0 1.41.632 1.41 1.41v1.589c1.611.103 2.837.301 3.292.542.357.153.608.508.608.922 0 .297-.24.537-.537.537H2.128zm6.571-3.407H7.301A.301.301 0 007 1.894v1.041a46.454 46.454 0 012 0V1.894a.301.301 0 00-.301-.301z"></path>
-            </svg>` + 'Удалить (0 руб.)'
+            deleter.appendChild(delSvg)
+            deleter.appendChild(document.createTextNode('Удалить (0 руб.)'))
             deleter.onclick = async (e) => {
                 e.preventDefault()
                 ul.style.display = 'none'

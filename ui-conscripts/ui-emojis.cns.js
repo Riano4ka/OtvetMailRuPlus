@@ -111,7 +111,8 @@ let runEmojis = () => {
 
                 const kebab = document.createElement('a')
                 kebab.role = 'link'
-                kebab.innerHTML = window._emojiKebab
+                const kebabSvg = document.getElementById('_emojiKebab')
+                if (kebabSvg) kebab.appendChild(kebabSvg)
                 kebab.style.userSelect = 'none'
                 kebab.title = 'Ещё эмодзи'
 
@@ -144,7 +145,7 @@ await freiweb.injectScriptFromUrl(browser.runtime.getURL('libs/emoji/emoji-ru.js
 await freiweb.injectScriptFromUrl(browser.runtime.getURL('libs/emoji/emoji-data.js'))
 await freiweb.injectScriptFromUrl(browser.runtime.getURL('libs/emoji/emoji-mart.js'))
 await freiweb.injectScriptFromUrl(browser.runtime.getURL('libs/emoji/emoji-popup.js'))
-await freiweb.injectSvgFromUrl(browser.runtime.getURL('icon/kebab.svg'), '_emojiKebab')
+await freiweb.injectSvgFromUrl(browser.runtime.getURL('icon/kebab.svg'), '_emojiKebab', true)
 
 freiweb.injectScript(runEmojis)
 

@@ -142,12 +142,38 @@ var freiweb = {
     freiweb.injectScript(scr)
   },
 
-  injectSvgFromUrl: async function(url, varName) {
+  injectSvgFromUrl: async function(url, varName, parse = false) {
     let scr = await fetch(url)
     scr = await scr.text()
+    if (parse) {
+      const parser = new DOMParser()
+      const doc = parser.parseFromString(scr, 'image/svg+xml')
+
+      doc.documentElement.id = varName
+      document.head.appendChild(doc.documentElement)
+      return
+    }
     scr = scr.split('"').join('\\"')
     scr = 'window.' + varName + ' = "' + scr + '"'
     freiweb.injectScript(scr)
+  },
+
+  renderSvg: (width, height, dPaths, className = '', ns = 'http://www.w3.org/2000/svg') => {
+    const svg = document.createElementNS(ns, 'svg')
+    svg.setAttribute('xmlns', ns)
+    svg.setAttribute('width', width)
+    svg.setAttribute('height', height)
+    svg.setAttribute('viewBox', '0 0 ' + parseInt(width) + ' ' + parseInt(height))
+    svg.setAttribute('class', className)
+
+    for (const dP of dPaths) {
+      const path = document.createElementNS(ns, 'path')
+      for (const [attr, val] of Object.entries(dP)) {
+        path.setAttribute(attr, val)
+      }
+      svg.appendChild(path)
+    }
+    return svg
   },
 
   makeRemover: function () {
