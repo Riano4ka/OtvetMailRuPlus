@@ -111,8 +111,15 @@ let runEmojis = () => {
 
                 const kebab = document.createElement('a')
                 kebab.role = 'link'
-                const kebabSvg = document.getElementById('_emojiKebab')
-                if (kebabSvg) kebab.appendChild(kebabSvg)
+                try {
+                    const kebabSvg = _renderSvg(16, 16, [
+                      {'fill-rule': 'evenodd',
+                      'd': 'M8 11.365a1.817 1.817 0 010 3.632 1.817 1.817 0 010-3.632zm0-5.191a1.826 1.826 0 010 3.65 1.826 1.826 0 010-3.65zm0-5.171a1.81 1.81 0 11-.001 3.617A1.81 1.81 0 018 1.003z'}
+                    ])
+                    kebab.appendChild(kebabSvg)
+                } catch {
+                    kebab.appendChild(document.createTextNode('...'))
+                }
                 kebab.style.userSelect = 'none'
                 kebab.title = 'Ещё эмодзи'
 
@@ -145,8 +152,8 @@ await freiweb.injectScriptFromUrl(browser.runtime.getURL('libs/emoji/emoji-ru.js
 await freiweb.injectScriptFromUrl(browser.runtime.getURL('libs/emoji/emoji-data.js'))
 await freiweb.injectScriptFromUrl(browser.runtime.getURL('libs/emoji/emoji-mart.js'))
 await freiweb.injectScriptFromUrl(browser.runtime.getURL('libs/emoji/emoji-popup.js'))
-await freiweb.injectSvgFromUrl(browser.runtime.getURL('icon/kebab.svg'), '_emojiKebab', true)
 
+freiweb.injectScript('var _renderSvg = ' + freiweb.copyLibFunc('renderSvg'))
 freiweb.injectScript(runEmojis)
 
 }
