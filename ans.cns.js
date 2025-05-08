@@ -14,48 +14,89 @@ async function ansCon() {
   sa = (sa && sa.auto_ans) || {}
   if (!sa.on) return
 
-  setInterval(() => {
+  let findEditTries = 0
+  let findQstTries = 0
+  let apiErrors = 0
+  let outgoing
+
+  const reloadQsts = () => {
+    const rootLink = document.querySelector('a[href="/"]')
+    if (!rootLink) { // in theory, it should work with 502 or 'Нет доступа к сети!'
+      window.location.href = '/'
+      outgoing = true
+    } else {
+      rootLink.click()
+    }
+  }
+
+  setInterval(async () => {
+    if (outgoing) return
+
+    if (document.body.textContent.includes('Ответ не опубликован. Невозможно опубликовать ответ: вы уже отвечали ')) {
+      reloadQsts()
+      return
+    } else if (document.body.textContent.includes('За сегодняшний день') || document.body.textContent.includes('временно ограничен') ) {
+      document.body.innerHTML = 'Going to recreate account...'
+      window.location.href = 'https://account.mail.ru/user/delete'
+      outgoing = true
+      return
+    } else if (document.body.textContent.includes('Что-то пошло не так')) {
+      if (++apiErrors >= 10) {
+        apiErrors = 0
+        reloadQsts()
+        return
+      }
+    } else {
+      apiErrors = 0
+    }
+
     if (window.location.href.startsWith('https://otvet.mail.ru/question')) {
       let str = sa.text
 
       str = freiweb.randomizeStr(str, sa.letter)
 
-      const inp = document.querySelectorAll('div[contenteditable="true"]')[0]
+      let inp = document.querySelectorAll('div[contenteditable="true"]')[0]
 
       if (!inp) {
-        const parts = window.location.href.split('/')
-        const qid = parts[parts.length - 1]
-        qids.push(qid)
-        const rootLink = document.querySelector('a[href="/"]')
-        rootLink.click()
+        if (++findEditTries >= 10) {
+          findEditTries = 0
+
+          const parts = window.location.href.split('/')
+          const qid = parts[parts.length - 1]
+          qids.push(qid)
+          reloadQsts()
+        }
         return
+      } else {
+        findEditTries = 0
       }
 
       let p = document.createElement('p')
       p.textContent = str
-      if (!inp.textContent.includes(str))
+      const existPars = inp.querySelectorAll('p')
+      if (existPars.length) inp.removeChild(existPars[existPars.length - 1])
       inp.appendChild(p)
 
+      let buttonFound
       for (const link of document.querySelectorAll('a')) { 
         if (link.textContent.includes('Ответить')) {
           if (!link.title) {
+            buttonFound = true
+
             link.click()
 
             const parts = window.location.href.split('/')
             const qid = parts[parts.length - 1]
             qids.push(qid)
 
-            setTimeout(() => {
-              if (document.body.textContent.includes('Ответ не опубликован. Невозможно опубликовать ответ: вы уже отвечали ')) {
-                const rootLink = document.querySelector('a[href="/"]')
-                rootLink.click()
-              } else if (document.body.textContent.includes('За сегодняшний день') || document.body.textContent.includes('временно ограничен') ) {
-                window.location.href = 'https://account.mail.ru/user/delete'
-              }
-            }, 300)
+            // it cannot detect posted answer, so decrease timeout to do not hang too long
+            findEditTries = 9
             break;
           }
         }
+      }
+      if (!buttonFound) {
+        reloadQsts()
       }
     } else if (window.location.href.startsWith('https://otvet.mail.ru')) {
 
@@ -75,10 +116,17 @@ async function ansCon() {
           }
         }
       }
-      if (!found && lastLink) {
-        setTimeout(() => {
+
+      if (!found) {
+        ++findQstTries
+        if (findQstTries >= 5 && lastLink) {
           lastLink.click()
-        }, 2000)
+        } else if (findQstTries >= 10) {
+          findQstTries = 0
+          window.location.reload()
+        }
+      } else {
+        findQstTries = 0
       }
     }
   }, 500)
