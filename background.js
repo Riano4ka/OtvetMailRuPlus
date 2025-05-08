@@ -138,3 +138,9 @@ const mainMenu = async () => {
 }
 
 mainMenu()
+
+browser.runtime.onInstalled.addListener((details) => {
+  if (details?.reason !== 'install') return
+  const url = browser.runtime.getURL('addon-ui/installed.html')
+  browser.tabs.create({ url })
+})
