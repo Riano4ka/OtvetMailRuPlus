@@ -1,0 +1,12 @@
+form {
+  margin-bottom: 0px;
+}
+
+.form-check {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.form-switch {
+  float: right;
+}

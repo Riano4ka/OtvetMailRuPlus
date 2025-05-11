@@ -48,10 +48,12 @@ const spamQst = (spam_qsts) => {
   return res
 }
 
-browser.browserAction.onClicked.addListener(async (tab) => {
-  const ts = await browser.tabs.query({currentWindow: true, active: true})
+browser.action.setPopup({ popup: 'addon-ui/popup.html' })
 
+const spamQstClicked = async (sendResponse) => {
   try {
+    const ts = await browser.tabs.query({currentWindow: true, active: true})
+
     const storage = browser.storage.local // TODO: sync is better but not supports Temporary Addon IDs, and...
     const getStorage = async () => {
       try {
@@ -64,80 +66,38 @@ browser.browserAction.onClicked.addListener(async (tab) => {
     if (sq && sq.spam_qsts && sq.spam_qsts.on && ts && ts[0] && ts[0].url.startsWith('https://otvet.mail.ru')) {
       let rr = spamQst(sq.spam_qsts)
       rr = rr.split('"').join('\\"')
-      await browser.tabs.executeScript(ts[0].id, {code: 'window.__ASK0 = "' + rr
-        + '";window.__ASK1 = ' + sq.spam_qsts.random_cats
-        + ';window.__ASK2 = "' + sq.spam_qsts.mode
-        + '";window.__ASK3 = ' + sq.spam_qsts.use_polls
-        + ';'
+      function injectable(rr, random_cats, mode, use_polls) {
+        window.__ASK0 = rr
+        window.__ASK1 = random_cats
+        window.__ASK2 = mode
+        window.__ASK3 = use_polls
+      }
+      const target = { tabId: ts[0].id }
+      await browser.scripting.executeScript({
+        target,
+        func: injectable,
+        args: [rr, sq.spam_qsts.random_cats, sq.spam_qsts.mode, sq.spam_qsts.use_polls],
       })
-      browser.tabs.executeScript(ts[0].id, {file: 'qst-inject.js'})
+      browser.scripting.executeScript({
+        target,
+        files: ['qst-inject.js'],
+      })
       return
     }
+    sendResponse({})
   } catch (err) {
     console.error('Cannot spam qsts:', err)
+    sendResponse({ error: err?.message })
   }
-});
-
-const mainMenu = async () => {
-  browser.contextMenus.create({
-    "title": "Постинг вопросов",
-    "contexts": ["browser_action"],
-    "onclick": () => {
-      browser.windows.create({
-        url: browser.runtime.getURL("qst.html"),
-        type: "popup",
-        height: 700,
-        width: 500,
-      });
-    }
-  });
-
-  browser.contextMenus.create({
-    "title": "Автоответчик",
-    "contexts": ["browser_action"],
-    "onclick": () => {
-      browser.windows.create({
-        url: browser.runtime.getURL("answer/ans.html"),
-        type: "popup",
-        height: 350,
-        width: 500,
-      });
-    }
-  });
-
-  browser.contextMenus.create({
-    type: 'separator',
-    "contexts": ["browser_action"],
-  });
-
-  let blockAds = await fstore.get('cfg-block-ads')
-  if (blockAds === undefined) blockAds = true
-
-  browser.contextMenus.create({
-    type: 'checkbox',
-    "title": "Скрывать баннеры и т.д.",
-    "contexts": ["browser_action"],
-    checked: blockAds,
-    "onclick": async (e) => {
-      await fstore.set('cfg-block-ads', e.checked)
-    }
-  });
-
-  let showBans = await fstore.get('cfg-show-bans')
-  if (showBans === undefined) showBans = true
-
-  browser.contextMenus.create({
-    type: 'checkbox',
-    "title": "Читать профили забаненных",
-    "contexts": ["browser_action"],
-    checked: showBans,
-    "onclick": async (e) => {
-      await fstore.set('cfg-show-bans', e.checked)
-    }
-  })
 }
 
-mainMenu()
+browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
+  let { msg, avatar } = message
+  if (msg === 'post_qst') {
+    spamQstClicked(sendResponse)
+  }
+  return true
+})
 
 browser.runtime.onInstalled.addListener((details) => {
   if (details?.reason !== 'install') return
