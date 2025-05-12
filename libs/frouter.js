@@ -26,22 +26,16 @@ var frouter = {
     checkRoute()
   },
 
-  // ponyfill for Navigation API
   addNavigateListener: async function(handler) {
-    if (typeof(navigation) !== 'undefined' && navigation.addEventListener) { // 04.2025 - only Chrome
-      navigation.addEventListener('navigate', handler)
-      return { observer: null }
-    } else {
-      const body = await freiweb.waitForIt(() => document.body, 30000)
-      let oldLocation = location.href
-      const observer = new MutationObserver(async (mutations) => {
-        if (location.href !== oldLocation) {
-          oldLocation = location.href
-          handler()
-        }
-      })
-      observer.observe(body, { childList: true, subtree: true })
-      return { observer }
-    }
+    const body = await freiweb.waitForIt(() => document.body, 30000)
+    let oldLocation = location.href
+    const observer = new MutationObserver(async (mutations) => {
+      if (location.href !== oldLocation) {
+        oldLocation = location.href
+        handler()
+      }
+    })
+    observer.observe(body, { childList: true, subtree: true })
+    return { observer }
   }
 }
