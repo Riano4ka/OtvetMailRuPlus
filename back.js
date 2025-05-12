@@ -90,7 +90,7 @@ const spamQstClicked = async (sendResponse) => {
 }
 
 browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
-  let { msg, avatar } = message
+  let { msg } = message
   if (msg === 'post_qst') {
     spamQstClicked(sendResponse)
   }
