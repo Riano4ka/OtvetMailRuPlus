@@ -1,5 +1,11 @@
 async function main() {
 
+if (navigator.userAgent.includes('Firefox')) {
+  document.querySelectorAll('.list-group').forEach(group => {
+    group.classList.add('list-group-flush')
+  })
+}
+
 const form = document.forms[0]
 
 const { qst, ans, ans_on,

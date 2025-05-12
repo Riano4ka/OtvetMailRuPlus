@@ -17,7 +17,8 @@
     "default_title": "OMR Plus",
     "default_icon": {
       "32": "icon/32.png"
-    }
+    },
+    "default_popup": "addon-ui/popup.html"
   },
   "permissions": [
     "tabs",
@@ -46,6 +47,8 @@
   }],
   "web_accessible_resources": [{
     "matches": [ "*://otvet.mail.ru/*" ],
-    "resources": [ "libs/emoji/emoji-ru.js", "libs/emoji/emoji-data.js", "libs/emoji/emoji-mart.js", "libs/emoji/emoji-popup.js" ]
+    "resources": [ "libs/emoji/emoji-ru.js", "libs/emoji/emoji-data.js", "libs/emoji/emoji-mart.js", "libs/emoji/emoji-popup.js",
+      "net-filter.inject.js", "ui-conscripts/ui-emojis.inject.js"
+    ]
   }]
 }

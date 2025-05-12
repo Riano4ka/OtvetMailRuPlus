@@ -77,6 +77,10 @@ class EmojiPopup {
     }
 }
 
-customElements.define('em-picker', EmojiMart.Picker) 
+try {
+  customElements.define('em-picker', EmojiMart.Picker) 
+} catch (err) {
+  console.error('Warning:', err)
+}
 
 window.EmojiPopup = EmojiPopup

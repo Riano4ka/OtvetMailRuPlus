@@ -48,8 +48,6 @@ const spamQst = (spam_qsts) => {
   return res
 }
 
-browser.action.setPopup({ popup: 'addon-ui/popup.html' })
-
 const spamQstClicked = async (sendResponse) => {
   try {
     const ts = await browser.tabs.query({currentWindow: true, active: true})
