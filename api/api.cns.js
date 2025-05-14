@@ -1,3 +1,17 @@
+const withPath = (path, func) => {
+  return func(path || location.pathname)
+}
+const isAnswer = (path) => {
+  return withPath(path, (p) => p.startsWith('/answer/'))
+}
+const isQstOrAns = (path) => {
+  return withPath(path, (p) => p.startsWith('/question/'))
+    || isAnswer(path)
+}
+const isProfile = (path) => {
+  return withPath(path, (p) => p.startsWith('/profile/'))
+}
+
 const throwIfError = (res) => {
   if (res.error) {
     console.log(res)

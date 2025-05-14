@@ -9,7 +9,7 @@ if (navigator.userAgent.includes('Firefox')) {
 const form = document.forms[0]
 
 const { qst, ans, ans_on,
-  block_ads, block_ads_on, show_bans, show_bans_on } = form
+  block_ads, block_ads_on, show_bans, show_bans_on, protect_imgs, protect_imgs_on } = form
 
 const storage = browser.storage.local
 const getStorage = async () => {
@@ -42,6 +42,10 @@ block_ads_on.checked = blockAds
 let showBans = await fstore.get('cfg-show-bans')
 if (showBans === undefined) showBans = true
 show_bans_on.checked = showBans
+
+let protectImgs = await fstore.get('cfg-protect-imgs')
+if (protectImgs === undefined) protectImgs = true
+protect_imgs_on.checked = protectImgs
 
 qst.onclick = (e) => {
   browser.windows.create({
@@ -95,6 +99,17 @@ show_bans_on.onclick = async (e) => {
 
 show_bans.onclick = (e) => {
   show_bans_on.click()
+}
+
+protect_imgs_on.onclick = async (e) => {
+  e.stopPropagation()
+  protectImgs = !protectImgs
+  await fstore.set('cfg-protect-imgs', protectImgs)
+  window.close()
+}
+
+protect_imgs.onclick = (e) => {
+  protect_imgs_on.click()
 }
 
 }

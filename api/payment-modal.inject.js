@@ -13,7 +13,6 @@ var openPaymentModal = (paymentSrc) => {
 }
 
 window.addEventListener('message', async (msg) => {
-  console.log(msg)
   if (!msg?.data) return
   const { type, paymentSrc } = msg.data
   if (type === 'openPaymentModal') {

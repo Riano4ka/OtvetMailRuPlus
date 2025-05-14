@@ -39,6 +39,7 @@
       "ui-conscripts/ui-bulk.cns.js", "ui-conscripts/ui-emojis.cns.js",
       "ui-conscripts/ui-quick-ask.cns.js",
       "ui-conscripts/ui-profile.cns.js", "ui-conscripts/ui-posts.cns.js",
+      "ui-conscripts/ui-img-protect.cns.js",
 
       "net-filter.cns.js"
     ],
@@ -49,6 +50,7 @@
     "matches": [ "*://otvet.mail.ru/*" ],
     "resources": [ "libs/emoji/emoji-ru.js", "libs/emoji/emoji-data.js", "libs/emoji/emoji-mart.js", "libs/emoji/emoji-popup.js",
       "net-filter.inject.js", "ui-conscripts/ui-emojis.inject.js",
+      "ui-conscripts/ui-img-protect.inject.js",
       "api/payment-modal.inject.js"
     ]
   }]
