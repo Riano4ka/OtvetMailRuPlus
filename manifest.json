@@ -2,6 +2,11 @@
   "manifest_version": 3,
   "name": "Ответы@Майл.ру+",
   "version": "1.0.4",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{cc256708-2703-4df8-b93e-51fbc7a7ff8a}"
+    }
+  },
 
   "description": "Дополнительные возможности для приятного деградирования на лучшем в мире сайте.",
   "icons": {
