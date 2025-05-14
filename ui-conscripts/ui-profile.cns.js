@@ -79,9 +79,13 @@ const addBuyVip = async () => {
     vipBtn.className = giftBtn.className
     vipBtn.style.marginTop = '10px'
     vipBtn.appendChild(vipSvg)
-    vipBtn.onclick = (e) => {
+    vipBtn.onclick = async (e) => {
         e.preventDefault()
-        showPaymentModal('mvip', uid)
+        try {
+            await showPaymentModal('mvip', uid)
+        } catch (err) {
+            alert(err?.message)
+        }
     }
     const span = document.createElement('span')
     span.textContent = 'Купить VIP-статус'

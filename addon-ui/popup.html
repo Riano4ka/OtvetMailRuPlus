@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>Ответы@Майл.ру+</title>
+<meta charset="utf-8"/>
+<link href="../bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body>
+<form>
+<div class="list-group">
+  <button type="button" name="qst" class="list-group-item list-group-item-action">Постинг вопросов</button>
+  <button type="button" name="ans" class="list-group-item list-group-item-action">
+    Автоответчик
+    <div class="form-check form-switch">
+      <input class="form-check-input" name="ans_on" type="checkbox" role="switch">
+    </div>
+  </button>
+  <button type="button" name="block_ads" class="list-group-item list-group-item-action">
+    <div class="form-check">
+      <input class="form-check-input" name="block_ads_on" type="checkbox">
+    </div>
+    Скрывать баннеры и т.д.
+  </button>
+  <button type="button" name="show_bans" class="list-group-item list-group-item-action">
+    <div class="form-check">
+      <input class="form-check-input" name="show_bans_on" type="checkbox">
+    </div>
+    Читать профили забаненных
+  </button>
+  <button type="button" name="protect_imgs" class="list-group-item list-group-item-action">
+    <div class="form-check">
+      <input class="form-check-input" name="protect_imgs_on" type="checkbox">
+    </div>
+    Защита от шокирующих GIF
+  </button>
+</div>
+</form>
+<script src="../libs/browser-polyfill.js"></script>
+<script src="../libs/fstore.js"></script>
+<script src="popup.js"></script>
+<link href="popup.css" rel="stylesheet">
+</body>
+</html>

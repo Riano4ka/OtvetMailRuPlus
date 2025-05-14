@@ -1,7 +1,12 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Ответы@Майл.ру+",
-  "version": "1.0",
+  "version": "1.0.4",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{cc256708-2703-4df8-b93e-51fbc7a7ff8a}"
+    }
+  },
 
   "description": "Дополнительные возможности для приятного деградирования на лучшем в мире сайте.",
   "icons": {
@@ -10,18 +15,22 @@
     "128": "icon/128.png"
   },
   "background": {
-    "scripts": ["libs/browser-polyfill.js", "libs/fstore.js", "background.js"]
+    "scripts": ["libs/browser-polyfill.js", "libs/fstore.js", "back.js"],
+    "service_worker": "back-sw.js"
   },
-  "browser_action": {
+  "action": {
     "default_title": "OMR Plus",
     "default_icon": {
       "32": "icon/32.png"
-    }
+    },
+    "default_popup": "addon-ui/popup.html"
   },
   "permissions": [
     "tabs",
-    "contextMenus",
-    "storage",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
     "http://*.mail.ru/*",
     "https://*.mail.ru/*"
   ],
@@ -31,17 +40,23 @@
       "css.cns.js", "ans.cns.js",
 
       "libs/emoji/emoji-ru.js", "libs/emoji/emoji-data.js", "libs/emoji/emoji-mart.js", "libs/emoji/emoji-popup.js",
-      "api.cns.js",
+      "api/api.cns.js",
       "ui-conscripts/ui-bulk.cns.js", "ui-conscripts/ui-emojis.cns.js",
+      "ui-conscripts/ui-quick-ask.cns.js",
       "ui-conscripts/ui-profile.cns.js", "ui-conscripts/ui-posts.cns.js",
+      "ui-conscripts/ui-img-protect.cns.js",
 
       "net-filter.cns.js"
     ],
     "matches": [ "*://otvet.mail.ru/*" ],
     "run_at": "document_start"
   }],
-  "web_accessible_resources": [
-    "libs/emoji/emoji-ru.js", "libs/emoji/emoji-data.js", "libs/emoji/emoji-mart.js", "libs/emoji/emoji-popup.js",
-    "icon/kebab.svg"
-  ]
+  "web_accessible_resources": [{
+    "matches": [ "*://otvet.mail.ru/*" ],
+    "resources": [ "libs/emoji/emoji-ru.js", "libs/emoji/emoji-data.js", "libs/emoji/emoji-mart.js", "libs/emoji/emoji-popup.js",
+      "net-filter.inject.js", "ui-conscripts/ui-emojis.inject.js",
+      "ui-conscripts/ui-img-protect.inject.js",
+      "api/payment-modal.inject.js"
+    ]
+  }]
 }

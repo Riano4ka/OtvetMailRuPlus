@@ -109,10 +109,14 @@ const initPostDeleter = () => {
             pdel.onclick = async (e) => {
                 e.preventDefault()
                 const { qid, aid } = getPostIds(ul)
-                if (!aid) {
-                    await showPaymentModal('mhideqst', qid)
-                } else {
-                    await showPaymentModal('mhideans', aid)
+                try {
+                    if (!aid) {
+                        await showPaymentModal('mhideqst', qid)
+                    } else {
+                        await showPaymentModal('mhideans', aid)
+                    }
+                } catch (err) {
+                    alert(err?.message)
                 }
             }
             pdelLi.appendChild(pdel)
@@ -134,10 +138,15 @@ const initPostDeleter = () => {
                 ul.style.display = 'none'
 
                 const { qid, aid } = getPostIds(ul)
-                if (!aid) {
-                    await deleteQst(qid)
-                } else {
-                    await deleteAnswer(qid, aid)
+                try {
+                    if (!aid) {
+                        await deleteQst(qid)
+                    } else {
+                        await deleteAnswer(qid, aid)
+                    }
+                } catch (err) {
+                    alert(err?.message)
+                    return
                 }
 
                 document.body.style.pointerEvents = 'none'

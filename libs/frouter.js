@@ -24,5 +24,18 @@ var frouter = {
       }, 500)
     }
     checkRoute()
+  },
+
+  addNavigateListener: async function(handler) {
+    const body = await freiweb.waitForIt(() => document.body, 30000)
+    let oldLocation = location.href
+    const observer = new MutationObserver(async (mutations) => {
+      if (location.href !== oldLocation) {
+        oldLocation = location.href
+        handler()
+      }
+    })
+    observer.observe(body, { childList: true, subtree: true })
+    return { observer }
   }
 }

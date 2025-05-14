@@ -119,6 +119,7 @@ var freiweb = {
     return code
   },
 
+  // manifest v3 deprecates it
   injectScript: function (func, mutations = null) {
     let code
     if (typeof func === 'string' || func instanceof String) {
@@ -136,10 +137,19 @@ var freiweb = {
     document.documentElement.appendChild(scr)
   },
 
+  // manifest v3 deprecates it
   injectScriptFromUrl: async function (url) {
     let scr = await fetch(url)
     scr = await scr.text()
     freiweb.injectScript(scr)
+  },
+
+  injectScriptWithUrl: function (url, async = false) {
+    const scr = document.createElement('script')
+    scr.id = freiweb.makeId()
+    scr.src = url
+    scr.async = async
+    document.documentElement.appendChild(scr)
   },
 
   injectSvgFromUrl: async function(url, varName, parse = false) {

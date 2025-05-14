@@ -1,4 +1,4 @@
-window._emojiData = 
+window._emojiData =
 {
   "categories": [
     {
@@ -1925,7 +1925,15 @@ window._emojiData =
         "exam",
         "quiz",
         "test",
-        "pass"
+        "pass",
+        "сто",
+        "оценка",
+        "идеально",
+        "числа",
+        "век",
+        "экзамен",
+        "тест",
+        "прошёл"
       ],
       "skins": [
         {
@@ -1945,7 +1953,10 @@ window._emojiData =
         "1",
         "2",
         "3",
-        "4"
+        "4",
+        "цифры",
+        "синий",
+        "квадрат"
       ],
       "skins": [
         {
@@ -1966,7 +1977,11 @@ window._emojiData =
         "happy",
         "joy",
         ":D",
-        "grin"
+        "grin",
+        "улыбка",
+        "счастье",
+        "радость",
+        "улыбаться"
       ],
       "skins": [
         {
@@ -1992,7 +2007,12 @@ window._emojiData =
         ":D",
         ":)",
         "smile",
-        "funny"
+        "funny",
+        "улыбка",
+        "счастье",
+        "радость",
+        "весело",
+        "смех"
       ],
       "skins": [
         {
@@ -2022,7 +2042,12 @@ window._emojiData =
         "like",
         ":D",
         ":)",
-        "смех"
+        "смех",
+        "улыбка",
+        "счастье",
+        "радость",
+        "весело",
+        "нравится"
       ],
       "skins": [
         {
@@ -2040,7 +2065,11 @@ window._emojiData =
         "happy",
         "smile",
         "joy",
-        "kawaii"
+        "kawaii",
+        "улыбка",
+        "счастье",
+        "радость",
+        "мило"
       ],
       "skins": [
         {
@@ -2067,7 +2096,12 @@ window._emojiData =
         "glad",
         "XD",
         "laugh",
-        "смех"
+        "смех",
+        "смеяться",
+        "доволен",
+        "счастье",
+        "радость",
+        "весело"
       ],
       "skins": [
         {
@@ -2086,7 +2120,11 @@ window._emojiData =
         "happy",
         "laugh",
         "relief",
-        "смех"
+        "смех",
+        "улыбка",
+        "жарко",
+        "счастье",
+        "облегчение"
       ],
       "skins": [
         {
@@ -2104,7 +2142,10 @@ window._emojiData =
         "lol",
         "haha",
         "rofl",
-        "смех"
+        "смех",
+        "смеяться",
+        "весело",
+        "хохот"
       ],
       "skins": [
         {
@@ -2122,7 +2163,13 @@ window._emojiData =
         "weep",
         "happy",
         "happytears",
-        "haha"
+        "haha",
+        "плакать",
+        "слёзы",
+        "слезы",
+        "счастье",
+        "радость",
+        "смех"
       ],
       "skins": [
         {
@@ -2141,7 +2188,8 @@ window._emojiData =
         ":-)"
       ],
       "keywords": [
-        "smile"
+        "smile",
+        "улыбка"
       ],
       "skins": [
         {
@@ -2159,7 +2207,10 @@ window._emojiData =
         "down",
         "flipped",
         "silly",
-        "smile"
+        "smile",
+        "перевёрнутый",
+        "глупый",
+        "улыбка"
       ],
       "skins": [
         {
@@ -2174,7 +2225,10 @@ window._emojiData =
       "name": "Melting Face",
       "keywords": [
         "hot",
-        "heat"
+        "heat",
+        "жарко",
+        "тепло",
+        "таять"
       ],
       "skins": [
         {
@@ -2198,7 +2252,12 @@ window._emojiData =
         "secret",
         ";)",
         "smile",
-        "eye"
+        "eye",
+        "подмигнуть",
+        "счастье",
+        "шалость",
+        "секрет",
+        "улыбка"
       ],
       "skins": [
         {
@@ -2222,7 +2281,14 @@ window._emojiData =
         "crush",
         "embarrassed",
         "shy",
-        "joy"
+        "joy",
+        "румянец",
+        "улыбка",
+        "счастье",
+        "смущение",
+        "влюблённость",
+        "застенчивый",
+        "радость"
       ],
       "skins": [
         {
@@ -2238,7 +2304,10 @@ window._emojiData =
       "keywords": [
         "innocent",
         "angel",
-        "heaven"
+        "heaven",
+        "невинный",
+        "ангел",
+        "небеса"
       ],
       "skins": [
         {
@@ -2259,7 +2328,13 @@ window._emojiData =
         "valentines",
         "infatuation",
         "crush",
-        "adore"
+        "adore",
+        "любовь",
+        "нравится",
+        "привязанность",
+        "валентинки",
+        "влюблённость",
+        "обожать"
       ],
       "skins": [
         {
@@ -2285,7 +2360,11 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "нравится",
+        "привязанность",
+        "валентинки",
+        "влюблённость"
       ],
       "skins": [
         {
@@ -2306,7 +2385,11 @@ window._emojiData =
         "with",
         "eyes",
         "smile",
-        "starry"
+        "starry",
+        "звёзды",
+        "улыбка",
+        "восторг",
+        "звёздный"
       ],
       "skins": [
         {
@@ -2334,7 +2417,12 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "поцелуй",
+        "нравится",
+        "привязанность",
+        "валентинки",
+        "влюблённость"
       ],
       "skins": [
         {
@@ -2353,7 +2441,12 @@ window._emojiData =
         "3",
         "valentines",
         "infatuation",
-        "kiss"
+        "kiss",
+        "любовь",
+        "нравится",
+        "поцелуй",
+        "валентинки",
+        "влюблённость"
       ],
       "skins": [
         {
@@ -2370,7 +2463,11 @@ window._emojiData =
         "relaxed",
         "blush",
         "massage",
-        "happiness"
+        "happiness",
+        "расслабленный",
+        "румянец",
+        "массаж",
+        "счастье"
       ],
       "skins": [
         {
@@ -2389,7 +2486,13 @@ window._emojiData =
         "affection",
         "valentines",
         "infatuation",
-        "kiss"
+        "kiss",
+        "любовь",
+        "нравится",
+        "привязанность",
+        "валентинки",
+        "влюблённость",
+        "поцелуй"
       ],
       "skins": [
         {
@@ -2406,7 +2509,11 @@ window._emojiData =
         "affection",
         "valentines",
         "infatuation",
-        "kiss"
+        "kiss",
+        "привязанность",
+        "валентинки",
+        "влюблённость",
+        "поцелуй"
       ],
       "skins": [
         {
@@ -2422,7 +2529,10 @@ window._emojiData =
       "keywords": [
         "sad",
         "cry",
-        "pretend"
+        "pretend",
+        "грусть",
+        "плакать",
+        "притворяться"
       ],
       "skins": [
         {
@@ -2445,7 +2555,13 @@ window._emojiData =
         "yummy",
         "nom",
         "delicious",
-        "savouring"
+        "savouring",
+        "вкусно",
+        "счастье",
+        "радость",
+        "улыбка",
+        "глупый",
+        "аппетитно"
       ],
       "skins": [
         {
@@ -2473,7 +2589,12 @@ window._emojiData =
         "childish",
         "playful",
         "mischievous",
-        "smile"
+        "smile",
+        "язык",
+        "шалость",
+        "детский",
+        "игривый",
+        "улыбка"
       ],
       "skins": [
         {
@@ -2503,7 +2624,13 @@ window._emojiData =
         "playful",
         "mischievous",
         "smile",
-        "wink"
+        "wink",
+        "язык",
+        "подмигнуть",
+        "шалость",
+        "детский",
+        "игривый",
+        "улыбка"
       ],
       "skins": [
         {
@@ -2525,7 +2652,10 @@ window._emojiData =
         "small",
         "eye",
         "goofy",
-        "crazy"
+        "crazy",
+        "сумасшедший",
+        "глупый",
+        "весёлый"
       ],
       "skins": [
         {
@@ -2546,7 +2676,13 @@ window._emojiData =
         "prank",
         "playful",
         "mischievous",
-        "smile"
+        "smile",
+        "язык",
+        "закрытые",
+        "глаза",
+        "шалость",
+        "игривый",
+        "улыбка"
       ],
       "skins": [
         {
@@ -2563,7 +2699,10 @@ window._emojiData =
         "money",
         "mouth",
         "rich",
-        "dollar"
+        "dollar",
+        "деньги",
+        "богатство",
+        "доллар"
       ],
       "skins": [
         {
@@ -2578,7 +2717,9 @@ window._emojiData =
       "name": "Hugging Face",
       "keywords": [
         "smile",
-        "hug"
+        "hug",
+        "улыбка",
+        "объятия"
       ],
       "skins": [
         {
@@ -2598,7 +2739,12 @@ window._emojiData =
         "covering",
         "whoops",
         "shock",
-        "surprise"
+        "surprise",
+        "улыбка",
+        "рука",
+        "рот",
+        "удивление",
+        "шок"
       ],
       "skins": [
         {
@@ -2615,7 +2761,11 @@ window._emojiData =
         "silence",
         "secret",
         "shock",
-        "surprise"
+        "surprise",
+        "тишина",
+        "секрет",
+        "шок",
+        "удивление"
       ],
       "skins": [
         {
@@ -2632,7 +2782,11 @@ window._emojiData =
         "scared",
         "frightening",
         "embarrassing",
-        "shy"
+        "shy",
+        "страх",
+        "пугающий",
+        "смущение",
+        "застенчивый"
       ],
       "skins": [
         {
@@ -2652,7 +2806,10 @@ window._emojiData =
         "closed",
         "lips",
         "quiet",
-        "shhh"
+        "shhh",
+        "тишина",
+        "тсс",
+        "молчать"
       ],
       "skins": [
         {
@@ -2668,7 +2825,10 @@ window._emojiData =
       "keywords": [
         "hmmm",
         "think",
-        "consider"
+        "consider",
+        "хм",
+        "думать",
+        "размышлять"
       ],
       "skins": [
         {
@@ -2683,7 +2843,9 @@ window._emojiData =
       "name": "Saluting Face",
       "keywords": [
         "respect",
-        "salute"
+        "salute",
+        "уважение",
+        "салют"
       ],
       "skins": [
         {
@@ -2700,7 +2862,11 @@ window._emojiData =
         "zipper",
         "mouth",
         "sealed",
-        "secret"
+        "secret",
+        "молния",
+        "рот",
+        "запечатанный",
+        "секрет"
       ],
       "skins": [
         {
@@ -2719,7 +2885,11 @@ window._emojiData =
         "scepticism",
         "disapproval",
         "disbelief",
-        "surprise"
+        "surprise",
+        "недоверие",
+        "скептицизм",
+        "неодобрение",
+        "удивление"
       ],
       "skins": [
         {
@@ -2740,7 +2910,9 @@ window._emojiData =
         "indifference",
         "meh",
         ":",
-        ""
+        "",
+        "равнодушие",
+        "нейтральный"
       ],
       "skins": [
         {
@@ -2761,7 +2933,9 @@ window._emojiData =
         "-",
         "",
         "meh",
-        "deadpan"
+        "deadpan",
+        "равнодушие",
+        "безэмоциональный"
       ],
       "skins": [
         {
@@ -2776,7 +2950,9 @@ window._emojiData =
       "name": "Face Without Mouth",
       "keywords": [
         "no",
-        "hellokitty"
+        "hellokitty",
+        "без",
+        "рот"
       ],
       "skins": [
         {
@@ -2793,7 +2969,11 @@ window._emojiData =
         "invisible",
         "lonely",
         "isolation",
-        "depression"
+        "depression",
+        "невидимый",
+        "одинокий",
+        "изоляция",
+        "депрессия"
       ],
       "skins": [
         {
@@ -2809,7 +2989,10 @@ window._emojiData =
       "keywords": [
         "shower",
         "steam",
-        "dream"
+        "dream",
+        "туман",
+        "пар",
+        "мечта"
       ],
       "skins": [
         {
@@ -2828,7 +3011,12 @@ window._emojiData =
         "mean",
         "prank",
         "smug",
-        "sarcasm"
+        "sarcasm",
+        "ухмылка",
+        "улыбка",
+        "шалость",
+        "самодовольный",
+        "сарказм"
       ],
       "skins": [
         {
@@ -2854,7 +3042,13 @@ window._emojiData =
         "skeptical",
         "dubious",
         "side",
-        "eye"
+        "eye",
+        "равнодушие",
+        "скука",
+        "серьёзный",
+        "сарказм",
+        "не впечатлён",
+        "скептический"
       ],
       "skins": [
         {
@@ -2869,7 +3063,10 @@ window._emojiData =
       "name": "Face with Rolling Eyes",
       "keywords": [
         "eyeroll",
-        "frustrated"
+        "frustrated",
+        "закатить",
+        "глаза",
+        "раздражение"
       ],
       "skins": [
         {
@@ -2884,7 +3081,9 @@ window._emojiData =
       "name": "Grimacing Face",
       "keywords": [
         "grimace",
-        "teeth"
+        "teeth",
+        "гримаса",
+        "зубы"
       ],
       "skins": [
         {
@@ -2901,7 +3100,10 @@ window._emojiData =
         "relieve",
         "relief",
         "tired",
-        "sigh"
+        "sigh",
+        "облегчение",
+        "усталость",
+        "вздох"
       ],
       "skins": [
         {
@@ -2916,7 +3118,9 @@ window._emojiData =
       "name": "Lying Face",
       "keywords": [
         "lie",
-        "pinocchio"
+        "pinocchio",
+        "ложь",
+        "пиноккио"
       ],
       "skins": [
         {
@@ -2933,7 +3137,11 @@ window._emojiData =
         "dizzy",
         "shock",
         "blurry",
-        "earthquake"
+        "earthquake",
+        "головокружение",
+        "шок",
+        "размыто",
+        "землетрясение"
       ],
       "skins": [
         {
@@ -2950,7 +3158,11 @@ window._emojiData =
         "relaxed",
         "phew",
         "massage",
-        "happiness"
+        "happiness",
+        "расслабленный",
+        "фух",
+        "массаж",
+        "счастье"
       ],
       "skins": [
         {
@@ -2966,7 +3178,10 @@ window._emojiData =
       "keywords": [
         "sad",
         "depressed",
-        "upset"
+        "upset",
+        "грусть",
+        "депрессия",
+        "расстройство"
       ],
       "skins": [
         {
@@ -2982,7 +3197,10 @@ window._emojiData =
       "keywords": [
         "tired",
         "rest",
-        "nap"
+        "nap",
+        "усталость",
+        "отдых",
+        "дрёма"
       ],
       "skins": [
         {
@@ -2995,7 +3213,10 @@ window._emojiData =
     "drooling_face": {
       "id": "drooling_face",
       "name": "Drooling Face",
-      "keywords": [],
+      "keywords": [
+        "слюни",
+        "аппетит"
+      ],
       "skins": [
         {
           "unified": "1f924",
@@ -3011,7 +3232,11 @@ window._emojiData =
         "tired",
         "sleepy",
         "night",
-        "zzz"
+        "zzz",
+        "усталость",
+        "сонный",
+        "ночь",
+        "спать"
       ],
       "skins": [
         {
@@ -3028,7 +3253,11 @@ window._emojiData =
         "sick",
         "ill",
         "disease",
-        "covid"
+        "covid",
+        "болен",
+        "болезнь",
+        "маска",
+        "коронавирус"
       ],
       "skins": [
         {
@@ -3046,7 +3275,12 @@ window._emojiData =
         "temperature",
         "cold",
         "fever",
-        "covid"
+        "covid",
+        "болен",
+        "температура",
+        "простуда",
+        "лихорадка",
+        "коронавирус"
       ],
       "skins": [
         {
@@ -3064,7 +3298,12 @@ window._emojiData =
         "bandage",
         "injured",
         "clumsy",
-        "hurt"
+        "hurt",
+        "голова",
+        "бинт",
+        "травма",
+        "неуклюжий",
+        "боль"
       ],
       "skins": [
         {
@@ -3084,7 +3323,12 @@ window._emojiData =
         "sick",
         "throw",
         "up",
-        "ill"
+        "ill",
+        "тошнота",
+        "рвота",
+        "отвращение",
+        "зелёный",
+        "болен"
       ],
       "skins": [
         {
@@ -3101,7 +3345,11 @@ window._emojiData =
         "with",
         "open",
         "mouth",
-        "sick"
+        "sick",
+        "рвота",
+        "болен",
+        "открытый",
+        "рот"
       ],
       "skins": [
         {
@@ -3118,7 +3366,12 @@ window._emojiData =
         "gesundheit",
         "sneeze",
         "sick",
-        "allergy"
+        "allergy",
+        "чихать",
+        "болен",
+        "аллергия",
+        "будь",
+        "здоров"
       ],
       "skins": [
         {
@@ -3135,7 +3388,11 @@ window._emojiData =
         "feverish",
         "heat",
         "red",
-        "sweating"
+        "sweating",
+        "жар",
+        "красный",
+        "пот",
+        "лихорадка"
       ],
       "skins": [
         {
@@ -3153,7 +3410,12 @@ window._emojiData =
         "freezing",
         "frozen",
         "frostbite",
-        "icicles"
+        "icicles",
+        "синий",
+        "замёрзший",
+        "холод",
+        "обморожение",
+        "сосульки"
       ],
       "skins": [
         {
@@ -3170,7 +3432,11 @@ window._emojiData =
         "dizzy",
         "intoxicated",
         "tipsy",
-        "wavy"
+        "wavy",
+        "головокружение",
+        "опьянение",
+        "подвыпивший",
+        "волнистый"
       ],
       "skins": [
         {
@@ -3186,7 +3452,11 @@ window._emojiData =
       "keywords": [
         "spent",
         "unconscious",
-        "xox"
+        "xox",
+        "головокружение",
+        "без",
+        "сознания",
+        "ошеломлён"
       ],
       "skins": [
         {
@@ -3204,7 +3474,11 @@ window._emojiData =
         "ill",
         "confused",
         "nauseous",
-        "nausea"
+        "nausea",
+        "болен",
+        "спутанность",
+        "тошнота",
+        "головокружение"
       ],
       "skins": [
         {
@@ -3222,7 +3496,11 @@ window._emojiData =
         "face",
         "with",
         "mind",
-        "blown"
+        "blown",
+        "шок",
+        "взрыв",
+        "мозга",
+        "удивление"
       ],
       "skins": [
         {
@@ -3237,7 +3515,10 @@ window._emojiData =
       "name": "Cowboy Hat Face",
       "keywords": [
         "with",
-        "cowgirl"
+        "cowgirl",
+        "ковбой",
+        "шляпа",
+        "ковгерл"
       ],
       "skins": [
         {
@@ -3252,7 +3533,10 @@ window._emojiData =
       "name": "Partying Face",
       "keywords": [
         "celebration",
-        "woohoo"
+        "woohoo",
+        "вечеринка",
+        "праздник",
+        "ура"
       ],
       "skins": [
         {
@@ -3269,7 +3553,11 @@ window._emojiData =
         "pretent",
         "brows",
         "glasses",
-        "moustache"
+        "moustache",
+        "маскировка",
+        "очки",
+        "усы",
+        "притворство"
       ],
       "skins": [
         {
@@ -3290,7 +3578,12 @@ window._emojiData =
         "smile",
         "summer",
         "beach",
-        "sunglass"
+        "sunglass",
+        "крутой",
+        "улыбка",
+        "лето",
+        "пляж",
+        "очки"
       ],
       "skins": [
         {
@@ -3306,7 +3599,10 @@ window._emojiData =
       "keywords": [
         "nerdy",
         "geek",
-        "dork"
+        "dork",
+        "ботан",
+        "гик",
+        "умник"
       ],
       "skins": [
         {
@@ -3321,7 +3617,10 @@ window._emojiData =
       "name": "Face with Monocle",
       "keywords": [
         "stuffy",
-        "wealthy"
+        "wealthy",
+        "монокль",
+        "богатый",
+        "чопорный"
       ],
       "skins": [
         {
@@ -3345,7 +3644,11 @@ window._emojiData =
         "huh",
         "weird",
         "hmmm",
-        ":/"
+        ":/",
+        "спутанность",
+        "удивление",
+        "странно",
+        "хм"
       ],
       "skins": [
         {
@@ -3362,7 +3665,11 @@ window._emojiData =
         "skeptic",
         "confuse",
         "frustrated",
-        "indifferent"
+        "indifferent",
+        "скептик",
+        "спутанность",
+        "разочарование",
+        "равнодушие"
       ],
       "skins": [
         {
@@ -3378,7 +3685,10 @@ window._emojiData =
       "keywords": [
         "concern",
         "nervous",
-        ":("
+        ":(",
+        "беспокойство",
+        "нервный",
+        "волнение"
       ],
       "skins": [
         {
@@ -3394,7 +3704,10 @@ window._emojiData =
       "keywords": [
         "disappointed",
         "sad",
-        "upset"
+        "upset",
+        "разочарование",
+        "грусть",
+        "расстройство"
       ],
       "skins": [
         {
@@ -3411,7 +3724,10 @@ window._emojiData =
         "white",
         "sad",
         "upset",
-        "frown"
+        "frown",
+        "грусть",
+        "расстройство",
+        "нахмуриться"
       ],
       "skins": [
         {
@@ -3435,7 +3751,10 @@ window._emojiData =
         "impressed",
         "wow",
         "whoa",
-        ":O"
+        ":O",
+        "удивление",
+        "впечатление",
+        "вау"
       ],
       "skins": [
         {
@@ -3450,7 +3769,10 @@ window._emojiData =
       "name": "Hushed Face",
       "keywords": [
         "woo",
-        "shh"
+        "shh",
+        "тишина",
+        "тсс",
+        "удивление"
       ],
       "skins": [
         {
@@ -3466,7 +3788,10 @@ window._emojiData =
       "keywords": [
         "xox",
         "surprised",
-        "poisoned"
+        "poisoned",
+        "удивление",
+        "шок",
+        "ошеломление"
       ],
       "skins": [
         {
@@ -3482,7 +3807,10 @@ window._emojiData =
       "keywords": [
         "blush",
         "shy",
-        "flattered"
+        "flattered",
+        "румянец",
+        "застенчивый",
+        "польщён"
       ],
       "skins": [
         {
@@ -3501,7 +3829,14 @@ window._emojiData =
         "cry",
         "tears",
         "sad",
-        "grievance"
+        "grievance",
+        "мольба",
+        "милость",
+        "плач",
+        "слёзы",
+        "слезы",
+        "грусть",
+        "жалоба"
       ],
       "skins": [
         {
@@ -3517,7 +3852,10 @@ window._emojiData =
       "keywords": [
         "touched",
         "gratitude",
-        "cry"
+        "cry",
+        "трогательно",
+        "благодарность",
+        "плач"
       ],
       "skins": [
         {
@@ -3532,7 +3870,10 @@ window._emojiData =
       "name": "Frowning Face with Open Mouth",
       "keywords": [
         "aw",
-        "what"
+        "what",
+        "нахмуриться",
+        "удивление",
+        "что"
       ],
       "skins": [
         {
@@ -3550,7 +3891,10 @@ window._emojiData =
       ],
       "keywords": [
         "stunned",
-        "nervous"
+        "nervous",
+        "страдание",
+        "нервный",
+        "ошеломление"
       ],
       "skins": [
         {
@@ -3566,7 +3910,10 @@ window._emojiData =
       "keywords": [
         "scared",
         "terrified",
-        "nervous"
+        "nervous",
+        "страх",
+        "ужас",
+        "нервный"
       ],
       "skins": [
         {
@@ -3581,7 +3928,10 @@ window._emojiData =
       "name": "Anxious Face with Sweat",
       "keywords": [
         "cold",
-        "nervous"
+        "nervous",
+        "холод",
+        "нервный",
+        "пот"
       ],
       "skins": [
         {
@@ -3598,7 +3948,11 @@ window._emojiData =
         "disappointed",
         "phew",
         "sweat",
-        "nervous"
+        "nervous",
+        "разочарование",
+        "облегчение",
+        "пот",
+        "нервный"
       ],
       "skins": [
         {
@@ -3620,7 +3974,13 @@ window._emojiData =
         "sad",
         "depressed",
         "upset",
-        ":'("
+        ":'(",
+        "плач",
+        "слёзы",
+        "слезы",
+        "грусть",
+        "депрессия",
+        "расстройство"
       ],
       "skins": [
         {
@@ -3642,7 +4002,14 @@ window._emojiData =
         "tears",
         "sad",
         "upset",
-        "depressed"
+        "depressed",
+        "рыдать",
+        "плач",
+        "слёзы",
+        "слезы",
+        "грусть",
+        "расстройство",
+        "депрессия"
       ],
       "skins": [
         {
@@ -3659,7 +4026,11 @@ window._emojiData =
         "scream",
         "munch",
         "scared",
-        "omg"
+        "omg",
+        "крик",
+        "страх",
+        "ужас",
+        "ошеломление"
       ],
       "skins": [
         {
@@ -3677,7 +4048,11 @@ window._emojiData =
         "sick",
         "unwell",
         "oops",
-        ":S"
+        ":S",
+        "спутанность",
+        "болен",
+        "нездоров",
+        "упс"
       ],
       "skins": [
         {
@@ -3695,7 +4070,12 @@ window._emojiData =
         "sick",
         "no",
         "upset",
-        "oops"
+        "oops",
+        "упорство",
+        "болен",
+        "нет",
+        "расстройство",
+        "упс"
       ],
       "skins": [
         {
@@ -3717,7 +4097,10 @@ window._emojiData =
         "sad",
         "upset",
         "depressed",
-        ":("
+        ":(",
+        "грусть",
+        "расстройство",
+        "депрессия"
       ],
       "skins": [
         {
@@ -3735,7 +4118,12 @@ window._emojiData =
         "hot",
         "sad",
         "tired",
-        "exercise"
+        "exercise",
+        "пот",
+        "грусть",
+        "усталость",
+        "жарко",
+        "упражнение"
       ],
       "skins": [
         {
@@ -3753,7 +4141,12 @@ window._emojiData =
         "sleepy",
         "sad",
         "frustrated",
-        "upset"
+        "upset",
+        "усталость",
+        "сонный",
+        "грусть",
+        "разочарование",
+        "расстройство"
       ],
       "skins": [
         {
@@ -3770,7 +4163,11 @@ window._emojiData =
         "sick",
         "whine",
         "upset",
-        "frustrated"
+        "frustrated",
+        "усталость",
+        "нытьё",
+        "расстройство",
+        "разочарование"
       ],
       "skins": [
         {
@@ -3785,7 +4182,10 @@ window._emojiData =
       "name": "Yawning Face",
       "keywords": [
         "tired",
-        "sleepy"
+        "sleepy",
+        "усталость",
+        "сонный",
+        "зевать"
       ],
       "skins": [
         {
@@ -3805,7 +4205,12 @@ window._emojiData =
         "gas",
         "phew",
         "proud",
-        "pride"
+        "pride",
+        "пар",
+        "нос",
+        "фух",
+        "гордость",
+        "триумф"
       ],
       "skins": [
         {
@@ -3823,7 +4228,11 @@ window._emojiData =
         "angry",
         "mad",
         "hate",
-        "despise"
+        "despise",
+        "ярость",
+        "злость",
+        "ненависть",
+        "сердитый"
       ],
       "skins": [
         {
@@ -3843,7 +4252,10 @@ window._emojiData =
       "keywords": [
         "mad",
         "annoyed",
-        "frustrated"
+        "frustrated",
+        "злость",
+        "раздражение",
+        "сердитый"
       ],
       "skins": [
         {
@@ -3863,7 +4275,11 @@ window._emojiData =
         "cursing",
         "cussing",
         "profanity",
-        "expletive"
+        "expletive",
+        "ругань",
+        "мат",
+        "проклятия",
+        "брань"
       ],
       "skins": [
         {
@@ -3878,7 +4294,10 @@ window._emojiData =
       "name": "Smiling Face with Horns",
       "keywords": [
         "imp",
-        "devil"
+        "devil",
+        "чёрт",
+        "дьявол",
+        "улыбка"
       ],
       "skins": [
         {
@@ -3896,7 +4315,11 @@ window._emojiData =
         "face",
         "with",
         "horns",
-        "devil"
+        "devil",
+        "чёрт",
+        "дьявол",
+        "злость",
+        "рога"
       ],
       "skins": [
         {
@@ -3916,7 +4339,9 @@ window._emojiData =
         "death",
         "смерть",
         "умереть",
-        "череп"
+        "череп",
+        "скелет",
+        "жуткий"
       ],
       "skins": [
         {
@@ -3940,7 +4365,10 @@ window._emojiData =
         "зло",
         "смерть",
         "умереть",
-        "череп"
+        "череп",
+        "яд",
+        "опасность",
+        "пират"
       ],
       "skins": [
         {
@@ -3961,7 +4389,9 @@ window._emojiData =
         "fail",
         "turd",
         "говно",
-        "какашка"
+        "какашка",
+        "провал",
+        "фекалии"
       ],
       "skins": [
         {
@@ -3974,7 +4404,11 @@ window._emojiData =
     "clown_face": {
       "id": "clown_face",
       "name": "Clown Face",
-      "keywords": [],
+      "keywords": [
+        "клоун",
+        "цирк",
+        "шут"
+      ],
       "skins": [
         {
           "unified": "1f921",
@@ -3995,7 +4429,16 @@ window._emojiData =
         "scary",
         "creepy",
         "devil",
-        "demon"
+        "demon",
+        "японский",
+        "монстр",
+        "красный",
+        "маска",
+        "хэллоуин",
+        "страшный",
+        "жуткий",
+        "дьявол",
+        "демон"
       ],
       "skins": [
         {
@@ -4016,7 +4459,14 @@ window._emojiData =
         "monster",
         "scary",
         "creepy",
-        "зло"
+        "зло",
+        "японский",
+        "красный",
+        "маска",
+        "монстр",
+        "страшный",
+        "жуткий",
+        "гоблин"
       ],
       "skins": [
         {
@@ -4032,7 +4482,11 @@ window._emojiData =
       "keywords": [
         "halloween",
         "spooky",
-        "scary"
+        "scary",
+        "хэллоуин",
+        "призрак",
+        "страшный",
+        "жуткий"
       ],
       "skins": [
         {
@@ -4050,7 +4504,11 @@ window._emojiData =
         "paul",
         "weird",
         "outer",
-        "space"
+        "space",
+        "инопланетянин",
+        "НЛО",
+        "странный",
+        "космос"
       ],
       "skins": [
         {
@@ -4068,7 +4526,12 @@ window._emojiData =
         "invader",
         "game",
         "arcade",
-        "play"
+        "play",
+        "космос",
+        "захватчик",
+        "игра",
+        "аркада",
+        "монстр"
       ],
       "skins": [
         {
@@ -4085,7 +4548,11 @@ window._emojiData =
         "face",
         "computer",
         "machine",
-        "bot"
+        "bot",
+        "робот",
+        "компьютер",
+        "машина",
+        "бот"
       ],
       "skins": [
         {
@@ -4104,7 +4571,10 @@ window._emojiData =
         "cats",
         "happy",
         "smile",
-        "кот"
+        "кот",
+        "улыбка",
+        "животное",
+        "счастье"
       ],
       "skins": [
         {
@@ -4121,7 +4591,10 @@ window._emojiData =
         "smile",
         "animal",
         "cats",
-        "кот"
+        "кот",
+        "улыбка",
+        "животное",
+        "радость"
       ],
       "skins": [
         {
@@ -4139,7 +4612,12 @@ window._emojiData =
         "cats",
         "haha",
         "happy",
-        "кот"
+        "кот",
+        "животное",
+        "смех",
+        "радость",
+        "слёзы",
+        "слезы"
       ],
       "skins": [
         {
@@ -4165,7 +4643,10 @@ window._emojiData =
         "сердечко",
         "люблю",
         "любовь",
-        "кот"
+        "кот",
+        "глаза",
+        "привязанность",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4182,7 +4663,9 @@ window._emojiData =
         "smirk",
         "animal",
         "cats",
-        "кот"
+        "кот",
+        "ухмылка",
+        "животное"
       ],
       "skins": [
         {
@@ -4199,7 +4682,9 @@ window._emojiData =
         "animal",
         "cats",
         "kiss",
-        "кот"
+        "кот",
+        "животное",
+        "поцелуй"
       ],
       "skins": [
         {
@@ -4218,7 +4703,11 @@ window._emojiData =
         "cats",
         "munch",
         "scared",
-        "кот"
+        "кот",
+        "крик",
+        "животное",
+        "страх",
+        "удивление"
       ],
       "skins": [
         {
@@ -4240,7 +4729,13 @@ window._emojiData =
         "cats",
         "upset",
         "cry",
-        "кот"
+        "кот",
+        "плач",
+        "слёзы",
+        "слезы",
+        "грусть",
+        "расстройство",
+        "животное"
       ],
       "skins": [
         {
@@ -4256,7 +4751,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "cats",
-        "кот"
+        "кот",
+        "животное",
+        "надутый",
+        "сердитый"
       ],
       "skins": [
         {
@@ -4276,7 +4774,13 @@ window._emojiData =
         "animal",
         "nature",
         "haha",
-        "кот"
+        "обезьяна",
+        "не",
+        "вижу",
+        "зло",
+        "животное",
+        "природа",
+        "смех"
       ],
       "skins": [
         {
@@ -4295,7 +4799,12 @@ window._emojiData =
         "evil",
         "animal",
         "nature",
-        "кот"
+        "обезьяна",
+        "не",
+        "слышу",
+        "зло",
+        "животное",
+        "природа"
       ],
       "skins": [
         {
@@ -4314,7 +4823,14 @@ window._emojiData =
         "evil",
         "animal",
         "nature",
-        "omg"
+        "omg",
+        "обезьяна",
+        "не",
+        "говорю",
+        "зло",
+        "животное",
+        "природа",
+        "удивление"
       ],
       "skins": [
         {
@@ -4332,7 +4848,13 @@ window._emojiData =
         "like",
         "affection",
         "envelope",
-        "valentines"
+        "valentines",
+        "любовное",
+        "письмо",
+        "конверт",
+        "любовь",
+        "привязанность",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4350,7 +4872,14 @@ window._emojiData =
         "love",
         "like",
         "affection",
-        "valentines"
+        "valentines",
+        "купидон",
+        "любовь",
+        "нравится",
+        "привязанность",
+        "валентинки",
+        "сердце",
+        "стрела"
       ],
       "skins": [
         {
@@ -4370,7 +4899,10 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "подарок",
+        "лента",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4391,7 +4923,9 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "блеск",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4414,7 +4948,10 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "рост",
+        "валентинки",
+        "розовый"
       ],
       "skins": [
         {
@@ -4437,7 +4974,10 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "биение",
+        "валентинки",
+        "розовый"
       ],
       "skins": [
         {
@@ -4458,7 +4998,9 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "вращение",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4480,7 +5022,9 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "два",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4497,7 +5041,13 @@ window._emojiData =
         "purple",
         "square",
         "love",
-        "like"
+        "like",
+        "сердце",
+        "любовь",
+        "нравится",
+        "фиолетовый",
+        "квадрат",
+        "украшение"
       ],
       "skins": [
         {
@@ -4515,7 +5065,11 @@ window._emojiData =
         "mark",
         "ornament",
         "decoration",
-        "love"
+        "love",
+        "сердце",
+        "любовь",
+        "восклицание",
+        "украшение"
       ],
       "skins": [
         {
@@ -4535,7 +5089,12 @@ window._emojiData =
         "sad",
         "sorry",
         "break",
-        "heartbreak"
+        "heartbreak",
+        "грусть",
+        "извини",
+        "разрыв",
+        "разбитое",
+        "сердце"
       ],
       "skins": [
         {
@@ -4550,7 +5109,11 @@ window._emojiData =
       "name": "Heart on Fire",
       "keywords": [
         "passionate",
-        "enthusiastic"
+        "enthusiastic",
+        "страсть",
+        "энтузиазм",
+        "сердце",
+        "огонь"
       ],
       "skins": [
         {
@@ -4566,7 +5129,12 @@ window._emojiData =
       "keywords": [
         "broken",
         "bandage",
-        "wounded"
+        "wounded",
+        "разбитое",
+        "бинт",
+        "раненое",
+        "сердце",
+        "заживление"
       ],
       "skins": [
         {
@@ -4589,7 +5157,9 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "красный",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4603,7 +5173,12 @@ window._emojiData =
       "id": "pink_heart",
       "name": "Pink Heart",
       "keywords": [
-        "valentines"
+        "valentines",
+        "сердце",
+        "сердечко",
+        "любовь",
+        "розовый",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4624,7 +5199,9 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "оранжевый",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4648,7 +5225,9 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "жёлтый",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4672,7 +5251,9 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "зелёный",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4696,7 +5277,9 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "синий",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4715,7 +5298,9 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "голубой",
+        "лёд"
       ],
       "skins": [
         {
@@ -4739,7 +5324,9 @@ window._emojiData =
         "сердце",
         "сердечко",
         "люблю",
-        "любовь"
+        "любовь",
+        "фиолетовый",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4753,7 +5340,10 @@ window._emojiData =
       "id": "brown_heart",
       "name": "Brown Heart",
       "keywords": [
-        "coffee"
+        "coffee",
+        "сердце",
+        "коричневый",
+        "кофе"
       ],
       "skins": [
         {
@@ -4768,7 +5358,9 @@ window._emojiData =
       "name": "Black Heart",
       "keywords": [
         "evil",
-        "зло"
+        "зло",
+        "сердце",
+        "чёрный"
       ],
       "skins": [
         {
@@ -4783,7 +5375,11 @@ window._emojiData =
       "name": "Grey Heart",
       "keywords": [
         "silver",
-        "monochrome"
+        "monochrome",
+        "сердце",
+        "серый",
+        "серебряный",
+        "монохромный"
       ],
       "skins": [
         {
@@ -4797,7 +5393,10 @@ window._emojiData =
       "id": "white_heart",
       "name": "White Heart",
       "keywords": [
-        "pure"
+        "pure",
+        "сердце",
+        "белый",
+        "чистота"
       ],
       "skins": [
         {
@@ -4816,7 +5415,13 @@ window._emojiData =
         "love",
         "like",
         "affection",
-        "valentines"
+        "valentines",
+        "поцелуй",
+        "губы",
+        "любовь",
+        "нравится",
+        "привязанность",
+        "валентинки"
       ],
       "skins": [
         {
@@ -4831,7 +5436,10 @@ window._emojiData =
       "name": "Anger Symbol",
       "keywords": [
         "angry",
-        "mad"
+        "mad",
+        "злость",
+        "сердитый",
+        "ярость"
       ],
       "skins": [
         {
@@ -4849,7 +5457,10 @@ window._emojiData =
         "bomb",
         "explode",
         "explosion",
-        "blown"
+        "blown",
+        "взрыв",
+        "бомба",
+        "столкновение"
       ],
       "skins": [
         {
@@ -4866,7 +5477,11 @@ window._emojiData =
         "star",
         "sparkle",
         "shoot",
-        "magic"
+        "magic",
+        "головокружение",
+        "звезда",
+        "блеск",
+        "магия"
       ],
       "skins": [
         {
@@ -4883,7 +5498,11 @@ window._emojiData =
         "drops",
         "water",
         "drip",
-        "oops"
+        "oops",
+        "пот",
+        "капли",
+        "вода",
+        "упс"
       ],
       "skins": [
         {
@@ -4905,7 +5524,12 @@ window._emojiData =
         "shoo",
         "fart",
         "smoke",
-        "puff"
+        "puff",
+        "побег",
+        "ветер",
+        "быстро",
+        "дым",
+        "пых"
       ],
       "skins": [
         {
@@ -4919,7 +5543,10 @@ window._emojiData =
       "id": "hole",
       "name": "Hole",
       "keywords": [
-        "embarrassing"
+        "embarrassing",
+        "дыра",
+        "провал",
+        "неловкость"
       ],
       "skins": [
         {
@@ -4937,7 +5564,12 @@ window._emojiData =
         "words",
         "message",
         "talk",
-        "chatting"
+        "chatting",
+        "речь",
+        "пузырь",
+        "сообщение",
+        "разговор",
+        "чат"
       ],
       "skins": [
         {
@@ -4952,7 +5584,11 @@ window._emojiData =
       "name": "Eye in Speech Bubble",
       "keywords": [
         "in-speech-bubble",
-        "info"
+        "info",
+        "глаз",
+        "речь",
+        "пузырь",
+        "информация"
       ],
       "skins": [
         {
@@ -4969,7 +5605,11 @@ window._emojiData =
         "words",
         "message",
         "talk",
-        "chatting"
+        "chatting",
+        "речь",
+        "сообщение",
+        "разговор",
+        "чат"
       ],
       "skins": [
         {
@@ -4986,7 +5626,11 @@ window._emojiData =
         "caption",
         "speech",
         "thinking",
-        "mad"
+        "mad",
+        "злость",
+        "речь",
+        "мысль",
+        "сердитый"
       ],
       "skins": [
         {
@@ -5004,7 +5648,12 @@ window._emojiData =
         "cloud",
         "speech",
         "thinking",
-        "dream"
+        "dream",
+        "мысль",
+        "пузырь",
+        "облако",
+        "размышление",
+        "мечта"
       ],
       "skins": [
         {
@@ -5020,7 +5669,11 @@ window._emojiData =
       "keywords": [
         "sleepy",
         "tired",
-        "dream"
+        "dream",
+        "сонный",
+        "усталость",
+        "сон",
+        "спать"
       ],
       "skins": [
         {
@@ -5042,7 +5695,15 @@ window._emojiData =
         "farewell",
         "hello",
         "hi",
-        "palm"
+        "palm",
+        "махать",
+        "рука",
+        "жест",
+        "прощание",
+        "до",
+        "свидания",
+        "привет",
+        "ладонь"
       ],
       "skins": [
         {
@@ -5077,7 +5738,11 @@ window._emojiData =
       "name": "Raised Back of Hand",
       "keywords": [
         "fingers",
-        "backhand"
+        "backhand",
+        "пальцы",
+        "тыльная",
+        "сторона",
+        "рука"
       ],
       "skins": [
         {
@@ -5112,7 +5777,12 @@ window._emojiData =
       "name": "Hand with Fingers Splayed",
       "keywords": [
         "raised",
-        "palm"
+        "palm",
+        "поднятая",
+        "рука",
+        "пальцы",
+        "растопыренные",
+        "ладонь"
       ],
       "skins": [
         {
@@ -5152,7 +5822,13 @@ window._emojiData =
         "high",
         "five",
         "palm",
-        "ban"
+        "ban",
+        "пальцы",
+        "стоп",
+        "дай",
+        "пять",
+        "ладонь",
+        "запрет"
       ],
       "skins": [
         {
@@ -5190,7 +5866,14 @@ window._emojiData =
         "hand",
         "fingers",
         "star",
-        "trek"
+        "trek",
+        "спок",
+        "рука",
+        "пальцы",
+        "звёздный",
+        "путь",
+        "вулканский",
+        "салют"
       ],
       "skins": [
         {
@@ -5225,7 +5908,10 @@ window._emojiData =
       "name": "Rightwards Hand",
       "keywords": [
         "palm",
-        "offer"
+        "offer",
+        "ладонь",
+        "предложение",
+        "право"
       ],
       "skins": [
         {
@@ -5260,7 +5946,10 @@ window._emojiData =
       "name": "Leftwards Hand",
       "keywords": [
         "palm",
-        "offer"
+        "offer",
+        "ладонь",
+        "предложение",
+        "лево"
       ],
       "skins": [
         {
@@ -5294,7 +5983,10 @@ window._emojiData =
       "id": "palm_down_hand",
       "name": "Palm Down Hand",
       "keywords": [
-        "drop"
+        "drop",
+        "ладонь",
+        "вниз",
+        "бросить"
       ],
       "skins": [
         {
@@ -5330,7 +6022,12 @@ window._emojiData =
       "keywords": [
         "lift",
         "offer",
-        "demand"
+        "demand",
+        "ладонь",
+        "вверх",
+        "поднять",
+        "предложение",
+        "требование"
       ],
       "skins": [
         {
@@ -5368,7 +6065,13 @@ window._emojiData =
         "high",
         "five",
         "pressing",
-        "stop"
+        "stop",
+        "дай",
+        "пять",
+        "нажим",
+        "стоп",
+        "лево",
+        "рука"
       ],
       "skins": [
         {
@@ -5406,7 +6109,13 @@ window._emojiData =
         "high",
         "five",
         "pressing",
-        "stop"
+        "stop",
+        "дай",
+        "пять",
+        "нажим",
+        "стоп",
+        "право",
+        "рука"
       ],
       "skins": [
         {
@@ -5443,7 +6152,11 @@ window._emojiData =
         "fingers",
         "limbs",
         "perfect",
-        "okay"
+        "okay",
+        "пальцы",
+        "рука",
+        "идеально",
+        "окей"
       ],
       "skins": [
         {
@@ -5479,7 +6192,12 @@ window._emojiData =
       "keywords": [
         "size",
         "tiny",
-        "small"
+        "small",
+        "размер",
+        "крошечный",
+        "маленький",
+        "пальцы",
+        "жест"
       ],
       "skins": [
         {
@@ -5515,7 +6233,12 @@ window._emojiData =
       "keywords": [
         "tiny",
         "small",
-        "size"
+        "size",
+        "крошечный",
+        "маленький",
+        "размер",
+        "щипать",
+        "рука"
       ],
       "skins": [
         {
@@ -5553,7 +6276,12 @@ window._emojiData =
         "fingers",
         "ohyeah",
         "peace",
-        "two"
+        "two",
+        "победа",
+        "пальцы",
+        "мир",
+        "два",
+        "жест"
       ],
       "skins": [
         {
@@ -5593,7 +6321,12 @@ window._emojiData =
         "and",
         "middle",
         "good",
-        "lucky"
+        "lucky",
+        "рука",
+        "пальцы",
+        "удача",
+        "хорошо",
+        "скрестить"
       ],
       "skins": [
         {
@@ -5630,7 +6363,12 @@ window._emojiData =
         "heart",
         "love",
         "money",
-        "expensive"
+        "expensive",
+        "сердце",
+        "любовь",
+        "деньги",
+        "дорого",
+        "жест"
       ],
       "skins": [
         {
@@ -5669,7 +6407,13 @@ window._emojiData =
         "you",
         "hand",
         "sign",
-        "fingers"
+        "fingers",
+        "я",
+        "тебя",
+        "люблю",
+        "рука",
+        "жест",
+        "пальцы"
       ],
       "skins": [
         {
@@ -5709,7 +6453,12 @@ window._emojiData =
         "eye",
         "rock",
         "on",
-        "зло"
+        "зло",
+        "рука",
+        "пальцы",
+        "рок",
+        "рога",
+        "жест"
       ],
       "skins": [
         {
@@ -5745,7 +6494,11 @@ window._emojiData =
       "keywords": [
         "hands",
         "gesture",
-        "shaka"
+        "shaka",
+        "рука",
+        "жест",
+        "позвони",
+        "шака"
       ],
       "skins": [
         {
@@ -5782,7 +6535,12 @@ window._emojiData =
         "point",
         "direction",
         "fingers",
-        "hand"
+        "hand",
+        "указать",
+        "лево",
+        "пальцы",
+        "рука",
+        "направление"
       ],
       "skins": [
         {
@@ -5819,7 +6577,12 @@ window._emojiData =
         "point",
         "fingers",
         "hand",
-        "direction"
+        "direction",
+        "указать",
+        "право",
+        "пальцы",
+        "рука",
+        "направление"
       ],
       "skins": [
         {
@@ -5857,7 +6620,12 @@ window._emojiData =
         "2",
         "fingers",
         "hand",
-        "direction"
+        "direction",
+        "указать",
+        "вверх",
+        "пальцы",
+        "рука",
+        "направление"
       ],
       "skins": [
         {
@@ -5897,7 +6665,12 @@ window._emojiData =
         "extended",
         "fingers",
         "rude",
-        "flipping"
+        "flipping",
+        "средний",
+        "палец",
+        "грубый",
+        "жест",
+        "рука"
       ],
       "skins": [
         {
@@ -5934,7 +6707,12 @@ window._emojiData =
         "point",
         "fingers",
         "hand",
-        "direction"
+        "direction",
+        "указать",
+        "вниз",
+        "пальцы",
+        "рука",
+        "направление"
       ],
       "skins": [
         {
@@ -5971,7 +6749,12 @@ window._emojiData =
         "point",
         "hand",
         "fingers",
-        "direction"
+        "direction",
+        "указать",
+        "вверх",
+        "пальцы",
+        "рука",
+        "направление"
       ],
       "skins": [
         {
@@ -6006,7 +6789,11 @@ window._emojiData =
       "name": "Index Pointing at the Viewer",
       "keywords": [
         "you",
-        "recruit"
+        "recruit",
+        "ты",
+        "указать",
+        "зов",
+        "жест"
       ],
       "skins": [
         {
@@ -6049,7 +6836,15 @@ window._emojiData =
         "accept",
         "cool",
         "hand",
-        "like"
+        "like",
+        "да",
+        "отлично",
+        "хорошо",
+        "согласен",
+        "принять",
+        "класс",
+        "рука",
+        "нравится"
       ],
       "skins": [
         {
@@ -6087,7 +6882,11 @@ window._emojiData =
         "thumbsdown",
         "no",
         "dislike",
-        "hand"
+        "hand",
+        "нет",
+        "не",
+        "нравится",
+        "рука"
       ],
       "skins": [
         {
@@ -6123,7 +6922,11 @@ window._emojiData =
       "keywords": [
         "fingers",
         "hand",
-        "grasp"
+        "grasp",
+        "пальцы",
+        "рука",
+        "кулак",
+        "хватать"
       ],
       "skins": [
         {
@@ -6163,7 +6966,14 @@ window._emojiData =
         "violence",
         "hit",
         "attack",
-        "hand"
+        "hand",
+        "удар",
+        "злость",
+        "насилие",
+        "бить",
+        "атака",
+        "рука",
+        "кулак"
       ],
       "skins": [
         {
@@ -6200,7 +7010,12 @@ window._emojiData =
         "left",
         "facing",
         "hand",
-        "fistbump"
+        "fistbump",
+        "лево",
+        "кулак",
+        "рука",
+        "удар",
+        "жест"
       ],
       "skins": [
         {
@@ -6237,7 +7052,12 @@ window._emojiData =
         "right",
         "facing",
         "hand",
-        "fistbump"
+        "fistbump",
+        "право",
+        "кулак",
+        "рука",
+        "удар",
+        "жест"
       ],
       "skins": [
         {
@@ -6275,7 +7095,12 @@ window._emojiData =
         "praise",
         "applause",
         "congrats",
-        "yay"
+        "yay",
+        "хлопать",
+        "похвала",
+        "аплодисменты",
+        "поздравления",
+        "ура"
       ],
       "skins": [
         {
@@ -6313,7 +7138,12 @@ window._emojiData =
         "gesture",
         "hooray",
         "yea",
-        "celebration"
+        "celebration",
+        "поднятые",
+        "руки",
+        "жест",
+        "ура",
+        "праздник"
       ],
       "skins": [
         {
@@ -6349,7 +7179,12 @@ window._emojiData =
       "keywords": [
         "love",
         "appreciation",
-        "support"
+        "support",
+        "любовь",
+        "признательность",
+        "поддержка",
+        "сердце",
+        "руки"
       ],
       "skins": [
         {
@@ -6384,7 +7219,12 @@ window._emojiData =
       "name": "Open Hands",
       "keywords": [
         "fingers",
-        "butterfly"
+        "butterfly",
+        "пальцы",
+        "открытые",
+        "руки",
+        "бабочка",
+        "жест"
       ],
       "skins": [
         {
@@ -6421,7 +7261,12 @@ window._emojiData =
         "hands",
         "gesture",
         "cupped",
-        "prayer"
+        "prayer",
+        "руки",
+        "жест",
+        "ладони",
+        "вместе",
+        "молитва"
       ],
       "skins": [
         {
@@ -6456,7 +7301,10 @@ window._emojiData =
       "name": "Handshake",
       "keywords": [
         "agreement",
-        "shake"
+        "shake",
+        "рукопожатие",
+        "соглашение",
+        "пожать"
       ],
       "skins": [
         {
@@ -6501,7 +7349,16 @@ window._emojiData =
         "thank",
         "you",
         "thanks",
-        "appreciate"
+        "appreciate",
+        "молитва",
+        "пожалуйста",
+        "надежда",
+        "желание",
+        "намасте",
+        "дай",
+        "пять",
+        "спасибо",
+        "благодарность"
       ],
       "skins": [
         {
@@ -6541,7 +7398,13 @@ window._emojiData =
         "pen",
         "stationery",
         "write",
-        "compose"
+        "compose",
+        "писать",
+        "ручка",
+        "карандаш",
+        "канцелярия",
+        "составлять",
+        "рука"
       ],
       "skins": [
         {
@@ -6579,7 +7442,13 @@ window._emojiData =
         "beauty",
         "manicure",
         "finger",
-        "fashion"
+        "fashion",
+        "уход",
+        "красота",
+        "маникюр",
+        "палец",
+        "мода",
+        "лак"
       ],
       "skins": [
         {
@@ -6614,7 +7483,11 @@ window._emojiData =
       "name": "Selfie",
       "keywords": [
         "camera",
-        "phone"
+        "phone",
+        "селфи",
+        "камера",
+        "телефон",
+        "фото"
       ],
       "skins": [
         {
@@ -6653,7 +7526,13 @@ window._emojiData =
         "flex",
         "hand",
         "summer",
-        "strong"
+        "strong",
+        "мускулы",
+        "рука",
+        "бицепс",
+        "сила",
+        "лето",
+        "сильный"
       ],
       "skins": [
         {
@@ -6687,7 +7566,11 @@ window._emojiData =
       "id": "mechanical_arm",
       "name": "Mechanical Arm",
       "keywords": [
-        "accessibility"
+        "accessibility",
+        "механическая",
+        "рука",
+        "протез",
+        "доступность"
       ],
       "skins": [
         {
@@ -6701,7 +7584,11 @@ window._emojiData =
       "id": "mechanical_leg",
       "name": "Mechanical Leg",
       "keywords": [
-        "accessibility"
+        "accessibility",
+        "механическая",
+        "нога",
+        "протез",
+        "доступность"
       ],
       "skins": [
         {
@@ -6716,7 +7603,10 @@ window._emojiData =
       "name": "Leg",
       "keywords": [
         "kick",
-        "limb"
+        "limb",
+        "нога",
+        "удар",
+        "конечность"
       ],
       "skins": [
         {
@@ -6751,7 +7641,10 @@ window._emojiData =
       "name": "Foot",
       "keywords": [
         "kick",
-        "stomp"
+        "stomp",
+        "стопа",
+        "удар",
+        "топать"
       ],
       "skins": [
         {
@@ -6788,7 +7681,11 @@ window._emojiData =
         "face",
         "hear",
         "sound",
-        "listen"
+        "listen",
+        "ухо",
+        "слушать",
+        "звук",
+        "слышать"
       ],
       "skins": [
         {
@@ -6822,7 +7719,11 @@ window._emojiData =
       "id": "ear_with_hearing_aid",
       "name": "Ear with Hearing Aid",
       "keywords": [
-        "accessibility"
+        "accessibility",
+        "ухо",
+        "слуховой",
+        "аппарат",
+        "доступность"
       ],
       "skins": [
         {
@@ -6857,7 +7758,10 @@ window._emojiData =
       "name": "Nose",
       "keywords": [
         "smell",
-        "sniff"
+        "sniff",
+        "нос",
+        "запах",
+        "нюхать"
       ],
       "skins": [
         {
@@ -6892,7 +7796,10 @@ window._emojiData =
       "name": "Brain",
       "keywords": [
         "smart",
-        "intelligent"
+        "intelligent",
+        "мозг",
+        "умный",
+        "интеллект"
       ],
       "skins": [
         {
@@ -6907,7 +7814,10 @@ window._emojiData =
       "name": "Anatomical Heart",
       "keywords": [
         "health",
-        "heartbeat"
+        "heartbeat",
+        "сердце",
+        "здоровье",
+        "биение"
       ],
       "skins": [
         {
@@ -6921,7 +7831,10 @@ window._emojiData =
       "id": "lungs",
       "name": "Lungs",
       "keywords": [
-        "breathe"
+        "breathe",
+        "лёгкие",
+        "дыхание",
+        "дышать"
       ],
       "skins": [
         {
@@ -6936,7 +7849,10 @@ window._emojiData =
       "name": "Tooth",
       "keywords": [
         "teeth",
-        "dentist"
+        "dentist",
+        "зуб",
+        "зубы",
+        "стоматолог"
       ],
       "skins": [
         {
@@ -6950,7 +7866,9 @@ window._emojiData =
       "id": "bone",
       "name": "Bone",
       "keywords": [
-        "skeleton"
+        "skeleton",
+        "кость",
+        "скелет"
       ],
       "skins": [
         {
@@ -6968,7 +7886,12 @@ window._emojiData =
         "watch",
         "stalk",
         "peek",
-        "see"
+        "see",
+        "глаза",
+        "смотреть",
+        "наблюдать",
+        "подглядывать",
+        "видеть"
       ],
       "skins": [
         {
@@ -6986,7 +7909,12 @@ window._emojiData =
         "look",
         "see",
         "watch",
-        "stare"
+        "stare",
+        "глаз",
+        "смотреть",
+        "видеть",
+        "наблюдать",
+        "уставиться"
       ],
       "skins": [
         {
@@ -7001,7 +7929,10 @@ window._emojiData =
       "name": "Tongue",
       "keywords": [
         "mouth",
-        "playful"
+        "playful",
+        "язык",
+        "рот",
+        "игривый"
       ],
       "skins": [
         {
@@ -7016,7 +7947,9 @@ window._emojiData =
       "name": "Mouth",
       "keywords": [
         "lips",
-        "kiss"
+        "kiss",
+        "губы",
+        "поцелуй"
       ],
       "skins": [
         {
@@ -7033,7 +7966,13 @@ window._emojiData =
         "flirt",
         "sexy",
         "pain",
-        "worry"
+        "worry",
+        "флирт",
+        "сексуальный",
+        "боль",
+        "волнение",
+        "кусать",
+        "губу"
       ],
       "skins": [
         {
@@ -7050,7 +7989,11 @@ window._emojiData =
         "child",
         "boy",
         "girl",
-        "toddler"
+        "toddler",
+        "ребёнок",
+        "мальчик",
+        "девочка",
+        "малыш"
       ],
       "skins": [
         {
@@ -7086,7 +8029,11 @@ window._emojiData =
       "keywords": [
         "gender",
         "neutral",
-        "young"
+        "young",
+        "ребёнок",
+        "пол",
+        "нейтральный",
+        "молодой"
       ],
       "skins": [
         {
@@ -7123,7 +8070,11 @@ window._emojiData =
         "man",
         "male",
         "guy",
-        "teenager"
+        "teenager",
+        "мальчик",
+        "мужчина",
+        "парень",
+        "подросток"
       ],
       "skins": [
         {
@@ -7159,7 +8110,10 @@ window._emojiData =
       "keywords": [
         "female",
         "woman",
-        "teenager"
+        "teenager",
+        "девочка",
+        "женщина",
+        "подросток"
       ],
       "skins": [
         {
@@ -7195,7 +8149,11 @@ window._emojiData =
       "keywords": [
         "person",
         "gender",
-        "neutral"
+        "neutral",
+        "взрослый",
+        "человек",
+        "пол",
+        "нейтральный"
       ],
       "skins": [
         {
@@ -7230,7 +8188,11 @@ window._emojiData =
       "name": "Person Blond Hair",
       "keywords": [
         "with",
-        "hairstyle"
+        "hairstyle",
+        "блондин",
+        "причёска",
+        "человек",
+        "волосы"
       ],
       "skins": [
         {
@@ -7270,7 +8232,14 @@ window._emojiData =
         "guy",
         "classy",
         "sir",
-        "moustache"
+        "moustache",
+        "мужчина",
+        "усы",
+        "отец",
+        "папа",
+        "парень",
+        "элегантный",
+        "господин"
       ],
       "skins": [
         {
@@ -7306,7 +8275,10 @@ window._emojiData =
       "keywords": [
         "bearded",
         "man",
-        "bewhiskered"
+        "bewhiskered",
+        "борода",
+        "человек",
+        "бородатый"
       ],
       "skins": [
         {
@@ -7343,7 +8315,11 @@ window._emojiData =
         "man",
         "with",
         "facial",
-        "hair"
+        "hair",
+        "мужчина",
+        "борода",
+        "лицевые",
+        "волосы"
       ],
       "skins": [
         {
@@ -7380,7 +8356,11 @@ window._emojiData =
         "woman",
         "with",
         "facial",
-        "hair"
+        "hair",
+        "женщина",
+        "борода",
+        "лицевые",
+        "волосы"
       ],
       "skins": [
         {
@@ -7416,7 +8396,11 @@ window._emojiData =
       "keywords": [
         "haired",
         "man",
-        "hairstyle"
+        "hairstyle",
+        "рыжий",
+        "мужчина",
+        "причёска",
+        "волосы"
       ],
       "skins": [
         {
@@ -7452,7 +8436,11 @@ window._emojiData =
       "keywords": [
         "haired",
         "man",
-        "hairstyle"
+        "hairstyle",
+        "кудрявый",
+        "мужчина",
+        "причёска",
+        "волосы"
       ],
       "skins": [
         {
@@ -7489,7 +8477,12 @@ window._emojiData =
         "haired",
         "man",
         "old",
-        "elder"
+        "elder",
+        "седой",
+        "мужчина",
+        "старый",
+        "пожилой",
+        "волосы"
       ],
       "skins": [
         {
@@ -7524,7 +8517,10 @@ window._emojiData =
       "name": "Man: Bald",
       "keywords": [
         "man",
-        "hairless"
+        "hairless",
+        "мужчина",
+        "лысый",
+        "безволосый"
       ],
       "skins": [
         {
@@ -7560,7 +8556,10 @@ window._emojiData =
       "keywords": [
         "female",
         "girls",
-        "lady"
+        "lady",
+        "женщина",
+        "девочки",
+        "дама"
       ],
       "skins": [
         {
@@ -7596,7 +8595,11 @@ window._emojiData =
       "keywords": [
         "haired",
         "woman",
-        "hairstyle"
+        "hairstyle",
+        "рыжая",
+        "женщина",
+        "причёска",
+        "волосы"
       ],
       "skins": [
         {
@@ -7632,7 +8635,11 @@ window._emojiData =
       "keywords": [
         "haired",
         "person",
-        "hairstyle"
+        "hairstyle",
+        "рыжий",
+        "человек",
+        "причёска",
+        "волосы"
       ],
       "skins": [
         {
@@ -7668,7 +8675,11 @@ window._emojiData =
       "keywords": [
         "haired",
         "woman",
-        "hairstyle"
+        "hairstyle",
+        "кудрявая",
+        "женщина",
+        "причёска",
+        "волосы"
       ],
       "skins": [
         {
@@ -7704,7 +8715,11 @@ window._emojiData =
       "keywords": [
         "haired",
         "person",
-        "hairstyle"
+        "hairstyle",
+        "кудрявый",
+        "человек",
+        "причёска",
+        "волосы"
       ],
       "skins": [
         {
@@ -7741,7 +8756,12 @@ window._emojiData =
         "haired",
         "woman",
         "old",
-        "elder"
+        "elder",
+        "седая",
+        "женщина",
+        "старый",
+        "пожилая",
+        "волосы"
       ],
       "skins": [
         {
@@ -7778,7 +8798,12 @@ window._emojiData =
         "haired",
         "person",
         "elder",
-        "old"
+        "old",
+        "седой",
+        "человек",
+        "пожилой",
+        "старый",
+        "волосы"
       ],
       "skins": [
         {
@@ -7813,7 +8838,10 @@ window._emojiData =
       "name": "Woman: Bald",
       "keywords": [
         "woman",
-        "hairless"
+        "hairless",
+        "женщина",
+        "лысая",
+        "безволосая"
       ],
       "skins": [
         {
@@ -7848,7 +8876,10 @@ window._emojiData =
       "name": "Person: Bald",
       "keywords": [
         "person",
-        "hairless"
+        "hairless",
+        "человек",
+        "лысый",
+        "безволосый"
       ],
       "skins": [
         {
@@ -7887,7 +8918,12 @@ window._emojiData =
         "female",
         "girl",
         "blonde",
-        "person"
+        "person",
+        "блондинка",
+        "женщина",
+        "девочка",
+        "человек",
+        "волосы"
       ],
       "skins": [
         {
@@ -7927,7 +8963,13 @@ window._emojiData =
         "boy",
         "blonde",
         "guy",
-        "person"
+        "person",
+        "блондин",
+        "мужчина",
+        "парень",
+        "мальчик",
+        "человек",
+        "волосы"
       ],
       "skins": [
         {
@@ -7966,7 +9008,13 @@ window._emojiData =
         "elder",
         "senior",
         "gender",
-        "neutral"
+        "neutral",
+        "пожилой",
+        "человек",
+        "старик",
+        "старший",
+        "пол",
+        "нейтральный"
       ],
       "skins": [
         {
@@ -8005,7 +9053,12 @@ window._emojiData =
         "male",
         "men",
         "elder",
-        "senior"
+        "senior",
+        "пожилой",
+        "человек",
+        "мужчина",
+        "старик",
+        "старший"
       ],
       "skins": [
         {
@@ -8045,7 +9098,13 @@ window._emojiData =
         "women",
         "lady",
         "elder",
-        "senior"
+        "senior",
+        "пожилая",
+        "человек",
+        "женщина",
+        "старушка",
+        "старшая",
+        "дама"
       ],
       "skins": [
         {
@@ -8079,7 +9138,10 @@ window._emojiData =
       "id": "person_frowning",
       "name": "Person Frowning",
       "keywords": [
-        "worried"
+        "worried",
+        "обеспокоенный",
+        "хмурый",
+        "грустный"
       ],
       "skins": [
         {
@@ -8118,7 +9180,13 @@ window._emojiData =
         "sad",
         "depressed",
         "discouraged",
-        "unhappy"
+        "unhappy",
+        "мужчина",
+        "парень",
+        "грустный",
+        "подавленный",
+        "разочарованный",
+        "несчастный"
       ],
       "skins": [
         {
@@ -8157,7 +9225,13 @@ window._emojiData =
         "sad",
         "depressed",
         "discouraged",
-        "unhappy"
+        "unhappy",
+        "женщина",
+        "девочка",
+        "грустная",
+        "подавленная",
+        "разочарованная",
+        "несчастная"
       ],
       "skins": [
         {
@@ -8193,7 +9267,10 @@ window._emojiData =
       "keywords": [
         "with",
         "face",
-        "upset"
+        "upset",
+        "лицо",
+        "обиженный",
+        "надутый"
       ],
       "skins": [
         {
@@ -8228,7 +9305,11 @@ window._emojiData =
       "name": "Man Pouting",
       "keywords": [
         "male",
-        "boy"
+        "boy",
+        "мужчина",
+        "парень",
+        "обиженный",
+        "надутый"
       ],
       "skins": [
         {
@@ -8263,7 +9344,11 @@ window._emojiData =
       "name": "Woman Pouting",
       "keywords": [
         "female",
-        "girl"
+        "girl",
+        "женщина",
+        "девочка",
+        "обиженная",
+        "надутая"
       ],
       "skins": [
         {
@@ -8298,7 +9383,10 @@ window._emojiData =
       "name": "Person Gesturing No",
       "keywords": [
         "good",
-        "decline"
+        "decline",
+        "нет",
+        "отказ",
+        "жест"
       ],
       "skins": [
         {
@@ -8335,7 +9423,12 @@ window._emojiData =
         "gesturing-no",
         "male",
         "boy",
-        "nope"
+        "nope",
+        "мужчина",
+        "парень",
+        "нет",
+        "отказ",
+        "жест"
       ],
       "skins": [
         {
@@ -8372,7 +9465,12 @@ window._emojiData =
         "gesturing-no",
         "female",
         "girl",
-        "nope"
+        "nope",
+        "женщина",
+        "девочка",
+        "нет",
+        "отказ",
+        "жест"
       ],
       "skins": [
         {
@@ -8407,7 +9505,11 @@ window._emojiData =
       "name": "Person Gesturing Ok",
       "keywords": [
         "woman",
-        "agree"
+        "agree",
+        "женщина",
+        "согласна",
+        "ок",
+        "жест"
       ],
       "skins": [
         {
@@ -8446,7 +9548,13 @@ window._emojiData =
         "boy",
         "male",
         "blue",
-        "human"
+        "human",
+        "мужчина",
+        "парень",
+        "согласен",
+        "ок",
+        "жест",
+        "человек"
       ],
       "skins": [
         {
@@ -8485,7 +9593,13 @@ window._emojiData =
         "girl",
         "female",
         "pink",
-        "human"
+        "human",
+        "женщина",
+        "девочка",
+        "согласна",
+        "ок",
+        "жест",
+        "человек"
       ],
       "skins": [
         {
@@ -8520,7 +9634,11 @@ window._emojiData =
       "name": "Person Tipping Hand",
       "keywords": [
         "information",
-        "desk"
+        "desk",
+        "информация",
+        "стойка",
+        "жест",
+        "рука"
       ],
       "skins": [
         {
@@ -8558,7 +9676,13 @@ window._emojiData =
         "male",
         "boy",
         "human",
-        "information"
+        "information",
+        "мужчина",
+        "парень",
+        "человек",
+        "информация",
+        "жест",
+        "рука"
       ],
       "skins": [
         {
@@ -8596,7 +9720,13 @@ window._emojiData =
         "female",
         "girl",
         "human",
-        "information"
+        "information",
+        "женщина",
+        "девочка",
+        "человек",
+        "информация",
+        "жест",
+        "рука"
       ],
       "skins": [
         {
@@ -8630,7 +9760,11 @@ window._emojiData =
       "id": "raising_hand",
       "name": "Person Raising Hand",
       "keywords": [
-        "question"
+        "question",
+        "вопрос",
+        "поднять",
+        "руку",
+        "жест"
       ],
       "skins": [
         {
@@ -8666,7 +9800,12 @@ window._emojiData =
       "keywords": [
         "raising-hand",
         "male",
-        "boy"
+        "boy",
+        "мужчина",
+        "парень",
+        "поднять",
+        "руку",
+        "жест"
       ],
       "skins": [
         {
@@ -8702,7 +9841,12 @@ window._emojiData =
       "keywords": [
         "raising-hand",
         "female",
-        "girl"
+        "girl",
+        "женщина",
+        "девочка",
+        "поднять",
+        "руку",
+        "жест"
       ],
       "skins": [
         {
@@ -8736,7 +9880,10 @@ window._emojiData =
       "id": "deaf_person",
       "name": "Deaf Person",
       "keywords": [
-        "accessibility"
+        "accessibility",
+        "глухой",
+        "человек",
+        "доступность"
       ],
       "skins": [
         {
@@ -8770,7 +9917,10 @@ window._emojiData =
       "id": "deaf_man",
       "name": "Deaf Man",
       "keywords": [
-        "accessibility"
+        "accessibility",
+        "глухой",
+        "мужчина",
+        "доступность"
       ],
       "skins": [
         {
@@ -8804,7 +9954,10 @@ window._emojiData =
       "id": "deaf_woman",
       "name": "Deaf Woman",
       "keywords": [
-        "accessibility"
+        "accessibility",
+        "глухая",
+        "женщина",
+        "доступность"
       ],
       "skins": [
         {
@@ -8839,7 +9992,10 @@ window._emojiData =
       "name": "Person Bowing",
       "keywords": [
         "bow",
-        "respectiful"
+        "respectiful",
+        "поклон",
+        "уважительный",
+        "жест"
       ],
       "skins": [
         {
@@ -8874,7 +10030,12 @@ window._emojiData =
       "name": "Man Bowing",
       "keywords": [
         "male",
-        "boy"
+        "boy",
+        "мужчина",
+        "парень",
+        "поклон",
+        "уважительный",
+        "жест"
       ],
       "skins": [
         {
@@ -8909,7 +10070,12 @@ window._emojiData =
       "name": "Woman Bowing",
       "keywords": [
         "female",
-        "girl"
+        "girl",
+        "женщина",
+        "девочка",
+        "поклон",
+        "уважительный",
+        "жест"
       ],
       "skins": [
         {
@@ -8945,7 +10111,12 @@ window._emojiData =
       "keywords": [
         "person",
         "facepalming",
-        "disappointed"
+        "disappointed",
+        "человек",
+        "ладонь",
+        "лицо",
+        "разочарование",
+        "неловкость"
       ],
       "skins": [
         {
@@ -8981,7 +10152,13 @@ window._emojiData =
       "keywords": [
         "male",
         "boy",
-        "disbelief"
+        "disbelief",
+        "мужчина",
+        "парень",
+        "недоверие",
+        "ладонь",
+        "лицо",
+        "неловкость"
       ],
       "skins": [
         {
@@ -9017,7 +10194,13 @@ window._emojiData =
       "keywords": [
         "female",
         "girl",
-        "disbelief"
+        "disbelief",
+        "женщина",
+        "девочка",
+        "недоверие",
+        "ладонь",
+        "лицо",
+        "неловкость"
       ],
       "skins": [
         {
@@ -9053,7 +10236,11 @@ window._emojiData =
       "keywords": [
         "person",
         "shrugging",
-        "regardless"
+        "regardless",
+        "человек",
+        "пожимает",
+        "плечами",
+        "безразлично"
       ],
       "skins": [
         {
@@ -9091,7 +10278,14 @@ window._emojiData =
         "boy",
         "confused",
         "indifferent",
-        "doubt"
+        "doubt",
+        "мужчина",
+        "парень",
+        "растерянный",
+        "безразличный",
+        "сомнение",
+        "пожимает",
+        "плечами"
       ],
       "skins": [
         {
@@ -9129,7 +10323,14 @@ window._emojiData =
         "girl",
         "confused",
         "indifferent",
-        "doubt"
+        "doubt",
+        "женщина",
+        "девочка",
+        "растерянная",
+        "безразличная",
+        "сомнение",
+        "пожимает",
+        "плечами"
       ],
       "skins": [
         {
@@ -9163,7 +10364,10 @@ window._emojiData =
       "id": "health_worker",
       "name": "Health Worker",
       "keywords": [
-        "hospital"
+        "hospital",
+        "больница",
+        "медицина",
+        "здравоохранение"
       ],
       "skins": [
         {
@@ -9202,7 +10406,13 @@ window._emojiData =
         "nurse",
         "therapist",
         "healthcare",
-        "human"
+        "human",
+        "мужчина",
+        "врач",
+        "медбрат",
+        "терапевт",
+        "здравоохранение",
+        "человек"
       ],
       "skins": [
         {
@@ -9241,7 +10451,13 @@ window._emojiData =
         "nurse",
         "therapist",
         "healthcare",
-        "human"
+        "human",
+        "женщина",
+        "врач",
+        "медсестра",
+        "терапевт",
+        "здравоохранение",
+        "человек"
       ],
       "skins": [
         {
@@ -9275,7 +10491,10 @@ window._emojiData =
       "id": "student",
       "name": "Student",
       "keywords": [
-        "learn"
+        "learn",
+        "учиться",
+        "студент",
+        "образование"
       ],
       "skins": [
         {
@@ -9311,7 +10530,11 @@ window._emojiData =
       "keywords": [
         "male",
         "graduate",
-        "human"
+        "human",
+        "мужчина",
+        "выпускник",
+        "человек",
+        "студент"
       ],
       "skins": [
         {
@@ -9347,7 +10570,11 @@ window._emojiData =
       "keywords": [
         "female",
         "graduate",
-        "human"
+        "human",
+        "женщина",
+        "выпускница",
+        "человек",
+        "студентка"
       ],
       "skins": [
         {
@@ -9381,7 +10608,10 @@ window._emojiData =
       "id": "teacher",
       "name": "Teacher",
       "keywords": [
-        "professor"
+        "professor",
+        "учитель",
+        "преподаватель",
+        "образование"
       ],
       "skins": [
         {
@@ -9418,7 +10648,11 @@ window._emojiData =
         "male",
         "instructor",
         "professor",
-        "human"
+        "human",
+        "мужчина",
+        "учитель",
+        "преподаватель",
+        "человек"
       ],
       "skins": [
         {
@@ -9455,7 +10689,11 @@ window._emojiData =
         "female",
         "instructor",
         "professor",
-        "human"
+        "human",
+        "женщина",
+        "учительница",
+        "преподавательница",
+        "человек"
       ],
       "skins": [
         {
@@ -9489,7 +10727,10 @@ window._emojiData =
       "id": "judge",
       "name": "Judge",
       "keywords": [
-        "law"
+        "law",
+        "закон",
+        "судья",
+        "правосудие"
       ],
       "skins": [
         {
@@ -9526,7 +10767,12 @@ window._emojiData =
         "male",
         "justice",
         "court",
-        "human"
+        "human",
+        "мужчина",
+        "правосудие",
+        "суд",
+        "человек",
+        "судья"
       ],
       "skins": [
         {
@@ -9563,7 +10809,12 @@ window._emojiData =
         "female",
         "justice",
         "court",
-        "human"
+        "human",
+        "женщина",
+        "правосудие",
+        "суд",
+        "человек",
+        "судья"
       ],
       "skins": [
         {
@@ -9597,7 +10848,11 @@ window._emojiData =
       "id": "farmer",
       "name": "Farmer",
       "keywords": [
-        "crops"
+        "crops",
+        "урожай",
+        "фермер",
+        "сельское",
+        "хозяйство"
       ],
       "skins": [
         {
@@ -9634,7 +10889,12 @@ window._emojiData =
         "male",
         "rancher",
         "gardener",
-        "human"
+        "human",
+        "мужчина",
+        "фермер",
+        "садовник",
+        "человек",
+        "крестьянин"
       ],
       "skins": [
         {
@@ -9671,7 +10931,12 @@ window._emojiData =
         "female",
         "rancher",
         "gardener",
-        "human"
+        "human",
+        "женщина",
+        "фермерша",
+        "садовница",
+        "человек",
+        "крестьянка"
       ],
       "skins": [
         {
@@ -9707,7 +10972,11 @@ window._emojiData =
       "keywords": [
         "food",
         "kitchen",
-        "culinary"
+        "culinary",
+        "еда",
+        "кухня",
+        "кулинария",
+        "повар"
       ],
       "skins": [
         {
@@ -9743,7 +11012,11 @@ window._emojiData =
       "keywords": [
         "male",
         "chef",
-        "human"
+        "human",
+        "мужчина",
+        "шеф",
+        "повар",
+        "человек"
       ],
       "skins": [
         {
@@ -9779,7 +11052,11 @@ window._emojiData =
       "keywords": [
         "female",
         "chef",
-        "human"
+        "human",
+        "женщина",
+        "шеф",
+        "повариха",
+        "человек"
       ],
       "skins": [
         {
@@ -9814,7 +11091,10 @@ window._emojiData =
       "name": "Mechanic",
       "keywords": [
         "worker",
-        "technician"
+        "technician",
+        "рабочий",
+        "техник",
+        "механик"
       ],
       "skins": [
         {
@@ -9851,7 +11131,13 @@ window._emojiData =
         "male",
         "plumber",
         "human",
-        "wrench"
+        "wrench",
+        "мужчина",
+        "сантехник",
+        "человек",
+        "гаечный",
+        "ключ",
+        "механик"
       ],
       "skins": [
         {
@@ -9888,7 +11174,13 @@ window._emojiData =
         "female",
         "plumber",
         "human",
-        "wrench"
+        "wrench",
+        "женщина",
+        "сантехник",
+        "человек",
+        "гаечный",
+        "ключ",
+        "механик"
       ],
       "skins": [
         {
@@ -9922,7 +11214,11 @@ window._emojiData =
       "id": "factory_worker",
       "name": "Factory Worker",
       "keywords": [
-        "labor"
+        "labor",
+        "труд",
+        "рабочий",
+        "фабрика",
+        "производство"
       ],
       "skins": [
         {
@@ -9960,7 +11256,13 @@ window._emojiData =
         "factory-worker",
         "assembly",
         "industrial",
-        "human"
+        "human",
+        "мужчина",
+        "рабочий",
+        "сборка",
+        "промышленность",
+        "человек",
+        "фабрика"
       ],
       "skins": [
         {
@@ -9998,7 +11300,13 @@ window._emojiData =
         "factory-worker",
         "assembly",
         "industrial",
-        "human"
+        "human",
+        "женщина",
+        "рабочая",
+        "сборка",
+        "промышленность",
+        "человек",
+        "фабрика"
       ],
       "skins": [
         {
@@ -10032,7 +11340,10 @@ window._emojiData =
       "id": "office_worker",
       "name": "Office Worker",
       "keywords": [
-        "business"
+        "business",
+        "офисный работник",
+        "костюм",
+        "портфель"
       ],
       "skins": [
         {
@@ -10070,7 +11381,10 @@ window._emojiData =
         "office-worker",
         "business",
         "manager",
-        "human"
+        "human",
+        "мужчина-офисный работник",
+        "костюм",
+        "портфель"
       ],
       "skins": [
         {
@@ -10108,7 +11422,10 @@ window._emojiData =
         "office-worker",
         "business",
         "manager",
-        "human"
+        "human",
+        "женщина-офисный работник",
+        "костюм",
+        "портфель"
       ],
       "skins": [
         {
@@ -10142,7 +11459,10 @@ window._emojiData =
       "id": "scientist",
       "name": "Scientist",
       "keywords": [
-        "chemistry"
+        "chemistry",
+        "ученый",
+        "лаборатория",
+        "микроскоп"
       ],
       "skins": [
         {
@@ -10160,14 +11480,6 @@ window._emojiData =
         {
           "unified": "1f9d1-1f3fd-200d-1f52c",
           "native": "🧑🏽‍🔬"
-        },
-        {
-          "unified": "1f9d1-1f3fe-200d-1f52c",
-          "native": "🧑🏾‍🔬"
-        },
-        {
-          "unified": "1f9d1-1f3ff-200d-1f52c",
-          "native": "🧑🏿‍🔬"
         }
       ],
       "version": 12.1
@@ -10181,7 +11493,10 @@ window._emojiData =
         "chemist",
         "engineer",
         "physicist",
-        "human"
+        "human",
+        "мужчина-ученый",
+        "лаборатория",
+        "микроскоп"
       ],
       "skins": [
         {
@@ -10220,7 +11535,10 @@ window._emojiData =
         "chemist",
         "engineer",
         "physicist",
-        "human"
+        "human",
+        "женщина-ученый",
+        "лаборатория",
+        "микроскоп"
       ],
       "skins": [
         {
@@ -10254,7 +11572,10 @@ window._emojiData =
       "id": "technologist",
       "name": "Technologist",
       "keywords": [
-        "computer"
+        "computer",
+        "технолог",
+        "ноутбук",
+        "программист"
       ],
       "skins": [
         {
@@ -10296,7 +11617,10 @@ window._emojiData =
         "software",
         "human",
         "laptop",
-        "computer"
+        "computer",
+        "мужчина-технолог",
+        "ноутбук",
+        "программист"
       ],
       "skins": [
         {
@@ -10338,7 +11662,10 @@ window._emojiData =
         "software",
         "human",
         "laptop",
-        "computer"
+        "computer",
+        "женщина-технолог",
+        "ноутбук",
+        "программист"
       ],
       "skins": [
         {
@@ -10374,7 +11701,10 @@ window._emojiData =
       "keywords": [
         "song",
         "artist",
-        "performer"
+        "performer",
+        "певец",
+        "микрофон",
+        "выступление"
       ],
       "skins": [
         {
@@ -10411,7 +11741,10 @@ window._emojiData =
         "male",
         "rockstar",
         "entertainer",
-        "human"
+        "human",
+        "мужчина-певец",
+        "микрофон",
+        "выступление"
       ],
       "skins": [
         {
@@ -10448,7 +11781,10 @@ window._emojiData =
         "female",
         "rockstar",
         "entertainer",
-        "human"
+        "human",
+        "женщина-певица",
+        "микрофон",
+        "выступление"
       ],
       "skins": [
         {
@@ -10484,7 +11820,10 @@ window._emojiData =
       "keywords": [
         "painting",
         "draw",
-        "creativity"
+        "creativity",
+        "художник",
+        "палитра",
+        "кисть"
       ],
       "skins": [
         {
@@ -10520,7 +11859,10 @@ window._emojiData =
       "keywords": [
         "male",
         "painter",
-        "human"
+        "human",
+        "мужчина-художник",
+        "палитра",
+        "кисть"
       ],
       "skins": [
         {
@@ -10556,7 +11898,10 @@ window._emojiData =
       "keywords": [
         "female",
         "painter",
-        "human"
+        "human",
+        "женщина-художница",
+        "палитра",
+        "кисть"
       ],
       "skins": [
         {
@@ -10592,7 +11937,10 @@ window._emojiData =
       "keywords": [
         "fly",
         "plane",
-        "airplane"
+        "airplane",
+        "пилот",
+        "самолет",
+        "униформа"
       ],
       "skins": [
         {
@@ -10629,7 +11977,10 @@ window._emojiData =
         "male",
         "aviator",
         "plane",
-        "human"
+        "human",
+        "мужчина-пилот",
+        "самолет",
+        "униформа"
       ],
       "skins": [
         {
@@ -10666,7 +12017,10 @@ window._emojiData =
         "female",
         "aviator",
         "plane",
-        "human"
+        "human",
+        "женщина-пилот",
+        "самолет",
+        "униформа"
       ],
       "skins": [
         {
@@ -10700,7 +12054,10 @@ window._emojiData =
       "id": "astronaut",
       "name": "Astronaut",
       "keywords": [
-        "outerspace"
+        "outerspace",
+        "астронавт",
+        "космос",
+        "скафандр"
       ],
       "skins": [
         {
@@ -10737,7 +12094,10 @@ window._emojiData =
         "male",
         "space",
         "rocket",
-        "human"
+        "human",
+        "мужчина-астронавт",
+        "космос",
+        "скафандр"
       ],
       "skins": [
         {
@@ -10774,12 +12134,15 @@ window._emojiData =
         "female",
         "space",
         "rocket",
-        "human"
+        "human",
+        "женщина-астронавт",
+        "космос",
+        "скафандр"
       ],
       "skins": [
         {
           "unified": "1f469-200d-1f680",
-          "native": "👩‍🚀"
+          "native": "👩‍Pillbox"
         },
         {
           "unified": "1f469-1f3fb-200d-1f680",
@@ -10808,7 +12171,10 @@ window._emojiData =
       "id": "firefighter",
       "name": "Firefighter",
       "keywords": [
-        "fire"
+        "fire",
+        "пожарный",
+        "шлем",
+        "огонь"
       ],
       "skins": [
         {
@@ -10844,7 +12210,10 @@ window._emojiData =
       "keywords": [
         "male",
         "fireman",
-        "human"
+        "human",
+        "мужчина-пожарный",
+        "шлем",
+        "огонь"
       ],
       "skins": [
         {
@@ -10880,7 +12249,10 @@ window._emojiData =
       "keywords": [
         "female",
         "fireman",
-        "human"
+        "human",
+        "женщина-пожарный",
+        "шлем",
+        "огонь"
       ],
       "skins": [
         {
@@ -10914,7 +12286,10 @@ window._emojiData =
       "id": "cop",
       "name": "Police Officer",
       "keywords": [
-        "cop"
+        "cop",
+        "полицейский",
+        "форма",
+        "значок"
       ],
       "skins": [
         {
@@ -10954,7 +12329,10 @@ window._emojiData =
         "legal",
         "enforcement",
         "arrest",
-        "911"
+        "911",
+        "мужчина-полицейский",
+        "форма",
+        "значок"
       ],
       "skins": [
         {
@@ -10994,7 +12372,10 @@ window._emojiData =
         "legal",
         "enforcement",
         "arrest",
-        "911"
+        "911",
+        "женщина-полицейский",
+        "форма",
+        "значок"
       ],
       "skins": [
         {
@@ -11031,7 +12412,11 @@ window._emojiData =
         "sleuth",
         "or",
         "spy",
-        "human"
+        "human",
+        "детектив",
+        "плащ",
+        "шляпа",
+        "лупа"
       ],
       "skins": [
         {
@@ -11066,7 +12451,11 @@ window._emojiData =
       "name": "Man Detective",
       "keywords": [
         "male",
-        "crime"
+        "crime",
+        "мужчина-детектив",
+        "плащ",
+        "шляпа",
+        "лупа"
       ],
       "skins": [
         {
@@ -11102,7 +12491,11 @@ window._emojiData =
       "keywords": [
         "female",
         "human",
-        "spy"
+        "spy",
+        "женщина-детектив",
+        "плащ",
+        "шляпа",
+        "лупа"
       ],
       "skins": [
         {
@@ -11137,7 +12530,10 @@ window._emojiData =
       "name": "Guard",
       "keywords": [
         "guardsman",
-        "protect"
+        "protect",
+        "страж",
+        "униформа",
+        "шапка"
       ],
       "skins": [
         {
@@ -11159,13 +12555,9 @@ window._emojiData =
         {
           "unified": "1f482-1f3fe",
           "native": "💂🏾"
-        },
-        {
-          "unified": "1f482-1f3ff",
-          "native": "💂🏿"
         }
       ],
-      "version": 1
+      "version": 4
     },
     "male-guard": {
       "id": "male-guard",
@@ -11176,7 +12568,10 @@ window._emojiData =
         "gb",
         "british",
         "guy",
-        "royal"
+        "royal",
+        "мужчина-страж",
+        "униформа",
+        "шапка"
       ],
       "skins": [
         {
@@ -11214,7 +12609,10 @@ window._emojiData =
         "uk",
         "gb",
         "british",
-        "royal"
+        "royal",
+        "женщина-страж",
+        "униформа",
+        "шапка"
       ],
       "skins": [
         {
@@ -11250,7 +12648,10 @@ window._emojiData =
       "keywords": [
         "ninjutsu",
         "skills",
-        "japanese"
+        "japanese",
+        "ниндзя",
+        "маска",
+        "меч"
       ],
       "skins": [
         {
@@ -11285,7 +12686,10 @@ window._emojiData =
       "name": "Construction Worker",
       "keywords": [
         "labor",
-        "build"
+        "build",
+        "строитель",
+        "каска",
+        "жилет"
       ],
       "skins": [
         {
@@ -11325,7 +12729,10 @@ window._emojiData =
         "wip",
         "guy",
         "build",
-        "labor"
+        "labor",
+        "мужчина-строитель",
+        "каска",
+        "жилет"
       ],
       "skins": [
         {
@@ -11364,7 +12771,10 @@ window._emojiData =
         "human",
         "wip",
         "build",
-        "labor"
+        "labor",
+        "женщина-строитель",
+        "каска",
+        "жилет"
       ],
       "skins": [
         {
@@ -11399,7 +12809,10 @@ window._emojiData =
       "name": "Person with Crown",
       "keywords": [
         "royalty",
-        "power"
+        "power",
+        "коронованная особа",
+        "корона",
+        "власть"
       ],
       "skins": [
         {
@@ -11438,7 +12851,9 @@ window._emojiData =
         "male",
         "crown",
         "royal",
-        "king"
+        "king",
+        "принц",
+        "корона"
       ],
       "skins": [
         {
@@ -11478,7 +12893,10 @@ window._emojiData =
         "blond",
         "crown",
         "royal",
-        "queen"
+        "queen",
+        "принцесса",
+        "корона",
+        "королевская"
       ],
       "skins": [
         {
@@ -11514,7 +12932,10 @@ window._emojiData =
       "keywords": [
         "person",
         "wearing",
-        "headdress"
+        "headdress",
+        "человек с тюрбаном",
+        "тюрбан",
+        "головной убор"
       ],
       "skins": [
         {
@@ -11552,7 +12973,10 @@ window._emojiData =
         "male",
         "indian",
         "hinduism",
-        "arabs"
+        "arabs",
+        "мужчина в тюрбане",
+        "тюрбан",
+        "головной убор"
       ],
       "skins": [
         {
@@ -11590,7 +13014,10 @@ window._emojiData =
         "female",
         "indian",
         "hinduism",
-        "arabs"
+        "arabs",
+        "женщина в тюрбане",
+        "тюрбан",
+        "головной убор"
       ],
       "skins": [
         {
@@ -11627,7 +13054,10 @@ window._emojiData =
         "skullcap",
         "male",
         "boy",
-        "chinese"
+        "chinese",
+        "мужчина в гва пи мао",
+        "шапка",
+        "китайский"
       ],
       "skins": [
         {
@@ -11665,7 +13095,10 @@ window._emojiData =
         "female",
         "hijab",
         "mantilla",
-        "tichel"
+        "tichel",
+        "женщина в платке",
+        "хиджаб",
+        "головной платок"
       ],
       "skins": [
         {
@@ -11703,7 +13136,10 @@ window._emojiData =
         "couple",
         "marriage",
         "wedding",
-        "groom"
+        "groom",
+        "человек в смокинге",
+        "смокинг",
+        "жених"
       ],
       "skins": [
         {
@@ -11738,7 +13174,10 @@ window._emojiData =
       "name": "Man in Tuxedo",
       "keywords": [
         "formal",
-        "fashion"
+        "fashion",
+        "мужчина в смокинге",
+        "смокинг",
+        "официальный"
       ],
       "skins": [
         {
@@ -11773,7 +13212,10 @@ window._emojiData =
       "name": "Woman in Tuxedo",
       "keywords": [
         "formal",
-        "fashion"
+        "fashion",
+        "женщина в смокинге",
+        "смокинг",
+        "официальный"
       ],
       "skins": [
         {
@@ -11810,7 +13252,10 @@ window._emojiData =
         "couple",
         "marriage",
         "wedding",
-        "woman"
+        "woman",
+        "невеста с фатой",
+        "фата",
+        "свадьба"
       ],
       "skins": [
         {
@@ -11845,11 +13290,30 @@ window._emojiData =
       "name": "Man with Veil",
       "keywords": [
         "wedding",
-        "marriage"
+        "marriage",
+        "мужчина с фатой",
+        "фата",
+        "свадьба"
       ],
       "skins": [
         {
           "unified": "1f470-200d-2642-fe0f",
+          "native": "👰‍♂️"
+        },
+        {
+          "unified": "1f470-1f3fb-200d-2642-fe0f",
+          "native": "👰🏻‍♂️"
+        },
+        {
+          "unified": "1f470-1f3fc-200d-2642-fe0f",
+          "native": "👰🏼‍♂️"
+        },
+        {
+          "unified": "1f470-1f3fd-200d-2642-fe0f",
+          "native": "👰🏽‍♂️"
+        },
+        {
+          "unified": "1f470-1f3fe-200d-2642-fe0f",
           "native": "👰‍♂️"
         },
         {
@@ -11880,7 +13344,10 @@ window._emojiData =
       "name": "Woman with Veil",
       "keywords": [
         "wedding",
-        "marriage"
+        "marriage",
+        "женщина с фатой",
+        "фата",
+        "свадьба"
       ],
       "skins": [
         {
@@ -11914,7 +13381,10 @@ window._emojiData =
       "id": "pregnant_woman",
       "name": "Pregnant Woman",
       "keywords": [
-        "baby"
+        "baby",
+        "беременная женщина",
+        "беременность",
+        "живот"
       ],
       "skins": [
         {
@@ -11949,7 +13419,10 @@ window._emojiData =
       "name": "Pregnant Man",
       "keywords": [
         "baby",
-        "belly"
+        "belly",
+        "беременный мужчина",
+        "беременность",
+        "живот"
       ],
       "skins": [
         {
@@ -11984,7 +13457,10 @@ window._emojiData =
       "name": "Pregnant Person",
       "keywords": [
         "baby",
-        "belly"
+        "belly",
+        "беременный человек",
+        "беременность",
+        "живот"
       ],
       "skins": [
         {
@@ -12021,7 +13497,10 @@ window._emojiData =
         "breast",
         "feeding",
         "nursing",
-        "baby"
+        "baby",
+        "грудное вскармливание",
+        "мать",
+        "ребенок"
       ],
       "skins": [
         {
@@ -12056,7 +13535,10 @@ window._emojiData =
       "name": "Woman Feeding Baby",
       "keywords": [
         "birth",
-        "food"
+        "food",
+        "женщина кормит ребенка",
+        "бутылочка",
+        "ребенок"
       ],
       "skins": [
         {
@@ -12091,7 +13573,10 @@ window._emojiData =
       "name": "Man Feeding Baby",
       "keywords": [
         "birth",
-        "food"
+        "food",
+        "мужчина кормит ребенка",
+        "бутылочка",
+        "ребенок"
       ],
       "skins": [
         {
@@ -12126,7 +13611,10 @@ window._emojiData =
       "name": "Person Feeding Baby",
       "keywords": [
         "birth",
-        "food"
+        "food",
+        "человек кормит ребенка",
+        "бутылочка",
+        "ребенок"
       ],
       "skins": [
         {
@@ -12143,15 +13631,8 @@ window._emojiData =
         },
         {
           "unified": "1f9d1-1f3fd-200d-1f37c",
-          "native": "🧑🏽‍🍼"
-        },
-        {
-          "unified": "1f9d1-1f3fe-200d-1f37c",
-          "native": "🧑🏾‍🍼"
-        },
-        {
-          "unified": "1f9d1-1f3ff-200d-1f37c",
-          "native": "🧑🏿‍🍼"
+          "native": "🧑🏽‍ ",
+          "version": 13
         }
       ],
       "version": 13
@@ -12162,7 +13643,10 @@ window._emojiData =
       "keywords": [
         "heaven",
         "wings",
-        "halo"
+        "halo",
+        "ангел",
+        "крылья",
+        "нимб"
       ],
       "skins": [
         {
@@ -12201,7 +13685,11 @@ window._emojiData =
         "male",
         "xmas",
         "father",
-        "christmas"
+        "christmas",
+        "дед мороз",
+        "санта-клаус",
+        "рождество",
+        "подарки"
       ],
       "skins": [
         {
@@ -12240,7 +13728,10 @@ window._emojiData =
         "christmas",
         "woman",
         "female",
-        "xmas"
+        "xmas",
+        "миссис клаус",
+        "рождество",
+        "праздник"
       ],
       "skins": [
         {
@@ -12274,7 +13765,10 @@ window._emojiData =
       "id": "mx_claus",
       "name": "Mx Claus",
       "keywords": [
-        "christmas"
+        "christmas",
+        "мкс клаус",
+        "рождество",
+        "праздник"
       ],
       "skins": [
         {
@@ -12308,7 +13802,10 @@ window._emojiData =
       "id": "superhero",
       "name": "Superhero",
       "keywords": [
-        "marvel"
+        "marvel",
+        "супергерой",
+        "плащ",
+        "сила"
       ],
       "skins": [
         {
@@ -12345,7 +13842,10 @@ window._emojiData =
         "male",
         "good",
         "hero",
-        "superpowers"
+        "superpowers",
+        "мужчина-супергерой",
+        "плащ",
+        "сила"
       ],
       "skins": [
         {
@@ -12382,7 +13882,10 @@ window._emojiData =
         "female",
         "good",
         "heroine",
-        "superpowers"
+        "superpowers",
+        "женщина-супергерой",
+        "плащ",
+        "сила"
       ],
       "skins": [
         {
@@ -12416,7 +13919,10 @@ window._emojiData =
       "id": "supervillain",
       "name": "Supervillain",
       "keywords": [
-        "marvel"
+        "marvel",
+        "суперзлодей",
+        "маска",
+        "зло"
       ],
       "skins": [
         {
@@ -12456,7 +13962,9 @@ window._emojiData =
         "criminal",
         "hero",
         "superpowers",
-        "зло"
+        "зло",
+        "мужчина-суперзлодей",
+        "маска"
       ],
       "skins": [
         {
@@ -12496,7 +14004,9 @@ window._emojiData =
         "criminal",
         "heroine",
         "superpowers",
-        "зло"
+        "зло",
+        "женщина-суперзлодей",
+        "маска"
       ],
       "skins": [
         {
@@ -12530,7 +14040,10 @@ window._emojiData =
       "id": "mage",
       "name": "Mage",
       "keywords": [
-        "magic"
+        "magic",
+        "маг",
+        "волшебство",
+        "посох"
       ],
       "skins": [
         {
@@ -12565,7 +14078,10 @@ window._emojiData =
       "name": "Man Mage",
       "keywords": [
         "male",
-        "sorcerer"
+        "sorcerer",
+        "мужчина-маг",
+        "волшебство",
+        "посох"
       ],
       "skins": [
         {
@@ -12600,7 +14116,10 @@ window._emojiData =
       "name": "Woman Mage",
       "keywords": [
         "female",
-        "witch"
+        "witch",
+        "женщина-маг",
+        "волшебство",
+        "посох"
       ],
       "skins": [
         {
@@ -12635,7 +14154,10 @@ window._emojiData =
       "name": "Fairy",
       "keywords": [
         "wings",
-        "magical"
+        "magical",
+        "фея",
+        "крылья",
+        "волшебство"
       ],
       "skins": [
         {
@@ -12669,7 +14191,10 @@ window._emojiData =
       "id": "male_fairy",
       "name": "Man Fairy",
       "keywords": [
-        "male"
+        "male",
+        "мужчина-фея",
+        "крылья",
+        "волшебство"
       ],
       "skins": [
         {
@@ -12703,7 +14228,10 @@ window._emojiData =
       "id": "female_fairy",
       "name": "Woman Fairy",
       "keywords": [
-        "female"
+        "female",
+        "женщина-фея",
+        "крылья",
+        "волшебство"
       ],
       "skins": [
         {
@@ -12738,7 +14266,10 @@ window._emojiData =
       "name": "Vampire",
       "keywords": [
         "blood",
-        "twilight"
+        "twilight",
+        "вампир",
+        "клыки",
+        "плащ"
       ],
       "skins": [
         {
@@ -12773,7 +14304,10 @@ window._emojiData =
       "name": "Man Vampire",
       "keywords": [
         "male",
-        "dracula"
+        "dracula",
+        "мужчина-вампир",
+        "клыки",
+        "плащ"
       ],
       "skins": [
         {
@@ -12807,7 +14341,10 @@ window._emojiData =
       "id": "female_vampire",
       "name": "Woman Vampire",
       "keywords": [
-        "female"
+        "female",
+        "женщина-вампир",
+        "клыки",
+        "плащ"
       ],
       "skins": [
         {
@@ -12841,7 +14378,10 @@ window._emojiData =
       "id": "merperson",
       "name": "Merperson",
       "keywords": [
-        "sea"
+        "sea",
+        "русалка",
+        "море",
+        "хвост"
       ],
       "skins": [
         {
@@ -12877,7 +14417,10 @@ window._emojiData =
       "keywords": [
         "man",
         "male",
-        "triton"
+        "triton",
+        "морской человек",
+        "море",
+        "хвост"
       ],
       "skins": [
         {
@@ -12914,7 +14457,10 @@ window._emojiData =
         "woman",
         "female",
         "merwoman",
-        "ariel"
+        "ariel",
+        "русалка",
+        "море",
+        "хвост"
       ],
       "skins": [
         {
@@ -12948,7 +14494,10 @@ window._emojiData =
       "id": "elf",
       "name": "Elf",
       "keywords": [
-        "magical"
+        "magical",
+        "эльф",
+        "уши",
+        "волшебство"
       ],
       "skins": [
         {
@@ -12982,7 +14531,10 @@ window._emojiData =
       "id": "male_elf",
       "name": "Man Elf",
       "keywords": [
-        "male"
+        "male",
+        "мужчина-эльф",
+        "уши",
+        "волшебство"
       ],
       "skins": [
         {
@@ -13016,7 +14568,10 @@ window._emojiData =
       "id": "female_elf",
       "name": "Woman Elf",
       "keywords": [
-        "female"
+        "female",
+        "женщина-эльф",
+        "уши",
+        "волшебство"
       ],
       "skins": [
         {
@@ -13051,7 +14606,10 @@ window._emojiData =
       "name": "Genie",
       "keywords": [
         "magical",
-        "wishes"
+        "wishes",
+        "джинн",
+        "лампа",
+        "волшебство"
       ],
       "skins": [
         {
@@ -13065,7 +14623,10 @@ window._emojiData =
       "id": "male_genie",
       "name": "Man Genie",
       "keywords": [
-        "male"
+        "male",
+        "мужчина-джинн",
+        "лампа",
+        "волшебство"
       ],
       "skins": [
         {
@@ -13079,7 +14640,10 @@ window._emojiData =
       "id": "female_genie",
       "name": "Woman Genie",
       "keywords": [
-        "female"
+        "female",
+        "женщина-джинн",
+        "лампа",
+        "волшебство"
       ],
       "skins": [
         {
@@ -13096,7 +14660,9 @@ window._emojiData =
         "dead",
         "смерть",
         "умереть",
-        "череп"
+        "череп",
+        "зомби",
+        "ходячие мертвецы"
       ],
       "skins": [
         {
@@ -13117,7 +14683,9 @@ window._emojiData =
         "dead",
         "смерть",
         "умереть",
-        "череп"
+        "череп",
+        "мужчина-зомби",
+        "ходячие мертвецы"
       ],
       "skins": [
         {
@@ -13137,7 +14705,9 @@ window._emojiData =
         "dead",
         "смерть",
         "умереть",
-        "череп"
+        "череп",
+        "женщина-зомби",
+        "ходячие мертвецы"
       ],
       "skins": [
         {
@@ -13152,7 +14722,10 @@ window._emojiData =
       "name": "Troll",
       "keywords": [
         "mystical",
-        "monster"
+        "monster",
+        "тролль",
+        "фантазия",
+        "чудовище"
       ],
       "skins": [
         {
@@ -13168,7 +14741,10 @@ window._emojiData =
       "keywords": [
         "person",
         "getting",
-        "relax"
+        "relax",
+        "массаж лица",
+        "расслабление",
+        "уход"
       ],
       "skins": [
         {
@@ -13205,7 +14781,10 @@ window._emojiData =
         "getting-massage",
         "male",
         "boy",
-        "head"
+        "head",
+        "мужчина на массаже",
+        "расслабление",
+        "уход"
       ],
       "skins": [
         {
@@ -13242,7 +14821,10 @@ window._emojiData =
         "getting-massage",
         "female",
         "girl",
-        "head"
+        "head",
+        "женщина на массаже",
+        "расслабление",
+        "уход"
       ],
       "skins": [
         {
@@ -13278,7 +14860,10 @@ window._emojiData =
       "keywords": [
         "person",
         "getting",
-        "hairstyle"
+        "hairstyle",
+        "стрижка",
+        "волосы",
+        "салон"
       ],
       "skins": [
         {
@@ -13314,7 +14899,10 @@ window._emojiData =
       "keywords": [
         "getting-haircut",
         "male",
-        "boy"
+        "boy",
+        "мужчина на стрижке",
+        "волосы",
+        "салон"
       ],
       "skins": [
         {
@@ -13350,7 +14938,10 @@ window._emojiData =
       "keywords": [
         "getting-haircut",
         "female",
-        "girl"
+        "girl",
+        "женщина на стрижке",
+        "волосы",
+        "салон"
       ],
       "skins": [
         {
@@ -13386,7 +14977,10 @@ window._emojiData =
       "keywords": [
         "walking",
         "person",
-        "move"
+        "move",
+        "пешеход",
+        "ходьба",
+        "движение"
       ],
       "skins": [
         {
@@ -13422,7 +15016,10 @@ window._emojiData =
       "keywords": [
         "human",
         "feet",
-        "steps"
+        "steps",
+        "мужчина идет",
+        "ходьба",
+        "движение"
       ],
       "skins": [
         {
@@ -13459,7 +15056,10 @@ window._emojiData =
         "human",
         "feet",
         "steps",
-        "female"
+        "female",
+        "женщина идет",
+        "ходьба",
+        "движение"
       ],
       "skins": [
         {
@@ -13493,7 +15093,10 @@ window._emojiData =
       "id": "standing_person",
       "name": "Standing Person",
       "keywords": [
-        "still"
+        "still",
+        "человек стоит",
+        "поза",
+        "неподвижность"
       ],
       "skins": [
         {
@@ -13527,7 +15130,10 @@ window._emojiData =
       "id": "man_standing",
       "name": "Man Standing",
       "keywords": [
-        "still"
+        "still",
+        "мужчина стоит",
+        "поза",
+        "неподвижность"
       ],
       "skins": [
         {
@@ -13561,7 +15167,10 @@ window._emojiData =
       "id": "woman_standing",
       "name": "Woman Standing",
       "keywords": [
-        "still"
+        "still",
+        "женщина стоит",
+        "поза",
+        "неподвижность"
       ],
       "skins": [
         {
@@ -13596,7 +15205,10 @@ window._emojiData =
       "name": "Kneeling Person",
       "keywords": [
         "pray",
-        "respectful"
+        "respectful",
+        "человек на коленях",
+        "молитва",
+        "уважение"
       ],
       "skins": [
         {
@@ -13631,7 +15243,10 @@ window._emojiData =
       "name": "Man Kneeling",
       "keywords": [
         "pray",
-        "respectful"
+        "respectful",
+        "мужчина на коленях",
+        "молитва",
+        "уважение"
       ],
       "skins": [
         {
@@ -13666,7 +15281,10 @@ window._emojiData =
       "name": "Woman Kneeling",
       "keywords": [
         "respectful",
-        "pray"
+        "pray",
+        "женщина на коленях",
+        "молитва",
+        "уважение"
       ],
       "skins": [
         {
@@ -13701,7 +15319,10 @@ window._emojiData =
       "name": "Person with White Cane",
       "keywords": [
         "probing",
-        "blind"
+        "blind",
+        "человек с тростью",
+        "слепота",
+        "доступность"
       ],
       "skins": [
         {
@@ -13736,7 +15357,10 @@ window._emojiData =
       "name": "Man with White Cane",
       "keywords": [
         "probing",
-        "blind"
+        "blind",
+        "мужчина с тростью",
+        "слепота",
+        "доступность"
       ],
       "skins": [
         {
@@ -13771,7 +15395,10 @@ window._emojiData =
       "name": "Woman with White Cane",
       "keywords": [
         "probing",
-        "blind"
+        "blind",
+        "женщина с тростью",
+        "слепота",
+        "доступность"
       ],
       "skins": [
         {
@@ -13806,7 +15433,10 @@ window._emojiData =
       "name": "Person in Motorized Wheelchair",
       "keywords": [
         "disability",
-        "accessibility"
+        "accessibility",
+        "человек в моторизованной коляске",
+        "инвалидность",
+        "мобильность"
       ],
       "skins": [
         {
@@ -13841,7 +15471,10 @@ window._emojiData =
       "name": "Man in Motorized Wheelchair",
       "keywords": [
         "disability",
-        "accessibility"
+        "accessibility",
+        "мужчина в моторизованной коляске",
+        "инвалидность",
+        "мобильность"
       ],
       "skins": [
         {
@@ -13876,7 +15509,10 @@ window._emojiData =
       "name": "Woman in Motorized Wheelchair",
       "keywords": [
         "disability",
-        "accessibility"
+        "accessibility",
+        "женщина в моторизованной коляске",
+        "инвалидность",
+        "мобильность"
       ],
       "skins": [
         {
@@ -13911,7 +15547,10 @@ window._emojiData =
       "name": "Person in Manual Wheelchair",
       "keywords": [
         "disability",
-        "accessibility"
+        "accessibility",
+        "человек в ручной коляске",
+        "инвалидность",
+        "мобильность"
       ],
       "skins": [
         {
@@ -13946,7 +15585,10 @@ window._emojiData =
       "name": "Man in Manual Wheelchair",
       "keywords": [
         "disability",
-        "accessibility"
+        "accessibility",
+        "мужчина в ручной коляске",
+        "инвалидность",
+        "мобильность"
       ],
       "skins": [
         {
@@ -13981,7 +15623,10 @@ window._emojiData =
       "name": "Woman in Manual Wheelchair",
       "keywords": [
         "disability",
-        "accessibility"
+        "accessibility",
+        "женщина в ручной коляске",
+        "инвалидность",
+        "мобильность"
       ],
       "skins": [
         {
@@ -14017,7 +15662,10 @@ window._emojiData =
       "keywords": [
         "running",
         "person",
-        "move"
+        "move",
+        "бегун",
+        "бег",
+        "спорт"
       ],
       "skins": [
         {
@@ -14053,7 +15701,10 @@ window._emojiData =
       "keywords": [
         "walking",
         "exercise",
-        "race"
+        "race",
+        "мужчина бежит",
+        "бег",
+        "спорт"
       ],
       "skins": [
         {
@@ -14090,7 +15741,10 @@ window._emojiData =
         "walking",
         "exercise",
         "race",
-        "female"
+        "female",
+        "женщина бежит",
+        "бег",
+        "спорт"
       ],
       "skins": [
         {
@@ -14128,7 +15782,10 @@ window._emojiData =
         "dancing",
         "female",
         "girl",
-        "fun"
+        "fun",
+        "танцовщица",
+        "танец",
+        "веселье"
       ],
       "skins": [
         {
@@ -14165,7 +15822,10 @@ window._emojiData =
         "male",
         "boy",
         "fun",
-        "dancer"
+        "dancer",
+        "танцор",
+        "танец",
+        "веселье"
       ],
       "skins": [
         {
@@ -14203,7 +15863,10 @@ window._emojiData =
         "business",
         "levitate",
         "hover",
-        "jump"
+        "jump",
+        "человек в костюме парит",
+        "левитация",
+        "деловой"
       ],
       "skins": [
         {
@@ -14240,7 +15903,10 @@ window._emojiData =
         "dancers",
         "people",
         "perform",
-        "costume"
+        "costume",
+        "женщины с заячьими ушами",
+        "танец",
+        "вечеринка"
       ],
       "skins": [
         {
@@ -14257,7 +15923,10 @@ window._emojiData =
         "with-bunny-ears-partying",
         "man",
         "male",
-        "boys"
+        "boys",
+        "мужчины с заячьими ушами",
+        "танец",
+        "вечеринка"
       ],
       "skins": [
         {
@@ -14274,7 +15943,10 @@ window._emojiData =
         "with-bunny-ears-partying",
         "woman",
         "female",
-        "girls"
+        "girls",
+        "женщины с заячьими ушами",
+        "танец",
+        "вечеринка"
       ],
       "skins": [
         {
@@ -14289,7 +15961,10 @@ window._emojiData =
       "name": "Person in Steamy Room",
       "keywords": [
         "relax",
-        "spa"
+        "spa",
+        "человек в парной",
+        "сауна",
+        "расслабление"
       ],
       "skins": [
         {
@@ -14326,7 +16001,9 @@ window._emojiData =
         "male",
         "spa",
         "steamroom",
-        "sauna"
+        "sauna",
+        "мужчина в парной",
+        "расслабление"
       ],
       "skins": [
         {
@@ -14363,7 +16040,9 @@ window._emojiData =
         "female",
         "spa",
         "steamroom",
-        "sauna"
+        "sauna",
+        "женщина в парной",
+        "расслабление"
       ],
       "skins": [
         {
@@ -14397,7 +16076,10 @@ window._emojiData =
       "id": "person_climbing",
       "name": "Person Climbing",
       "keywords": [
-        "sport"
+        "sport",
+        "человек лазает",
+        "альпинизм",
+        "скалолазание"
       ],
       "skins": [
         {
@@ -14434,7 +16116,10 @@ window._emojiData =
         "sports",
         "hobby",
         "male",
-        "rock"
+        "rock",
+        "мужчина лазает",
+        "альпинизм",
+        "скалолазание"
       ],
       "skins": [
         {
@@ -14471,7 +16156,10 @@ window._emojiData =
         "sports",
         "hobby",
         "female",
-        "rock"
+        "rock",
+        "женщина лазает",
+        "альпинизм",
+        "скалолазание"
       ],
       "skins": [
         {
@@ -14508,7 +16196,10 @@ window._emojiData =
         "person",
         "fencing",
         "sports",
-        "sword"
+        "sword",
+        "фехтовальщик",
+        "фехтование",
+        "шпага"
       ],
       "skins": [
         {
@@ -14526,7 +16217,10 @@ window._emojiData =
         "betting",
         "competition",
         "gambling",
-        "luck"
+        "luck",
+        "скачки",
+        "лошадь",
+        "спорт"
       ],
       "skins": [
         {
@@ -14562,7 +16256,10 @@ window._emojiData =
       "keywords": [
         "sports",
         "winter",
-        "snow"
+        "snow",
+        "лыжник",
+        "лыжи",
+        "зима"
       ],
       "skins": [
         {
@@ -14577,7 +16274,10 @@ window._emojiData =
       "name": "Snowboarder",
       "keywords": [
         "sports",
-        "winter"
+        "winter",
+        "сноубордист",
+        "сноуборд",
+        "зима"
       ],
       "skins": [
         {
@@ -14613,7 +16313,10 @@ window._emojiData =
       "keywords": [
         "golfer",
         "sports",
-        "business"
+        "business",
+        "гольфист",
+        "гольф",
+        "спорт"
       ],
       "skins": [
         {
@@ -14647,7 +16350,10 @@ window._emojiData =
       "id": "man-golfing",
       "name": "Man Golfing",
       "keywords": [
-        "sport"
+        "sport",
+        "мужчина играет в гольф",
+        "гольф",
+        "спорт"
       ],
       "skins": [
         {
@@ -14683,7 +16389,10 @@ window._emojiData =
       "keywords": [
         "sports",
         "business",
-        "female"
+        "female",
+        "женщина играет в гольф",
+        "гольф",
+        "спорт"
       ],
       "skins": [
         {
@@ -14720,7 +16429,10 @@ window._emojiData =
         "person",
         "surfing",
         "sport",
-        "sea"
+        "sea",
+        "серфер",
+        "серфинг",
+        "волны"
       ],
       "skins": [
         {
@@ -14758,7 +16470,10 @@ window._emojiData =
         "ocean",
         "sea",
         "summer",
-        "beach"
+        "beach",
+        "мужчина серфер",
+        "серфинг",
+        "волны"
       ],
       "skins": [
         {
@@ -14797,7 +16512,10 @@ window._emojiData =
         "sea",
         "summer",
         "beach",
-        "female"
+        "female",
+        "женщина серфер",
+        "серфинг",
+        "волны"
       ],
       "skins": [
         {
@@ -14835,7 +16553,10 @@ window._emojiData =
         "rowing",
         "boat",
         "sport",
-        "move"
+        "move",
+        "гребля",
+        "лодка",
+        "вода"
       ],
       "skins": [
         {
@@ -14873,7 +16594,10 @@ window._emojiData =
         "sports",
         "hobby",
         "water",
-        "ship"
+        "ship",
+        "мужчина гребет",
+        "гребля",
+        "лодка"
       ],
       "skins": [
         {
@@ -14912,7 +16636,10 @@ window._emojiData =
         "hobby",
         "water",
         "ship",
-        "female"
+        "female",
+        "женщина гребет",
+        "гребля",
+        "лодка"
       ],
       "skins": [
         {
@@ -14949,7 +16676,10 @@ window._emojiData =
         "person",
         "swimming",
         "sport",
-        "pool"
+        "pool",
+        "пловец",
+        "плавание",
+        "вода"
       ],
       "skins": [
         {
@@ -14988,7 +16718,10 @@ window._emojiData =
         "human",
         "athlete",
         "water",
-        "summer"
+        "summer",
+        "мужчина плавает",
+        "плавание",
+        "вода"
       ],
       "skins": [
         {
@@ -15028,7 +16761,10 @@ window._emojiData =
         "athlete",
         "water",
         "summer",
-        "female"
+        "female",
+        "женщина плавает",
+        "плавание",
+        "вода"
       ],
       "skins": [
         {
@@ -15064,7 +16800,10 @@ window._emojiData =
       "keywords": [
         "with",
         "sports",
-        "human"
+        "human",
+        "человек с мячом",
+        "баскетбол",
+        "спорт"
       ],
       "skins": [
         {
@@ -15099,7 +16838,10 @@ window._emojiData =
       "name": "Man Bouncing Ball",
       "keywords": [
         "bouncing-ball",
-        "sport"
+        "sport",
+        "мужчина с мячом",
+        "баскетбол",
+        "спорт"
       ],
       "skins": [
         {
@@ -15136,7 +16878,10 @@ window._emojiData =
         "bouncing-ball",
         "sports",
         "human",
-        "female"
+        "female",
+        "женщина с мячом",
+        "баскетбол",
+        "спорт"
       ],
       "skins": [
         {
@@ -15174,7 +16919,10 @@ window._emojiData =
         "lifter",
         "sports",
         "training",
-        "exercise"
+        "exercise",
+        "тяжелоатлет",
+        "штанга",
+        "спорт"
       ],
       "skins": [
         {
@@ -15209,7 +16957,10 @@ window._emojiData =
       "name": "Man Lifting Weights",
       "keywords": [
         "lifting-weights",
-        "sport"
+        "sport",
+        "мужчина поднимает штангу",
+        "тяжелоатлет",
+        "спорт"
       ],
       "skins": [
         {
@@ -15247,7 +16998,10 @@ window._emojiData =
         "sports",
         "training",
         "exercise",
-        "female"
+        "female",
+        "женщина поднимает штангу",
+        "тяжелоатлет",
+        "спорт"
       ],
       "skins": [
         {
@@ -15284,7 +17038,10 @@ window._emojiData =
         "person",
         "biking",
         "sport",
-        "move"
+        "move",
+        "велосипедист",
+        "велосипед",
+        "спорт"
       ],
       "skins": [
         {
@@ -15321,7 +17078,10 @@ window._emojiData =
         "sports",
         "bike",
         "exercise",
-        "hipster"
+        "hipster",
+        "мужчина на велосипеде",
+        "велосипед",
+        "спорт"
       ],
       "skins": [
         {
@@ -15359,7 +17119,10 @@ window._emojiData =
         "bike",
         "exercise",
         "hipster",
-        "female"
+        "female",
+        "женщина на велосипеде",
+        "велосипед",
+        "спорт"
       ],
       "skins": [
         {
@@ -15396,7 +17159,10 @@ window._emojiData =
         "person",
         "biking",
         "sport",
-        "move"
+        "move",
+        "горный велосипедист",
+        "велосипед",
+        "спорт"
       ],
       "skins": [
         {
@@ -15435,7 +17201,10 @@ window._emojiData =
         "sports",
         "human",
         "race",
-        "bike"
+        "bike",
+        "мужчина на горном велосипеде",
+        "велосипед",
+        "спорт"
       ],
       "skins": [
         {
@@ -15475,7 +17244,10 @@ window._emojiData =
         "human",
         "race",
         "bike",
-        "female"
+        "female",
+        "женщина на горном велосипеде",
+        "велосипед",
+        "спорт"
       ],
       "skins": [
         {
@@ -15512,7 +17284,10 @@ window._emojiData =
         "doing",
         "cartwheel",
         "sport",
-        "gymnastic"
+        "gymnastic",
+        "человек делает колесо",
+        "гимнастика",
+        "спорт"
       ],
       "skins": [
         {
@@ -15546,7 +17321,10 @@ window._emojiData =
       "id": "man-cartwheeling",
       "name": "Man Cartwheeling",
       "keywords": [
-        "gymnastics"
+        "gymnastics",
+        "мужчина делает колесо",
+        "гимнастика",
+        "спорт"
       ],
       "skins": [
         {
@@ -15580,7 +17358,10 @@ window._emojiData =
       "id": "woman-cartwheeling",
       "name": "Woman Cartwheeling",
       "keywords": [
-        "gymnastics"
+        "gymnastics",
+        "женщина делает колесо",
+        "гимнастика",
+        "спорт"
       ],
       "skins": [
         {
@@ -15616,7 +17397,10 @@ window._emojiData =
       "keywords": [
         "people",
         "wrestling",
-        "sport"
+        "sport",
+        "борцы",
+        "борьба",
+        "спорт"
       ],
       "skins": [
         {
@@ -15632,7 +17416,10 @@ window._emojiData =
       "keywords": [
         "man",
         "sports",
-        "wrestlers"
+        "wrestlers",
+        "мужчины борются",
+        "борьба",
+        "спорт"
       ],
       "skins": [
         {
@@ -15648,7 +17435,10 @@ window._emojiData =
       "keywords": [
         "woman",
         "sports",
-        "wrestlers"
+        "wrestlers",
+        "женщины борются",
+        "борьба",
+        "спорт"
       ],
       "skins": [
         {
@@ -15664,7 +17454,10 @@ window._emojiData =
       "keywords": [
         "person",
         "playing",
-        "sport"
+        "sport",
+        "водное поло",
+        "вода",
+        "спорт"
       ],
       "skins": [
         {
@@ -15700,7 +17493,10 @@ window._emojiData =
       "keywords": [
         "playing-water-polo",
         "sports",
-        "pool"
+        "pool",
+        "мужчина играет в водное поло",
+        "вода",
+        "спорт"
       ],
       "skins": [
         {
@@ -15736,7 +17532,10 @@ window._emojiData =
       "keywords": [
         "playing-water-polo",
         "sports",
-        "pool"
+        "pool",
+        "женщина играет в водное поло",
+        "вода",
+        "спорт"
       ],
       "skins": [
         {
@@ -15772,7 +17571,10 @@ window._emojiData =
       "keywords": [
         "person",
         "playing",
-        "sport"
+        "sport",
+        "гандбол",
+        "мяч",
+        "спорт"
       ],
       "skins": [
         {
@@ -15807,7 +17609,10 @@ window._emojiData =
       "name": "Man Playing Handball",
       "keywords": [
         "playing-handball",
-        "sports"
+        "sports",
+        "мужчина играет в гандбол",
+        "гандбол",
+        "спорт"
       ],
       "skins": [
         {
@@ -15842,7 +17647,10 @@ window._emojiData =
       "name": "Woman Playing Handball",
       "keywords": [
         "playing-handball",
-        "sports"
+        "sports",
+        "женщина играет в гандбол",
+        "гандбол",
+        "спорт"
       ],
       "skins": [
         {
@@ -15878,7 +17686,10 @@ window._emojiData =
       "keywords": [
         "person",
         "performance",
-        "balance"
+        "balance",
+        "жонглер",
+        "жонглирование",
+        "выступление"
       ],
       "skins": [
         {
@@ -15915,7 +17726,10 @@ window._emojiData =
         "juggle",
         "balance",
         "skill",
-        "multitask"
+        "multitask",
+        "мужчина жонглер",
+        "жонглирование",
+        "выступление"
       ],
       "skins": [
         {
@@ -15952,7 +17766,10 @@ window._emojiData =
         "juggle",
         "balance",
         "skill",
-        "multitask"
+        "multitask",
+        "женщина жонглер",
+        "жонглирование",
+        "выступление"
       ],
       "skins": [
         {
@@ -15986,7 +17803,10 @@ window._emojiData =
       "id": "person_in_lotus_position",
       "name": "Person in Lotus Position",
       "keywords": [
-        "meditate"
+        "meditate",
+        "человек в позе лотоса",
+        "йога",
+        "медитация"
       ],
       "skins": [
         {
@@ -16025,7 +17845,10 @@ window._emojiData =
         "yoga",
         "serenity",
         "zen",
-        "mindfulness"
+        "mindfulness",
+        "мужчина в позе лотоса",
+        "йога",
+        "медитация"
       ],
       "skins": [
         {
@@ -16064,7 +17887,10 @@ window._emojiData =
         "yoga",
         "serenity",
         "zen",
-        "mindfulness"
+        "mindfulness",
+        "женщина в позе лотоса",
+        "йога",
+        "медитация"
       ],
       "skins": [
         {
@@ -16102,7 +17928,10 @@ window._emojiData =
         "taking",
         "clean",
         "shower",
-        "bathroom"
+        "bathroom",
+        "ванна",
+        "гигиена",
+        "чистота"
       ],
       "skins": [
         {
@@ -16138,7 +17967,10 @@ window._emojiData =
       "keywords": [
         "sleeping",
         "accommodation",
-        "rest"
+        "rest",
+        "человек в кровати",
+        "сон",
+        "отдых"
       ],
       "skins": [
         {
@@ -16172,7 +18004,10 @@ window._emojiData =
       "id": "people_holding_hands",
       "name": "People Holding Hands",
       "keywords": [
-        "friendship"
+        "friendship",
+        "люди держатся за руки",
+        "дружба",
+        "связь"
       ],
       "skins": [
         {
@@ -16214,7 +18049,10 @@ window._emojiData =
         "like",
         "female",
         "people",
-        "human"
+        "human",
+        "две женщины держатся за руки",
+        "дружба",
+        "любовь"
       ],
       "skins": [
         {
@@ -16258,7 +18096,10 @@ window._emojiData =
         "like",
         "affection",
         "valentines",
-        "marriage"
+        "marriage",
+        "мужчина и женщина держатся за руки",
+        "пара",
+        "любовь"
       ],
       "skins": [
         {
@@ -16300,7 +18141,10 @@ window._emojiData =
         "bromance",
         "friendship",
         "people",
-        "human"
+        "human",
+        "два мужчины держатся за руки",
+        "дружба",
+        "любовь"
       ],
       "skins": [
         {
@@ -16340,7 +18184,10 @@ window._emojiData =
         "love",
         "like",
         "dating",
-        "marriage"
+        "marriage",
+        "поцелуй пары",
+        "любовь",
+        "романтика"
       ],
       "skins": [
         {
@@ -16377,7 +18224,10 @@ window._emojiData =
         "woman",
         "kiss-man",
         "kiss",
-        "love"
+        "love",
+        "женщина целует мужчину",
+        "поцелуй",
+        "любовь"
       ],
       "skins": [
         {
@@ -16418,7 +18268,10 @@ window._emojiData =
         "love",
         "like",
         "dating",
-        "marriage"
+        "marriage",
+        "мужчина целует мужчину",
+        "поцелуй",
+        "любовь"
       ],
       "skins": [
         {
@@ -16459,7 +18312,10 @@ window._emojiData =
         "love",
         "like",
         "dating",
-        "marriage"
+        "marriage",
+        "женщина целует женщину",
+        "поцелуй",
+        "любовь"
       ],
       "skins": [
         {
@@ -16500,7 +18356,10 @@ window._emojiData =
         "human",
         "dating",
         "valentines",
-        "marriage"
+        "marriage",
+        "пара с сердцем",
+        "любовь",
+        "романтика"
       ],
       "skins": [
         {
@@ -16537,7 +18396,10 @@ window._emojiData =
         "woman",
         "heart-man",
         "heart",
-        "love"
+        "love",
+        "женщина и мужчина с сердцем",
+        "любовь",
+        "пара"
       ],
       "skins": [
         {
@@ -16580,7 +18442,10 @@ window._emojiData =
         "human",
         "dating",
         "valentines",
-        "marriage"
+        "marriage",
+        "два мужчины с сердцем",
+        "любовь",
+        "пара"
       ],
       "skins": [
         {
@@ -16623,7 +18488,10 @@ window._emojiData =
         "human",
         "dating",
         "valentines",
-        "marriage"
+        "marriage",
+        "две женщины с сердцем",
+        "любовь",
+        "пара"
       ],
       "skins": [
         {
@@ -16665,7 +18533,10 @@ window._emojiData =
         "father",
         "mother",
         "people",
-        "human"
+        "human",
+        "семья",
+        "родители",
+        "дети"
       ],
       "skins": [
         {
@@ -16683,7 +18554,10 @@ window._emojiData =
         "woman-boy",
         "family",
         "woman",
-        "love"
+        "love",
+        "семья мужчина женщина мальчик",
+        "родители",
+        "ребенок"
       ],
       "skins": [
         {
@@ -16705,7 +18579,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "child"
+        "child",
+        "семья мужчина женщина девочка",
+        "родители",
+        "ребенок"
       ],
       "skins": [
         {
@@ -16728,7 +18605,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья мужчина женщина девочка мальчик",
+        "родители",
+        "дети"
       ],
       "skins": [
         {
@@ -16750,7 +18630,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья мужчина женщина два мальчика",
+        "родители",
+        "дети"
       ],
       "skins": [
         {
@@ -16772,7 +18655,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья мужчина женщина две девочки",
+        "родители",
+        "дети"
       ],
       "skins": [
         {
@@ -16793,7 +18679,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья два мужчины мальчик",
+        "родители",
+        "ребенок"
       ],
       "skins": [
         {
@@ -16814,7 +18703,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья два мужчины девочка",
+        "родители",
+        "ребенок"
       ],
       "skins": [
         {
@@ -16836,7 +18728,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья два мужчины девочка мальчик",
+        "родители",
+        "дети"
       ],
       "skins": [
         {
@@ -16857,7 +18752,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья два мужчины два мальчика",
+        "родители",
+        "дети"
       ],
       "skins": [
         {
@@ -16878,7 +18776,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья два мужчины две девочки",
+        "родители",
+        "дети"
       ],
       "skins": [
         {
@@ -16899,7 +18800,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья две женщины мальчик",
+        "родители",
+        "ребенок"
       ],
       "skins": [
         {
@@ -16920,7 +18824,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья две женщины девочка",
+        "родители",
+        "ребенок"
       ],
       "skins": [
         {
@@ -16942,7 +18849,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья две женщины девочка мальчик",
+        "родители",
+        "дети"
       ],
       "skins": [
         {
@@ -16963,7 +18873,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья две женщины два мальчика",
+        "родители",
+        "дети"
       ],
       "skins": [
         {
@@ -16984,7 +18897,10 @@ window._emojiData =
         "parents",
         "people",
         "human",
-        "children"
+        "children",
+        "семья две женщины две девочки",
+        "родители",
+        "дети"
       ],
       "skins": [
         {
@@ -17004,7 +18920,10 @@ window._emojiData =
         "parent",
         "people",
         "human",
-        "child"
+        "child",
+        "семья мужчина мальчик",
+        "отец",
+        "ребенок"
       ],
       "skins": [
         {
@@ -17025,7 +18944,10 @@ window._emojiData =
         "parent",
         "people",
         "human",
-        "children"
+        "children",
+        "семья мужчина два мальчика",
+        "отец",
+        "дети"
       ],
       "skins": [
         {
@@ -17045,7 +18967,10 @@ window._emojiData =
         "parent",
         "people",
         "human",
-        "child"
+        "child",
+        "семья мужчина девочка",
+        "отец",
+        "ребенок"
       ],
       "skins": [
         {
@@ -17067,7 +18992,10 @@ window._emojiData =
         "parent",
         "people",
         "human",
-        "children"
+        "children",
+        "семья мужчина девочка мальчик",
+        "отец",
+        "дети"
       ],
       "skins": [
         {
@@ -17088,7 +19016,10 @@ window._emojiData =
         "parent",
         "people",
         "human",
-        "children"
+        "children",
+        "семья мужчина две девочки",
+        "отец",
+        "дети"
       ],
       "skins": [
         {
@@ -17108,7 +19039,10 @@ window._emojiData =
         "parent",
         "people",
         "human",
-        "child"
+        "child",
+        "семья женщина мальчик",
+        "мать",
+        "ребенок"
       ],
       "skins": [
         {
@@ -17129,7 +19063,10 @@ window._emojiData =
         "parent",
         "people",
         "human",
-        "children"
+        "children",
+        "семья женщина два мальчика",
+        "мать",
+        "дети"
       ],
       "skins": [
         {
@@ -17149,7 +19086,10 @@ window._emojiData =
         "parent",
         "people",
         "human",
-        "child"
+        "child",
+        "семья женщина девочка",
+        "мать",
+        "ребенок"
       ],
       "skins": [
         {
@@ -17171,7 +19111,10 @@ window._emojiData =
         "parent",
         "people",
         "human",
-        "children"
+        "children",
+        "семья женщина девочка мальчик",
+        "мать",
+        "дети"
       ],
       "skins": [
         {
@@ -17192,7 +19135,10 @@ window._emojiData =
         "parent",
         "people",
         "human",
-        "children"
+        "children",
+        "семья женщина две девочки",
+        "мать",
+        "дети"
       ],
       "skins": [
         {
@@ -17213,7 +19159,10 @@ window._emojiData =
         "human",
         "sing",
         "say",
-        "talk"
+        "talk",
+        "говорящая голова",
+        "речь",
+        "силуэт"
       ],
       "skins": [
         {
@@ -17229,7 +19178,10 @@ window._emojiData =
       "keywords": [
         "user",
         "person",
-        "human"
+        "human",
+        "силуэт человека",
+        "профиль",
+        "бюст"
       ],
       "skins": [
         {
@@ -17247,7 +19199,10 @@ window._emojiData =
         "person",
         "human",
         "group",
-        "team"
+        "team",
+        "силуэты людей",
+        "группа",
+        "команда"
       ],
       "skins": [
         {
@@ -17261,7 +19216,10 @@ window._emojiData =
       "id": "people_hugging",
       "name": "People Hugging",
       "keywords": [
-        "care"
+        "care",
+        "люди обнимаются",
+        "объятия",
+        "забота"
       ],
       "skins": [
         {
@@ -17278,7 +19236,10 @@ window._emojiData =
         "feet",
         "tracking",
         "walking",
-        "beach"
+        "beach",
+        "следы ног",
+        "отпечатки",
+        "пляж"
       ],
       "skins": [
         {
@@ -17297,7 +19258,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "circus"
+        "circus",
+        "лицо обезьяны",
+        "примат",
+        "цирк"
       ],
       "skins": [
         {
@@ -17314,7 +19278,10 @@ window._emojiData =
         "animal",
         "nature",
         "banana",
-        "circus"
+        "circus",
+        "обезьяна",
+        "примат",
+        "банан"
       ],
       "skins": [
         {
@@ -17330,7 +19297,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "circus"
+        "circus",
+        "горилла",
+        "примат",
+        "дикая природа"
       ],
       "skins": [
         {
@@ -17344,7 +19314,10 @@ window._emojiData =
       "id": "orangutan",
       "name": "Orangutan",
       "keywords": [
-        "animal"
+        "animal",
+        "орангутан",
+        "примат",
+        "дикая природа"
       ],
       "skins": [
         {
@@ -17364,7 +19337,10 @@ window._emojiData =
         "woof",
         "puppy",
         "pet",
-        "faithful"
+        "faithful",
+        "лицо собаки",
+        "щенок",
+        "домашнее животное"
       ],
       "skins": [
         {
@@ -17384,7 +19360,10 @@ window._emojiData =
         "friend",
         "doge",
         "pet",
-        "faithful"
+        "faithful",
+        "собака",
+        "щенок",
+        "домашнее животное"
       ],
       "skins": [
         {
@@ -17399,7 +19378,10 @@ window._emojiData =
       "name": "Guide Dog",
       "keywords": [
         "animal",
-        "blind"
+        "blind",
+        "собака-поводырь",
+        "помощь",
+        "домашнее животное"
       ],
       "skins": [
         {
@@ -17414,7 +19396,10 @@ window._emojiData =
       "name": "Service Dog",
       "keywords": [
         "blind",
-        "animal"
+        "animal",
+        "служебная собака",
+        "помощь",
+        "домашнее животное"
       ],
       "skins": [
         {
@@ -17432,7 +19417,10 @@ window._emojiData =
         "animal",
         "101",
         "nature",
-        "pet"
+        "pet",
+        "пудель",
+        "собака",
+        "домашнее животное"
       ],
       "skins": [
         {
@@ -17448,7 +19436,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "wild"
+        "wild",
+        "волк",
+        "дикая природа",
+        "хищник"
       ],
       "skins": [
         {
@@ -17464,7 +19455,10 @@ window._emojiData =
       "keywords": [
         "face",
         "animal",
-        "nature"
+        "nature",
+        "лиса",
+        "лицо лисы",
+        "дикая природа"
       ],
       "skins": [
         {
@@ -17479,7 +19473,10 @@ window._emojiData =
       "name": "Raccoon",
       "keywords": [
         "animal",
-        "nature"
+        "nature",
+        "енот",
+        "дикая природа",
+        "маска"
       ],
       "skins": [
         {
@@ -17498,7 +19495,9 @@ window._emojiData =
         "nature",
         "pet",
         "kitten",
-        "кот"
+        "кот",
+        "лицо кошки",
+        "домашнее животное"
       ],
       "skins": [
         {
@@ -17517,7 +19516,9 @@ window._emojiData =
         "meow",
         "pet",
         "cats",
-        "кот"
+        "кот",
+        "кошка",
+        "домашнее животное"
       ],
       "skins": [
         {
@@ -17532,7 +19533,10 @@ window._emojiData =
       "name": "Black Cat",
       "keywords": [
         "superstition",
-        "luck"
+        "luck",
+        "черный кот",
+        "суеверие",
+        "удача"
       ],
       "skins": [
         {
@@ -17548,7 +19552,10 @@ window._emojiData =
       "keywords": [
         "face",
         "animal",
-        "nature"
+        "nature",
+        "лев",
+        "лицо льва",
+        "дикая природа"
       ],
       "skins": [
         {
@@ -17567,7 +19574,10 @@ window._emojiData =
         "danger",
         "wild",
         "nature",
-        "roar"
+        "roar",
+        "тигр",
+        "лицо тигра",
+        "дикая природа"
       ],
       "skins": [
         {
@@ -17584,7 +19594,10 @@ window._emojiData =
         "tiger2",
         "animal",
         "nature",
-        "roar"
+        "roar",
+        "тигр",
+        "дикая природа",
+        "хищник"
       ],
       "skins": [
         {
@@ -17599,7 +19612,10 @@ window._emojiData =
       "name": "Leopard",
       "keywords": [
         "animal",
-        "nature"
+        "nature",
+        "леопард",
+        "дикая природа",
+        "хищник"
       ],
       "skins": [
         {
@@ -17615,7 +19631,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "brown",
-        "nature"
+        "nature",
+        "лошадь",
+        "лицо лошади",
+        "животное"
       ],
       "skins": [
         {
@@ -17633,7 +19652,10 @@ window._emojiData =
         "canada",
         "sweden",
         "sven",
-        "cool"
+        "cool",
+        "лось",
+        "дикая природа",
+        "рога"
       ],
       "skins": [
         {
@@ -17648,7 +19670,10 @@ window._emojiData =
       "name": "Donkey",
       "keywords": [
         "eeyore",
-        "mule"
+        "mule",
+        "осел",
+        "животное",
+        "упрямый"
       ],
       "skins": [
         {
@@ -17665,7 +19690,10 @@ window._emojiData =
         "racehorse",
         "animal",
         "gamble",
-        "luck"
+        "luck",
+        "скаковая лошадь",
+        "спорт",
+        "гонки"
       ],
       "skins": [
         {
@@ -17682,7 +19710,10 @@ window._emojiData =
         "face",
         "animal",
         "nature",
-        "mystical"
+        "mystical",
+        "единорог",
+        "мифический",
+        "рог"
       ],
       "skins": [
         {
@@ -17700,7 +19731,10 @@ window._emojiData =
         "animal",
         "nature",
         "stripes",
-        "safari"
+        "safari",
+        "зебра",
+        "полосы",
+        "сафари"
       ],
       "skins": [
         {
@@ -17717,7 +19751,10 @@ window._emojiData =
         "animal",
         "nature",
         "horns",
-        "venison"
+        "venison",
+        "олень",
+        "рога",
+        "дикая природа"
       ],
       "skins": [
         {
@@ -17731,7 +19768,10 @@ window._emojiData =
       "id": "bison",
       "name": "Bison",
       "keywords": [
-        "ox"
+        "ox",
+        "бизон",
+        "дикая природа",
+        "животное"
       ],
       "skins": [
         {
@@ -17750,7 +19790,10 @@ window._emojiData =
         "animal",
         "nature",
         "moo",
-        "milk"
+        "milk",
+        "лицо коровы",
+        "коровье молоко",
+        "животное"
       ],
       "skins": [
         {
@@ -17766,7 +19809,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "cow",
-        "beef"
+        "beef",
+        "бык",
+        "животное",
+        "ферма"
       ],
       "skins": [
         {
@@ -17783,7 +19829,10 @@ window._emojiData =
         "animal",
         "nature",
         "ox",
-        "cow"
+        "cow",
+        "водяной буйвол",
+        "животное",
+        "ферма"
       ],
       "skins": [
         {
@@ -17803,7 +19852,10 @@ window._emojiData =
         "animal",
         "nature",
         "moo",
-        "milk"
+        "milk",
+        "корова",
+        "коровье молоко",
+        "животное"
       ],
       "skins": [
         {
@@ -17819,7 +19871,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "oink",
-        "nature"
+        "nature",
+        "лицо свиньи",
+        "свинья",
+        "животное"
       ],
       "skins": [
         {
@@ -17835,7 +19890,10 @@ window._emojiData =
       "keywords": [
         "pig2",
         "animal",
-        "nature"
+        "nature",
+        "свинья",
+        "животное",
+        "ферма"
       ],
       "skins": [
         {
@@ -17850,7 +19908,10 @@ window._emojiData =
       "name": "Boar",
       "keywords": [
         "animal",
-        "nature"
+        "nature",
+        "кабан",
+        "дикая природа",
+        "свинья"
       ],
       "skins": [
         {
@@ -17865,7 +19926,10 @@ window._emojiData =
       "name": "Pig Nose",
       "keywords": [
         "animal",
-        "oink"
+        "oink",
+        "свиной пятачок",
+        "свинья",
+        "нос"
       ],
       "skins": [
         {
@@ -17881,7 +19945,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "sheep",
-        "nature"
+        "nature",
+        "баран",
+        "овца",
+        "животное"
       ],
       "skins": [
         {
@@ -17899,7 +19966,10 @@ window._emojiData =
         "animal",
         "nature",
         "wool",
-        "shipit"
+        "shipit",
+        "овца",
+        "шерсть",
+        "животное"
       ],
       "skins": [
         {
@@ -17914,7 +19984,10 @@ window._emojiData =
       "name": "Goat",
       "keywords": [
         "animal",
-        "nature"
+        "nature",
+        "коза",
+        "животное",
+        "ферма"
       ],
       "skins": [
         {
@@ -17932,7 +20005,10 @@ window._emojiData =
         "animal",
         "hot",
         "desert",
-        "hump"
+        "hump",
+        "одногорбый верблюд",
+        "пустыня",
+        "животное"
       ],
       "skins": [
         {
@@ -17951,7 +20027,10 @@ window._emojiData =
         "animal",
         "nature",
         "hot",
-        "desert"
+        "desert",
+        "двугорбый верблюд",
+        "пустыня",
+        "животное"
       ],
       "skins": [
         {
@@ -17967,7 +20046,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "alpaca"
+        "alpaca",
+        "лама",
+        "альпака",
+        "животное"
       ],
       "skins": [
         {
@@ -17985,7 +20067,10 @@ window._emojiData =
         "animal",
         "nature",
         "spots",
-        "safari"
+        "safari",
+        "жираф",
+        "сафари",
+        "пятна"
       ],
       "skins": [
         {
@@ -18003,7 +20088,10 @@ window._emojiData =
         "nature",
         "nose",
         "th",
-        "circus"
+        "circus",
+        "слон",
+        "хобот",
+        "цирк"
       ],
       "skins": [
         {
@@ -18018,7 +20106,10 @@ window._emojiData =
       "name": "Mammoth",
       "keywords": [
         "elephant",
-        "tusks"
+        "tusks",
+        "мамонт",
+        "вымерший",
+        "бивни"
       ],
       "skins": [
         {
@@ -18034,7 +20125,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "horn"
+        "horn",
+        "носорог",
+        "рог",
+        "дикая природа"
       ],
       "skins": [
         {
@@ -18049,7 +20143,10 @@ window._emojiData =
       "name": "Hippopotamus",
       "keywords": [
         "animal",
-        "nature"
+        "nature",
+        "бегемот",
+        "река",
+        "дикая природа"
       ],
       "skins": [
         {
@@ -18067,7 +20164,10 @@ window._emojiData =
         "nature",
         "cheese",
         "wedge",
-        "rodent"
+        "rodent",
+        "лицо мыши",
+        "мышь",
+        "грызун"
       ],
       "skins": [
         {
@@ -18084,7 +20184,10 @@ window._emojiData =
         "mouse2",
         "animal",
         "nature",
-        "rodent"
+        "rodent",
+        "мышь",
+        "грызун",
+        "животное"
       ],
       "skins": [
         {
@@ -18100,7 +20203,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "mouse",
-        "rodent"
+        "rodent",
+        "крыса",
+        "грызун",
+        "животное"
       ],
       "skins": [
         {
@@ -18115,7 +20221,10 @@ window._emojiData =
       "name": "Hamster",
       "keywords": [
         "animal",
-        "nature"
+        "nature",
+        "хомяк",
+        "грызун",
+        "домашнее животное"
       ],
       "skins": [
         {
@@ -18134,7 +20243,10 @@ window._emojiData =
         "pet",
         "spring",
         "magic",
-        "bunny"
+        "bunny",
+        "лицо кролика",
+        "кролик",
+        "домашнее животное"
       ],
       "skins": [
         {
@@ -18153,7 +20265,10 @@ window._emojiData =
         "nature",
         "pet",
         "magic",
-        "spring"
+        "spring",
+        "кролик",
+        "животное",
+        "весна"
       ],
       "skins": [
         {
@@ -18170,7 +20285,10 @@ window._emojiData =
         "animal",
         "nature",
         "rodent",
-        "squirrel"
+        "squirrel",
+        "бурундук",
+        "грызун",
+        "животное"
       ],
       "skins": [
         {
@@ -18185,7 +20303,10 @@ window._emojiData =
       "name": "Beaver",
       "keywords": [
         "animal",
-        "rodent"
+        "rodent",
+        "бобр",
+        "грызун",
+        "плотина"
       ],
       "skins": [
         {
@@ -18201,7 +20322,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "spiny"
+        "spiny",
+        "еж",
+        "иглы",
+        "животное"
       ],
       "skins": [
         {
@@ -18218,7 +20342,10 @@ window._emojiData =
         "animal",
         "nature",
         "blind",
-        "vampire"
+        "vampire",
+        "летучая мышь",
+        "ночь",
+        "вампир"
       ],
       "skins": [
         {
@@ -18234,7 +20361,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "wild"
+        "wild",
+        "медведь",
+        "дикая природа",
+        "хищник"
       ],
       "skins": [
         {
@@ -18249,7 +20379,10 @@ window._emojiData =
       "name": "Polar Bear",
       "keywords": [
         "animal",
-        "arctic"
+        "arctic",
+        "белый медведь",
+        "арктика",
+        "дикая природа"
       ],
       "skins": [
         {
@@ -18264,7 +20397,10 @@ window._emojiData =
       "name": "Koala",
       "keywords": [
         "animal",
-        "nature"
+        "nature",
+        "коала",
+        "австралия",
+        "животное"
       ],
       "skins": [
         {
@@ -18280,7 +20416,10 @@ window._emojiData =
       "keywords": [
         "face",
         "animal",
-        "nature"
+        "nature",
+        "панда",
+        "лицо панды",
+        "животное"
       ],
       "skins": [
         {
@@ -18294,7 +20433,10 @@ window._emojiData =
       "id": "sloth",
       "name": "Sloth",
       "keywords": [
-        "animal"
+        "animal",
+        "ленивец",
+        "медленный",
+        "животное"
       ],
       "skins": [
         {
@@ -18308,7 +20450,10 @@ window._emojiData =
       "id": "otter",
       "name": "Otter",
       "keywords": [
-        "animal"
+        "animal",
+        "выдра",
+        "река",
+        "животное"
       ],
       "skins": [
         {
@@ -18322,7 +20467,10 @@ window._emojiData =
       "id": "skunk",
       "name": "Skunk",
       "keywords": [
-        "animal"
+        "animal",
+        "скунс",
+        "запах",
+        "животное"
       ],
       "skins": [
         {
@@ -18341,7 +20489,10 @@ window._emojiData =
         "australia",
         "joey",
         "hop",
-        "marsupial"
+        "marsupial",
+        "кенгуру",
+        "австралия",
+        "сумка"
       ],
       "skins": [
         {
@@ -18357,7 +20508,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "honey"
+        "honey",
+        "барсук",
+        "дикая природа",
+        "животное"
       ],
       "skins": [
         {
@@ -18377,7 +20531,10 @@ window._emojiData =
         "footprints",
         "dog",
         "cat",
-        "pet"
+        "pet",
+        "отпечатки лап",
+        "следы",
+        "домашнее животное"
       ],
       "skins": [
         {
@@ -18392,7 +20549,10 @@ window._emojiData =
       "name": "Turkey",
       "keywords": [
         "animal",
-        "bird"
+        "bird",
+        "индейка",
+        "птица",
+        "ферма"
       ],
       "skins": [
         {
@@ -18409,7 +20569,10 @@ window._emojiData =
         "animal",
         "cluck",
         "nature",
-        "bird"
+        "bird",
+        "курица",
+        "птица",
+        "ферма"
       ],
       "skins": [
         {
@@ -18425,7 +20588,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "chicken"
+        "chicken",
+        "петух",
+        "птица",
+        "ферма"
       ],
       "skins": [
         {
@@ -18444,7 +20610,10 @@ window._emojiData =
         "egg",
         "born",
         "baby",
-        "bird"
+        "bird",
+        "вылупляющийся цыпленок",
+        "яйцо",
+        "птица"
       ],
       "skins": [
         {
@@ -18460,7 +20629,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "chicken",
-        "bird"
+        "bird",
+        "цыпленок",
+        "птица",
+        "малыш"
       ],
       "skins": [
         {
@@ -18479,7 +20651,10 @@ window._emojiData =
         "facing",
         "animal",
         "chicken",
-        "bird"
+        "bird",
+        "цыпленок спереди",
+        "птица",
+        "малыш"
       ],
       "skins": [
         {
@@ -18497,7 +20672,10 @@ window._emojiData =
         "nature",
         "fly",
         "tweet",
-        "spring"
+        "spring",
+        "птица",
+        "полет",
+        "весна"
       ],
       "skins": [
         {
@@ -18512,7 +20690,10 @@ window._emojiData =
       "name": "Penguin",
       "keywords": [
         "animal",
-        "nature"
+        "nature",
+        "пингвин",
+        "антарктика",
+        "птица"
       ],
       "skins": [
         {
@@ -18529,7 +20710,10 @@ window._emojiData =
         "of",
         "peace",
         "animal",
-        "bird"
+        "bird",
+        "голубь мира",
+        "птица",
+        "мир"
       ],
       "skins": [
         {
@@ -18545,7 +20729,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "bird"
+        "bird",
+        "орел",
+        "птица",
+        "хищник"
       ],
       "skins": [
         {
@@ -18562,7 +20749,10 @@ window._emojiData =
         "animal",
         "nature",
         "bird",
-        "mallard"
+        "mallard",
+        "утка",
+        "птица",
+        "вода"
       ],
       "skins": [
         {
@@ -18578,7 +20768,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "bird"
+        "bird",
+        "лебедь",
+        "птица",
+        "грация"
       ],
       "skins": [
         {
@@ -18595,7 +20788,10 @@ window._emojiData =
         "animal",
         "nature",
         "bird",
-        "hoot"
+        "hoot",
+        "сова",
+        "птица",
+        "ночь"
       ],
       "skins": [
         {
@@ -18610,7 +20806,10 @@ window._emojiData =
       "name": "Dodo",
       "keywords": [
         "animal",
-        "bird"
+        "bird",
+        "додо",
+        "вымерший",
+        "птица"
       ],
       "skins": [
         {
@@ -18625,7 +20824,10 @@ window._emojiData =
       "name": "Feather",
       "keywords": [
         "bird",
-        "fly"
+        "fly",
+        "перо",
+        "птица",
+        "полет"
       ],
       "skins": [
         {
@@ -18639,7 +20841,10 @@ window._emojiData =
       "id": "flamingo",
       "name": "Flamingo",
       "keywords": [
-        "animal"
+        "animal",
+        "фламинго",
+        "птица",
+        "розовый"
       ],
       "skins": [
         {
@@ -18656,7 +20861,10 @@ window._emojiData =
         "animal",
         "nature",
         "peahen",
-        "bird"
+        "bird",
+        "павлин",
+        "птица",
+        "хвост"
       ],
       "skins": [
         {
@@ -18674,7 +20882,10 @@ window._emojiData =
         "nature",
         "bird",
         "pirate",
-        "talk"
+        "talk",
+        "попугай",
+        "птица",
+        "пират"
       ],
       "skins": [
         {
@@ -18690,7 +20901,10 @@ window._emojiData =
       "keywords": [
         "angel",
         "birds",
-        "flying"
+        "flying",
+        "крыло",
+        "птица",
+        "полет"
       ],
       "skins": [
         {
@@ -18704,7 +20918,10 @@ window._emojiData =
       "id": "black_bird",
       "name": "Black Bird",
       "keywords": [
-        "crow"
+        "crow",
+        "черная птица",
+        "ворон",
+        "птица"
       ],
       "skins": [
         {
@@ -18720,7 +20937,10 @@ window._emojiData =
       "keywords": [
         "silly",
         "jemima",
-        "goosebumps"
+        "goosebumps",
+        "гусь",
+        "птица",
+        "ферма"
       ],
       "skins": [
         {
@@ -18737,7 +20957,10 @@ window._emojiData =
         "animal",
         "nature",
         "croak",
-        "toad"
+        "toad",
+        "лягушка",
+        "животное",
+        "кваканье"
       ],
       "skins": [
         {
@@ -18755,7 +20978,10 @@ window._emojiData =
         "nature",
         "reptile",
         "lizard",
-        "alligator"
+        "alligator",
+        "крокодил",
+        "рептилия",
+        "хищник"
       ],
       "skins": [
         {
@@ -18772,7 +20998,10 @@ window._emojiData =
         "animal",
         "slow",
         "nature",
-        "tortoise"
+        "tortoise",
+        "черепаха",
+        "панцирь",
+        "медленный"
       ],
       "skins": [
         {
@@ -18788,7 +21017,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "nature",
-        "reptile"
+        "reptile",
+        "ящерица",
+        "рептилия",
+        "животное"
       ],
       "skins": [
         {
@@ -18808,7 +21040,8 @@ window._emojiData =
         "hiss",
         "python",
         "змея",
-        "зло"
+        "зло",
+        "шипение"
       ],
       "skins": [
         {
@@ -18826,7 +21059,10 @@ window._emojiData =
         "myth",
         "nature",
         "chinese",
-        "green"
+        "green",
+        "лицо дракона",
+        "миф",
+        "китайский"
       ],
       "skins": [
         {
@@ -18844,7 +21080,10 @@ window._emojiData =
         "myth",
         "nature",
         "chinese",
-        "green"
+        "green",
+        "дракон",
+        "миф",
+        "китайский"
       ],
       "skins": [
         {
@@ -18864,7 +21103,10 @@ window._emojiData =
         "brachiosaurus",
         "brontosaurus",
         "diplodocus",
-        "extinct"
+        "extinct",
+        "завропод",
+        "динозавр",
+        "вымерший"
       ],
       "skins": [
         {
@@ -18884,7 +21126,10 @@ window._emojiData =
         "nature",
         "dinosaur",
         "tyrannosaurus",
-        "extinct"
+        "extinct",
+        "тираннозавр",
+        "динозавр",
+        "вымерший"
       ],
       "skins": [
         {
@@ -18901,7 +21146,10 @@ window._emojiData =
         "animal",
         "nature",
         "sea",
-        "ocean"
+        "ocean",
+        "фонтанирующий кит",
+        "море",
+        "океан"
       ],
       "skins": [
         {
@@ -18919,7 +21167,10 @@ window._emojiData =
         "animal",
         "nature",
         "sea",
-        "ocean"
+        "ocean",
+        "кит",
+        "море",
+        "океан"
       ],
       "skins": [
         {
@@ -18940,7 +21191,10 @@ window._emojiData =
         "sea",
         "ocean",
         "fins",
-        "beach"
+        "beach",
+        "дельфин",
+        "море",
+        "океан"
       ],
       "skins": [
         {
@@ -18956,7 +21210,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "creature",
-        "sea"
+        "sea",
+        "тюлень",
+        "море",
+        "животное"
       ],
       "skins": [
         {
@@ -18972,7 +21229,10 @@ window._emojiData =
       "keywords": [
         "animal",
         "food",
-        "nature"
+        "nature",
+        "рыба",
+        "море",
+        "животное"
       ],
       "skins": [
         {
@@ -18990,7 +21250,10 @@ window._emojiData =
         "swim",
         "ocean",
         "beach",
-        "nemo"
+        "nemo",
+        "тропическая рыба",
+        "океан",
+        "пляж"
       ],
       "skins": [
         {
@@ -19008,7 +21271,10 @@ window._emojiData =
         "nature",
         "food",
         "sea",
-        "ocean"
+        "ocean",
+        "рыба-шар",
+        "море",
+        "океан"
       ],
       "skins": [
         {
@@ -19029,7 +21295,10 @@ window._emojiData =
         "ocean",
         "jaws",
         "fins",
-        "beach"
+        "beach",
+        "акула",
+        "море",
+        "хищник"
       ],
       "skins": [
         {
@@ -19048,7 +21317,10 @@ window._emojiData =
         "ocean",
         "sea",
         "nature",
-        "beach"
+        "beach",
+        "осьминог",
+        "море",
+        "щупальца"
       ],
       "skins": [
         {
@@ -19064,7 +21336,10 @@ window._emojiData =
       "keywords": [
         "nature",
         "sea",
-        "beach"
+        "beach",
+        "спиральная ракушка",
+        "море",
+        "пляж"
       ],
       "skins": [
         {
@@ -19080,7 +21355,10 @@ window._emojiData =
       "keywords": [
         "ocean",
         "sea",
-        "reef"
+        "reef",
+        "коралл",
+        "море",
+        "риф"
       ],
       "skins": [
         {
@@ -19095,7 +21373,10 @@ window._emojiData =
       "name": "Jellyfish",
       "keywords": [
         "sting",
-        "tentacles"
+        "tentacles",
+        "медуза",
+        "море",
+        "щупальца"
       ],
       "skins": [
         {
@@ -19111,7 +21392,10 @@ window._emojiData =
       "keywords": [
         "slow",
         "animal",
-        "shell"
+        "shell",
+        "улитка",
+        "медленный",
+        "раковина"
       ],
       "skins": [
         {
@@ -19128,7 +21412,10 @@ window._emojiData =
         "animal",
         "insect",
         "nature",
-        "caterpillar"
+        "caterpillar",
+        "бабочка",
+        "насекомое",
+        "природа"
       ],
       "skins": [
         {
@@ -19146,7 +21433,9 @@ window._emojiData =
         "insect",
         "nature",
         "worm",
-        "червь"
+        "червь",
+        "жук",
+        "насекомое"
       ],
       "skins": [
         {
@@ -19163,7 +21452,10 @@ window._emojiData =
         "animal",
         "insect",
         "nature",
-        "bug"
+        "bug",
+        "муравей",
+        "насекомое",
+        "животное"
       ],
       "skins": [
         {
@@ -19183,7 +21475,10 @@ window._emojiData =
         "nature",
         "bug",
         "spring",
-        "honey"
+        "honey",
+        "пчела",
+        "мед",
+        "весна"
       ],
       "skins": [
         {
@@ -19197,7 +21492,10 @@ window._emojiData =
       "id": "beetle",
       "name": "Beetle",
       "keywords": [
-        "insect"
+        "insect",
+        "жук",
+        "насекомое",
+        "природа"
       ],
       "skins": [
         {
@@ -19214,7 +21512,10 @@ window._emojiData =
         "ladybug",
         "animal",
         "insect",
-        "nature"
+        "nature",
+        "божья коровка",
+        "насекомое",
+        "природа"
       ],
       "skins": [
         {
@@ -19229,7 +21530,10 @@ window._emojiData =
       "name": "Cricket",
       "keywords": [
         "animal",
-        "chirp"
+        "chirp",
+        "сверчок",
+        "насекомое",
+        "звук"
       ],
       "skins": [
         {
@@ -19244,7 +21548,10 @@ window._emojiData =
       "name": "Cockroach",
       "keywords": [
         "insect",
-        "pests"
+        "pests",
+        "таракан",
+        "насекомое",
+        "вредитель"
       ],
       "skins": [
         {
@@ -19259,7 +21566,10 @@ window._emojiData =
       "name": "Spider",
       "keywords": [
         "animal",
-        "arachnid"
+        "arachnid",
+        "паук",
+        "паутина",
+        "насекомое"
       ],
       "skins": [
         {
@@ -19276,7 +21586,10 @@ window._emojiData =
         "animal",
         "insect",
         "arachnid",
-        "silk"
+        "silk",
+        "паутина",
+        "паук",
+        "сеть"
       ],
       "skins": [
         {
@@ -19291,7 +21604,10 @@ window._emojiData =
       "name": "Scorpion",
       "keywords": [
         "animal",
-        "arachnid"
+        "arachnid",
+        "скорпион",
+        "жало",
+        "пустыня"
       ],
       "skins": [
         {
@@ -19308,7 +21624,10 @@ window._emojiData =
         "animal",
         "nature",
         "insect",
-        "malaria"
+        "malaria",
+        "комар",
+        "насекомое",
+        "укус"
       ],
       "skins": [
         {
@@ -19322,7 +21641,10 @@ window._emojiData =
       "id": "fly",
       "name": "Fly",
       "keywords": [
-        "insect"
+        "insect",
+        "муха",
+        "насекомое",
+        "природа"
       ],
       "skins": [
         {
@@ -19336,7 +21658,10 @@ window._emojiData =
       "id": "worm",
       "name": "Worm",
       "keywords": [
-        "animal"
+        "animal",
+        "червь",
+        "почва",
+        "природа"
       ],
       "skins": [
         {
@@ -19354,7 +21679,10 @@ window._emojiData =
         "bacteria",
         "germs",
         "virus",
-        "covid"
+        "covid",
+        "микроб",
+        "бактерия",
+        "вирус"
       ],
       "skins": [
         {
@@ -19370,7 +21698,10 @@ window._emojiData =
       "keywords": [
         "flowers",
         "nature",
-        "spring"
+        "spring",
+        "букет",
+        "цветы",
+        "весна"
       ],
       "skins": [
         {
@@ -19387,7 +21718,10 @@ window._emojiData =
         "nature",
         "plant",
         "spring",
-        "flower"
+        "flower",
+        "цветение вишни",
+        "весна",
+        "цветок"
       ],
       "skins": [
         {
@@ -19402,7 +21736,10 @@ window._emojiData =
       "name": "White Flower",
       "keywords": [
         "japanese",
-        "spring"
+        "spring",
+        "белый цветок",
+        "весна",
+        "япония"
       ],
       "skins": [
         {
@@ -19418,7 +21755,10 @@ window._emojiData =
       "keywords": [
         "flower",
         "calm",
-        "meditation"
+        "meditation",
+        "лотос",
+        "цветок",
+        "медитация"
       ],
       "skins": [
         {
@@ -19434,7 +21774,10 @@ window._emojiData =
       "keywords": [
         "flower",
         "decoration",
-        "military"
+        "military",
+        "розетка",
+        "украшение",
+        "цветок"
       ],
       "skins": [
         {
@@ -19453,7 +21796,8 @@ window._emojiData =
         "love",
         "spring",
         "роза",
-        "цветы"
+        "цветы",
+        "любовь"
       ],
       "skins": [
         {
@@ -19469,7 +21813,10 @@ window._emojiData =
       "keywords": [
         "plant",
         "nature",
-        "rose"
+        "rose",
+        "увядший цветок",
+        "роза",
+        "природа"
       ],
       "skins": [
         {
@@ -19486,7 +21833,10 @@ window._emojiData =
         "plant",
         "vegetable",
         "flowers",
-        "beach"
+        "beach",
+        "гибискус",
+        "цветок",
+        "пляж"
       ],
       "skins": [
         {
@@ -19502,7 +21852,10 @@ window._emojiData =
       "keywords": [
         "nature",
         "plant",
-        "fall"
+        "fall",
+        "подсолнух",
+        "цветок",
+        "осень"
       ],
       "skins": [
         {
@@ -19518,7 +21871,10 @@ window._emojiData =
       "keywords": [
         "nature",
         "flowers",
-        "yellow"
+        "yellow",
+        "цветение",
+        "цветы",
+        "желтый"
       ],
       "skins": [
         {
@@ -19536,7 +21892,10 @@ window._emojiData =
         "plant",
         "nature",
         "summer",
-        "spring"
+        "spring",
+        "тюльпан",
+        "цветок",
+        "весна"
       ],
       "skins": [
         {
@@ -19551,7 +21910,10 @@ window._emojiData =
       "name": "Hyacinth",
       "keywords": [
         "flower",
-        "lavender"
+        "lavender",
+        "гиацинт",
+        "цветок",
+        "лаванда"
       ],
       "skins": [
         {
@@ -19569,7 +21931,10 @@ window._emojiData =
         "nature",
         "grass",
         "lawn",
-        "spring"
+        "spring",
+        "росток",
+        "природа",
+        "весна"
       ],
       "skins": [
         {
@@ -19584,7 +21949,10 @@ window._emojiData =
       "name": "Potted Plant",
       "keywords": [
         "greenery",
-        "house"
+        "house",
+        "растение в горшке",
+        "дом",
+        "зелень"
       ],
       "skins": [
         {
@@ -19599,7 +21967,10 @@ window._emojiData =
       "name": "Evergreen Tree",
       "keywords": [
         "plant",
-        "nature"
+        "nature",
+        "вечнозеленое дерево",
+        "природа",
+        "хвоя"
       ],
       "skins": [
         {
@@ -19614,7 +21985,10 @@ window._emojiData =
       "name": "Deciduous Tree",
       "keywords": [
         "plant",
-        "nature"
+        "nature",
+        "лиственное дерево",
+        "природа",
+        "листья"
       ],
       "skins": [
         {
@@ -19634,7 +22008,10 @@ window._emojiData =
         "summer",
         "beach",
         "mojito",
-        "tropical"
+        "tropical",
+        "пальма",
+        "пляж",
+        "тропики"
       ],
       "skins": [
         {
@@ -19650,7 +22027,10 @@ window._emojiData =
       "keywords": [
         "vegetable",
         "plant",
-        "nature"
+        "nature",
+        "кактус",
+        "пустыня",
+        "колючки"
       ],
       "skins": [
         {
@@ -19666,7 +22046,10 @@ window._emojiData =
       "keywords": [
         "sheaf",
         "nature",
-        "plant"
+        "plant",
+        "колос риса",
+        "природа",
+        "зерно"
       ],
       "skins": [
         {
@@ -19685,7 +22068,10 @@ window._emojiData =
         "medicine",
         "weed",
         "grass",
-        "lawn"
+        "lawn",
+        "трава",
+        "природа",
+        "лекарство"
       ],
       "skins": [
         {
@@ -19703,7 +22089,10 @@ window._emojiData =
         "plant",
         "nature",
         "irish",
-        "clover"
+        "clover",
+        "трилистник",
+        "клевер",
+        "ирландия"
       ],
       "skins": [
         {
@@ -19721,7 +22110,10 @@ window._emojiData =
         "plant",
         "nature",
         "lucky",
-        "irish"
+        "irish",
+        "четырехлистный клевер",
+        "удача",
+        "ирландия"
       ],
       "skins": [
         {
@@ -19739,7 +22131,10 @@ window._emojiData =
         "plant",
         "vegetable",
         "ca",
-        "fall"
+        "fall",
+        "кленовый лист",
+        "осень",
+        "канада"
       ],
       "skins": [
         {
@@ -19756,7 +22151,10 @@ window._emojiData =
         "nature",
         "plant",
         "vegetable",
-        "leaves"
+        "leaves",
+        "опавший лист",
+        "осень",
+        "природа"
       ],
       "skins": [
         {
@@ -19777,7 +22175,10 @@ window._emojiData =
         "vegetable",
         "grass",
         "lawn",
-        "spring"
+        "spring",
+        "листья на ветру",
+        "природа",
+        "весна"
       ],
       "skins": [
         {
@@ -19791,7 +22192,10 @@ window._emojiData =
       "id": "empty_nest",
       "name": "Empty Nest",
       "keywords": [
-        "bird"
+        "bird",
+        "пустое гнездо",
+        "птица",
+        "природа"
       ],
       "skins": [
         {
@@ -19805,7 +22209,10 @@ window._emojiData =
       "id": "nest_with_eggs",
       "name": "Nest with Eggs",
       "keywords": [
-        "bird"
+        "bird",
+        "гнездо с яйцами",
+        "птица",
+        "яйца"
       ],
       "skins": [
         {
@@ -19820,7 +22227,10 @@ window._emojiData =
       "name": "Mushroom",
       "keywords": [
         "plant",
-        "vegetable"
+        "vegetable",
+        "гриб",
+        "природа",
+        "лес"
       ],
       "skins": [
         {
@@ -19836,7 +22246,10 @@ window._emojiData =
       "keywords": [
         "fruit",
         "food",
-        "wine"
+        "wine",
+        "виноград",
+        "фрукт",
+        "вино"
       ],
       "skins": [
         {
@@ -19852,7 +22265,10 @@ window._emojiData =
       "keywords": [
         "fruit",
         "nature",
-        "food"
+        "food",
+        "дыня",
+        "фрукт",
+        "еда"
       ],
       "skins": [
         {
@@ -19869,7 +22285,10 @@ window._emojiData =
         "fruit",
         "food",
         "picnic",
-        "summer"
+        "summer",
+        "арбуз",
+        "фрукт",
+        "лето"
       ],
       "skins": [
         {
@@ -19886,7 +22305,10 @@ window._emojiData =
         "food",
         "fruit",
         "nature",
-        "orange"
+        "orange",
+        "мандарин",
+        "фрукт",
+        "цитрус"
       ],
       "skins": [
         {
@@ -19901,7 +22323,10 @@ window._emojiData =
       "name": "Lemon",
       "keywords": [
         "fruit",
-        "nature"
+        "nature",
+        "лимон",
+        "фрукт",
+        "цитрус"
       ],
       "skins": [
         {
@@ -19917,7 +22342,10 @@ window._emojiData =
       "keywords": [
         "fruit",
         "food",
-        "monkey"
+        "monkey",
+        "банан",
+        "фрукт",
+        "обезьяна"
       ],
       "skins": [
         {
@@ -19933,7 +22361,10 @@ window._emojiData =
       "keywords": [
         "fruit",
         "nature",
-        "food"
+        "food",
+        "ананас",
+        "фрукт",
+        "тропики"
       ],
       "skins": [
         {
@@ -19949,7 +22380,10 @@ window._emojiData =
       "keywords": [
         "fruit",
         "food",
-        "tropical"
+        "tropical",
+        "манго",
+        "фрукт",
+        "тропики"
       ],
       "skins": [
         {
@@ -19965,7 +22399,10 @@ window._emojiData =
       "keywords": [
         "fruit",
         "mac",
-        "school"
+        "school",
+        "красное яблоко",
+        "фрукт",
+        "школа"
       ],
       "skins": [
         {
@@ -19980,7 +22417,10 @@ window._emojiData =
       "name": "Green Apple",
       "keywords": [
         "fruit",
-        "nature"
+        "nature",
+        "зеленое яблоко",
+        "фрукт",
+        "природа"
       ],
       "skins": [
         {
@@ -19996,7 +22436,10 @@ window._emojiData =
       "keywords": [
         "fruit",
         "nature",
-        "food"
+        "food",
+        "груша",
+        "фрукт",
+        "еда"
       ],
       "skins": [
         {
@@ -20012,7 +22455,10 @@ window._emojiData =
       "keywords": [
         "fruit",
         "nature",
-        "food"
+        "food",
+        "фрукт",
+        "природа",
+        "еда"
       ],
       "skins": [
         {
@@ -20027,7 +22473,9 @@ window._emojiData =
       "name": "Cherries",
       "keywords": [
         "food",
-        "fruit"
+        "fruit",
+        "еда",
+        "фрукт"
       ],
       "skins": [
         {
@@ -20043,7 +22491,10 @@ window._emojiData =
       "keywords": [
         "fruit",
         "food",
-        "nature"
+        "nature",
+        "фрукт",
+        "еда",
+        "природа"
       ],
       "skins": [
         {
@@ -20057,7 +22508,8 @@ window._emojiData =
       "id": "blueberries",
       "name": "Blueberries",
       "keywords": [
-        "fruit"
+        "fruit",
+        "фрукт"
       ],
       "skins": [
         {
@@ -20073,7 +22525,10 @@ window._emojiData =
       "keywords": [
         "kiwi",
         "fruit",
-        "food"
+        "food",
+        "киви",
+        "фрукт",
+        "еда"
       ],
       "skins": [
         {
@@ -20090,7 +22545,11 @@ window._emojiData =
         "fruit",
         "vegetable",
         "nature",
-        "food"
+        "food",
+        "фрукт",
+        "овощ",
+        "природа",
+        "еда"
       ],
       "skins": [
         {
@@ -20104,7 +22563,8 @@ window._emojiData =
       "id": "olive",
       "name": "Olive",
       "keywords": [
-        "fruit"
+        "fruit",
+        "фрукт"
       ],
       "skins": [
         {
@@ -20121,7 +22581,11 @@ window._emojiData =
         "fruit",
         "nature",
         "food",
-        "palm"
+        "palm",
+        "фрукт",
+        "природа",
+        "еда",
+        "пальма"
       ],
       "skins": [
         {
@@ -20136,7 +22600,9 @@ window._emojiData =
       "name": "Avocado",
       "keywords": [
         "fruit",
-        "food"
+        "food",
+        "фрукт",
+        "еда"
       ],
       "skins": [
         {
@@ -20153,7 +22619,11 @@ window._emojiData =
         "vegetable",
         "nature",
         "food",
-        "aubergine"
+        "aubergine",
+        "овощ",
+        "природа",
+        "еда",
+        "баклажан"
       ],
       "skins": [
         {
@@ -20169,8 +22639,12 @@ window._emojiData =
       "keywords": [
         "food",
         "tuber",
-        "vegatable",
-        "starch"
+        "vegetable",
+        "starch",
+        "еда",
+        "клубень",
+        "овощ",
+        "крахмал"
       ],
       "skins": [
         {
@@ -20186,7 +22660,10 @@ window._emojiData =
       "keywords": [
         "vegetable",
         "food",
-        "orange"
+        "orange",
+        "овощ",
+        "еда",
+        "оранжевый"
       ],
       "skins": [
         {
@@ -20202,7 +22679,10 @@ window._emojiData =
       "keywords": [
         "food",
         "vegetable",
-        "plant"
+        "plant",
+        "еда",
+        "овощ",
+        "растение"
       ],
       "skins": [
         {
@@ -20219,7 +22699,10 @@ window._emojiData =
         "food",
         "spicy",
         "chilli",
-        "chili"
+        "chili",
+        "еда",
+        "острый",
+        "перец"
       ],
       "skins": [
         {
@@ -20234,7 +22717,9 @@ window._emojiData =
       "name": "Bell Pepper",
       "keywords": [
         "fruit",
-        "plant"
+        "plant",
+        "фрукт",
+        "растение"
       ],
       "skins": [
         {
@@ -20250,7 +22735,10 @@ window._emojiData =
       "keywords": [
         "fruit",
         "food",
-        "pickle"
+        "pickle",
+        "фрукт",
+        "еда",
+        "огурец"
       ],
       "skins": [
         {
@@ -20271,7 +22759,14 @@ window._emojiData =
         "choy",
         "cabbage",
         "kale",
-        "lettuce"
+        "lettuce",
+        "еда",
+        "овощ",
+        "растение",
+        "бок-чой",
+        "капуста",
+        "кейл",
+        "салат"
       ],
       "skins": [
         {
@@ -20287,7 +22782,10 @@ window._emojiData =
       "keywords": [
         "fruit",
         "food",
-        "vegetable"
+        "vegetable",
+        "фрукт",
+        "еда",
+        "овощ"
       ],
       "skins": [
         {
@@ -20303,7 +22801,10 @@ window._emojiData =
       "keywords": [
         "food",
         "spice",
-        "cook"
+        "cook",
+        "еда",
+        "специя",
+        "готовка"
       ],
       "skins": [
         {
@@ -20319,7 +22820,10 @@ window._emojiData =
       "keywords": [
         "cook",
         "food",
-        "spice"
+        "spice",
+        "готовка",
+        "еда",
+        "специя"
       ],
       "skins": [
         {
@@ -20334,7 +22838,9 @@ window._emojiData =
       "name": "Peanuts",
       "keywords": [
         "food",
-        "nut"
+        "nut",
+        "еда",
+        "орех"
       ],
       "skins": [
         {
@@ -20348,7 +22854,8 @@ window._emojiData =
       "id": "beans",
       "name": "Beans",
       "keywords": [
-        "food"
+        "food",
+        "еда"
       ],
       "skins": [
         {
@@ -20363,7 +22870,9 @@ window._emojiData =
       "name": "Chestnut",
       "keywords": [
         "food",
-        "squirrel"
+        "squirrel",
+        "еда",
+        "белка"
       ],
       "skins": [
         {
@@ -20380,7 +22889,11 @@ window._emojiData =
         "spice",
         "yellow",
         "cooking",
-        "gingerbread"
+        "gingerbread",
+        "специя",
+        "желтый",
+        "готовка",
+        "пряник"
       ],
       "skins": [
         {
@@ -20395,7 +22908,9 @@ window._emojiData =
       "name": "Pea Pod",
       "keywords": [
         "cozy",
-        "green"
+        "green",
+        "уютный",
+        "зеленый"
       ],
       "skins": [
         {
@@ -20412,7 +22927,11 @@ window._emojiData =
         "food",
         "wheat",
         "breakfast",
-        "toast"
+        "toast",
+        "еда",
+        "пшеница",
+        "завтрак",
+        "тост"
       ],
       "skins": [
         {
@@ -20428,7 +22947,10 @@ window._emojiData =
       "keywords": [
         "food",
         "bread",
-        "french"
+        "french",
+        "еда",
+        "хлеб",
+        "французский"
       ],
       "skins": [
         {
@@ -20444,8 +22966,12 @@ window._emojiData =
       "keywords": [
         "food",
         "french",
-        "france",
-        "bakery"
+        ".IMGTAGfrance",
+        "bakery",
+        "еда",
+        "французский",
+        "франция",
+        "пекарня"
       ],
       "skins": [
         {
@@ -20461,7 +22987,10 @@ window._emojiData =
       "keywords": [
         "flour",
         "food",
-        "bakery"
+        "bakery",
+        "мука",
+        "еда",
+        "пекарня"
       ],
       "skins": [
         {
@@ -20479,7 +23008,12 @@ window._emojiData =
         "bread",
         "twisted",
         "germany",
-        "bakery"
+        "bakery",
+        "еда",
+        "хлеб",
+        "закрученный",
+        "германия",
+        "пекарня"
       ],
       "skins": [
         {
@@ -20497,7 +23031,12 @@ window._emojiData =
         "bread",
         "bakery",
         "schmear",
-        "jewish"
+        "jewish",
+        "еда",
+        "хлеб",
+        "пекарня",
+        "намазка",
+        "еврейский"
       ],
       "skins": [
         {
@@ -20515,7 +23054,11 @@ window._emojiData =
         "breakfast",
         "flapjacks",
         "hotcakes",
-        "brunch"
+        "brunch",
+        "еда",
+        "завтрак",
+        "блины",
+        "бранч"
       ],
       "skins": [
         {
@@ -20531,7 +23074,10 @@ window._emojiData =
       "keywords": [
         "food",
         "breakfast",
-        "brunch"
+        "brunch",
+        "еда",
+        "завтрак",
+        "бранч"
       ],
       "skins": [
         {
@@ -20547,7 +23093,10 @@ window._emojiData =
       "keywords": [
         "food",
         "chadder",
-        "swiss"
+        "swiss",
+        "еда",
+        "чеддер",
+        "швейцарский"
       ],
       "skins": [
         {
@@ -20563,7 +23112,10 @@ window._emojiData =
       "keywords": [
         "good",
         "food",
-        "drumstick"
+        "drumstick",
+        "хорошо",
+        "еда",
+        "ножка"
       ],
       "skins": [
         {
@@ -20582,7 +23134,13 @@ window._emojiData =
         "drumstick",
         "bird",
         "chicken",
-        "turkey"
+        "turkey",
+        "еда",
+        "мясо",
+        "ножка",
+        "птица",
+        "курица",
+        "индейка"
       ],
       "skins": [
         {
@@ -20600,7 +23158,12 @@ window._emojiData =
         "cow",
         "chop",
         "lambchop",
-        "porkchop"
+        "porkchop",
+        "еда",
+        "корова",
+        "отбивная",
+        "баранина",
+        "свинина"
       ],
       "skins": [
         {
@@ -20619,7 +23182,13 @@ window._emojiData =
         "pork",
         "pig",
         "meat",
-        "brunch"
+        "brunch",
+        "еда",
+        "завтрак",
+        "свинина",
+        "свинья",
+        "мясо",
+        "бранч"
       ],
       "skins": [
         {
@@ -20640,7 +23209,15 @@ window._emojiData =
         "cheeseburger",
         "mcdonalds",
         "burger",
-        "king"
+        "king",
+        "мясо",
+        "быстро",
+        "еда",
+        "говядина",
+        "чизбургер",
+        "макдоналдс",
+        "бургер",
+        "кинг"
       ],
       "skins": [
         {
@@ -20658,7 +23235,12 @@ window._emojiData =
         "snack",
         "fast",
         "food",
-        "potato"
+        "potato",
+        "чипсы",
+        "закуска",
+        "быстро",
+        "еда",
+        "картофель"
       ],
       "skins": [
         {
@@ -20674,7 +23256,10 @@ window._emojiData =
       "keywords": [
         "food",
         "party",
-        "italy"
+        "italy",
+        "еда",
+        "вечеринка",
+        "италия"
       ],
       "skins": [
         {
@@ -20691,7 +23276,11 @@ window._emojiData =
         "hotdog",
         "food",
         "frankfurter",
-        "america"
+        "america",
+        "хотдог",
+        "еда",
+        "франкфуртер",
+        "америка"
       ],
       "skins": [
         {
@@ -20709,7 +23298,12 @@ window._emojiData =
         "lunch",
         "bread",
         "toast",
-        "bakery"
+        "bakery",
+        "еда",
+        "обед",
+        "хлеб",
+        "тост",
+        "пекарня"
       ],
       "skins": [
         {
@@ -20724,7 +23318,9 @@ window._emojiData =
       "name": "Taco",
       "keywords": [
         "food",
-        "mexican"
+        "mexican",
+        "еда",
+        "мексиканский"
       ],
       "skins": [
         {
@@ -20739,7 +23335,9 @@ window._emojiData =
       "name": "Burrito",
       "keywords": [
         "food",
-        "mexican"
+        "mexican",
+        "еда",
+        "мексиканский"
       ],
       "skins": [
         {
@@ -20754,7 +23352,9 @@ window._emojiData =
       "name": "Tamale",
       "keywords": [
         "food",
-        "masa"
+        "masa",
+        "еда",
+        "маса"
       ],
       "skins": [
         {
@@ -20770,7 +23370,10 @@ window._emojiData =
       "keywords": [
         "food",
         "gyro",
-        "mediterranean"
+        "mediterranean",
+        "еда",
+        "гиро",
+        "средиземноморский"
       ],
       "skins": [
         {
@@ -20785,7 +23388,9 @@ window._emojiData =
       "name": "Falafel",
       "keywords": [
         "food",
-        "mediterranean"
+        "mediterranean",
+        "еда",
+        "средиземноморский"
       ],
       "skins": [
         {
@@ -20801,7 +23406,10 @@ window._emojiData =
       "keywords": [
         "food",
         "chicken",
-        "breakfast"
+        "breakfast",
+        "еда",
+        "курица",
+        "завтрак"
       ],
       "skins": [
         {
@@ -20820,7 +23428,13 @@ window._emojiData =
         "food",
         "breakfast",
         "kitchen",
-        "skillet"
+        "skillet",
+        "жареный",
+        "яйцо",
+        "еда",
+        "завтрак",
+        "кухня",
+        "сковорода"
       ],
       "skins": [
         {
@@ -20837,7 +23451,11 @@ window._emojiData =
         "cooking",
         "casserole",
         "paella",
-        "skillet"
+        "skillet",
+        "готовка",
+        "запеканка",
+        "паэлья",
+        "сковорода"
       ],
       "skins": [
         {
@@ -20854,7 +23472,11 @@ window._emojiData =
         "stew",
         "meat",
         "soup",
-        "hot"
+        "hot",
+        "рагу",
+        "мясо",
+        "суп",
+        "горячий"
       ],
       "skins": [
         {
@@ -20870,7 +23492,10 @@ window._emojiData =
       "keywords": [
         "cheese",
         "pot",
-        "food"
+        "food",
+        "сыр",
+        "горшок",
+        "еда"
       ],
       "skins": [
         {
@@ -20888,7 +23513,12 @@ window._emojiData =
         "breakfast",
         "cereal",
         "oatmeal",
-        "porridge"
+        "porridge",
+        "еда",
+        "завтрак",
+        "хлопья",
+        "овсянка",
+        "каша"
       ],
       "skins": [
         {
@@ -20905,7 +23535,11 @@ window._emojiData =
         "food",
         "healthy",
         "lettuce",
-        "vegetable"
+        "vegetable",
+        "еда",
+        "здоровый",
+        "салат",
+        "овощ"
       ],
       "skins": [
         {
@@ -20924,7 +23558,13 @@ window._emojiData =
         "theater",
         "films",
         "snack",
-        "drama"
+        "drama",
+        "еда",
+        "кино",
+        "театр",
+        "фильмы",
+        "закуска",
+        "драма"
       ],
       "skins": [
         {
@@ -20939,7 +23579,9 @@ window._emojiData =
       "name": "Butter",
       "keywords": [
         "food",
-        "cook"
+        "cook",
+        "еда",
+        "готовка"
       ],
       "skins": [
         {
@@ -20954,7 +23596,9 @@ window._emojiData =
       "name": "Salt",
       "keywords": [
         "condiment",
-        "shaker"
+        "shaker",
+        "приправа",
+        "солонка"
       ],
       "skins": [
         {
@@ -20969,7 +23613,9 @@ window._emojiData =
       "name": "Canned Food",
       "keywords": [
         "soup",
-        "tomatoes"
+        "tomatoes",
+        "суп",
+        "помидоры"
       ],
       "skins": [
         {
@@ -20985,7 +23631,10 @@ window._emojiData =
       "keywords": [
         "food",
         "japanese",
-        "lunch"
+        "lunch",
+        "еда",
+        "японский",
+        "обед"
       ],
       "skins": [
         {
@@ -21001,7 +23650,10 @@ window._emojiData =
       "keywords": [
         "food",
         "japanese",
-        "snack"
+        "snack",
+        "еда",
+        "японский",
+        "закуска"
       ],
       "skins": [
         {
@@ -21016,7 +23668,9 @@ window._emojiData =
       "name": "Rice Ball",
       "keywords": [
         "food",
-        "japanese"
+        "japanese",
+        "еда",
+        "японский"
       ],
       "skins": [
         {
@@ -21031,7 +23685,9 @@ window._emojiData =
       "name": "Cooked Rice",
       "keywords": [
         "food",
-        "asian"
+        "asian",
+        "еда",
+        "азиатский"
       ],
       "skins": [
         {
@@ -21048,7 +23704,11 @@ window._emojiData =
         "food",
         "spicy",
         "hot",
-        "indian"
+        "indian",
+        "еда",
+        "острый",
+        "горячий",
+        "индийский"
       ],
       "skins": [
         {
@@ -21066,7 +23726,12 @@ window._emojiData =
         "food",
         "japanese",
         "noodle",
-        "chopsticks"
+        "chopsticks",
+        "рамен",
+        "еда",
+        "японский",
+        "лапша",
+        "палочки"
       ],
       "skins": [
         {
@@ -21083,7 +23748,11 @@ window._emojiData =
         "food",
         "italian",
         "pasta",
-        "noodle"
+        "noodle",
+        "еда",
+        "итальянский",
+        "паста",
+        "лапша"
       ],
       "skins": [
         {
@@ -21099,7 +23768,10 @@ window._emojiData =
       "keywords": [
         "food",
         "nature",
-        "plant"
+        "plant",
+        "еда",
+        "природа",
+        "растение"
       ],
       "skins": [
         {
@@ -21114,7 +23786,9 @@ window._emojiData =
       "name": "Oden",
       "keywords": [
         "food",
-        "japanese"
+        "japanese",
+        "еда",
+        "японский"
       ],
       "skins": [
         {
@@ -21131,7 +23805,11 @@ window._emojiData =
         "food",
         "fish",
         "japanese",
-        "rice"
+        "rice",
+        "еда",
+        "рыба",
+        "японский",
+        "рис"
       ],
       "skins": [
         {
@@ -21148,7 +23826,11 @@ window._emojiData =
         "food",
         "animal",
         "appetizer",
-        "summer"
+        "summer",
+        "еда",
+        "животное",
+        "закуска",
+        "лето"
       ],
       "skins": [
         {
@@ -21170,7 +23852,16 @@ window._emojiData =
         "pink",
         "kamaboko",
         "surimi",
-        "ramen"
+        "ramen",
+        "еда",
+        "япония",
+        "море",
+        "пляж",
+        "нарутомаки",
+        "розовый",
+        "камабоко",
+        "сурими",
+        "рамен"
       ],
       "skins": [
         {
@@ -21186,7 +23877,10 @@ window._emojiData =
       "keywords": [
         "food",
         "autumn",
-        "dessert"
+        "dessert",
+        "еда",
+        "осень",
+        "десерт"
       ],
       "skins": [
         {
@@ -21205,7 +23899,13 @@ window._emojiData =
         "sweet",
         "japanese",
         "barbecue",
-        "meat"
+        "meat",
+        "еда",
+        "десерт",
+        "сладкий",
+        "японский",
+        "барбекю",
+        "мясо"
       ],
       "skins": [
         {
@@ -21223,7 +23923,12 @@ window._emojiData =
         "empanada",
         "pierogi",
         "potsticker",
-        "gyoza"
+        "gyoza",
+        "еда",
+        "эмпанада",
+        "пельмени",
+        "потстикер",
+        "гедза"
       ],
       "skins": [
         {
@@ -21239,7 +23944,10 @@ window._emojiData =
       "keywords": [
         "food",
         "prophecy",
-        "dessert"
+        "dessert",
+        "еда",
+        "предсказание",
+        "десерт"
       ],
       "skins": [
         {
@@ -21254,7 +23962,9 @@ window._emojiData =
       "name": "Takeout Box",
       "keywords": [
         "food",
-        "leftovers"
+        "leftovers",
+        "еда",
+        "остатки"
       ],
       "skins": [
         {
@@ -21269,7 +23979,9 @@ window._emojiData =
       "name": "Crab",
       "keywords": [
         "animal",
-        "crustacean"
+        "crustacean",
+        "животное",
+        "ракообразное"
       ],
       "skins": [
         {
@@ -21287,7 +23999,12 @@ window._emojiData =
         "nature",
         "bisque",
         "claws",
-        "seafood"
+        "seafood",
+        "животное",
+        "природа",
+        "биска",
+        "клешни",
+        "морепродукты"
       ],
       "skins": [
         {
@@ -21304,7 +24021,11 @@ window._emojiData =
         "animal",
         "ocean",
         "nature",
-        "seafood"
+        "seafood",
+        "животное",
+        "океан",
+        "природа",
+        "морепродукты"
       ],
       "skins": [
         {
@@ -21321,7 +24042,11 @@ window._emojiData =
         "animal",
         "nature",
         "ocean",
-        "sea"
+        "sea",
+        "животное",
+        "природа",
+        "океан",
+        "море"
       ],
       "skins": [
         {
@@ -21335,7 +24060,8 @@ window._emojiData =
       "id": "oyster",
       "name": "Oyster",
       "keywords": [
-        "food"
+        "food",
+        "еда"
       ],
       "skins": [
         {
@@ -21353,7 +24079,12 @@ window._emojiData =
         "food",
         "hot",
         "dessert",
-        "summer"
+        "summer",
+        "мороженое",
+        "еда",
+        "горячий",
+        "десерт",
+        "лето"
       ],
       "skins": [
         {
@@ -21369,7 +24100,10 @@ window._emojiData =
       "keywords": [
         "hot",
         "dessert",
-        "summer"
+        "summer",
+        "горячий",
+        "десерт",
+        "лето"
       ],
       "skins": [
         {
@@ -21385,7 +24119,10 @@ window._emojiData =
       "keywords": [
         "food",
         "hot",
-        "dessert"
+        "dessert",
+        "еда",
+        "горячий",
+        "десерт"
       ],
       "skins": [
         {
@@ -21403,7 +24140,12 @@ window._emojiData =
         "dessert",
         "snack",
         "sweet",
-        "donut"
+        "donut",
+        "еда",
+        "десерт",
+        "закуска",
+        "сладкий",
+        "пончик"
       ],
       "skins": [
         {
@@ -21422,7 +24164,13 @@ window._emojiData =
         "oreo",
         "chocolate",
         "sweet",
-        "dessert"
+        "dessert",
+        "еда",
+        "закуска",
+        "орео",
+        "шоколад",
+        "сладкий",
+        "десерт"
       ],
       "skins": [
         {
@@ -21437,7 +24185,9 @@ window._emojiData =
       "name": "Birthday Cake",
       "keywords": [
         "food",
-        "dessert"
+        "dessert",
+        "еда",
+        "десерт"
       ],
       "skins": [
         {
@@ -21453,7 +24203,10 @@ window._emojiData =
       "keywords": [
         "cake",
         "food",
-        "dessert"
+        "dessert",
+        "торт",
+        "еда",
+        "десерт"
       ],
       "skins": [
         {
@@ -21470,7 +24223,11 @@ window._emojiData =
         "food",
         "dessert",
         "bakery",
-        "sweet"
+        "sweet",
+        "еда",
+        "десерт",
+        "пекарня",
+        "сладкий"
       ],
       "skins": [
         {
@@ -21486,7 +24243,10 @@ window._emojiData =
       "keywords": [
         "food",
         "dessert",
-        "pastry"
+        "pastry",
+        "еда",
+        "десерт",
+        "выпечка"
       ],
       "skins": [
         {
@@ -21503,7 +24263,11 @@ window._emojiData =
         "food",
         "snack",
         "dessert",
-        "sweet"
+        "sweet",
+        "еда",
+        "закуска",
+        "десерт",
+        "сладкий"
       ],
       "skins": [
         {
@@ -21520,7 +24284,11 @@ window._emojiData =
         "snack",
         "dessert",
         "sweet",
-        "lolly"
+        "lolly",
+        "закуска",
+        "десерт",
+        "сладкий",
+        "леденец"
       ],
       "skins": [
         {
@@ -21537,7 +24305,11 @@ window._emojiData =
         "food",
         "snack",
         "candy",
-        "sweet"
+        "sweet",
+        "еда",
+        "закуска",
+        "конфета",
+        "сладкий"
       ],
       "skins": [
         {
@@ -21552,7 +24324,9 @@ window._emojiData =
       "name": "Custard",
       "keywords": [
         "dessert",
-        "food"
+        "food",
+        "десерт",
+        "еда"
       ],
       "skins": [
         {
@@ -21568,7 +24342,10 @@ window._emojiData =
       "keywords": [
         "bees",
         "sweet",
-        "kitchen"
+        "kitchen",
+        "пчелы",
+        "сладкий",
+        "кухня"
       ],
       "skins": [
         {
@@ -21584,7 +24361,10 @@ window._emojiData =
       "keywords": [
         "food",
         "container",
-        "milk"
+        "milk",
+        "еда",
+        "контейнер",
+        "молоко"
       ],
       "skins": [
         {
@@ -21600,7 +24380,10 @@ window._emojiData =
       "keywords": [
         "beverage",
         "drink",
-        "cow"
+        "cow",
+        "напиток",
+        "питье",
+        "корова"
       ],
       "skins": [
         {
@@ -21618,7 +24401,12 @@ window._emojiData =
         "caffeine",
         "latte",
         "espresso",
-        "mug"
+        "mug",
+        "кофе",
+        "кофеин",
+        "латте",
+        "эспрессо",
+        "кружка"
       ],
       "skins": [
         {
@@ -21633,7 +24421,9 @@ window._emojiData =
       "name": "Teapot",
       "keywords": [
         "drink",
-        "hot"
+        "hot",
+        "питье",
+        "горячий"
       ],
       "skins": [
         {
@@ -21652,7 +24442,13 @@ window._emojiData =
         "bowl",
         "breakfast",
         "green",
-        "british"
+        "british",
+        "чай",
+        "питье",
+        "чаша",
+        "завтрак",
+        "зеленый",
+        "британский"
       ],
       "skins": [
         {
@@ -21672,7 +24468,14 @@ window._emojiData =
         "beverage",
         "japanese",
         "alcohol",
-        "booze"
+        "booze",
+        "вино",
+        "питье",
+        "пьяный",
+        "напиток",
+        "японский",
+        "алкоголь",
+        "спиртное"
       ],
       "skins": [
         {
@@ -21689,7 +24492,11 @@ window._emojiData =
         "champagne",
         "drink",
         "wine",
-        "celebration"
+        "celebration",
+        "шампанское",
+        "питье",
+        "вино",
+        "празднование"
       ],
       "skins": [
         {
@@ -21707,7 +24514,12 @@ window._emojiData =
         "beverage",
         "drunk",
         "alcohol",
-        "booze"
+        "booze",
+        "питье",
+        "напиток",
+        "пьяный",
+        "алкоголь",
+        "спиртное"
       ],
       "skins": [
         {
@@ -21726,7 +24538,13 @@ window._emojiData =
         "alcohol",
         "beverage",
         "booze",
-        "mojito"
+        "mojito",
+        "питье",
+        "пьяный",
+        "алкоголь",
+        "напиток",
+        "спиртное",
+        "мохито"
       ],
       "skins": [
         {
@@ -21746,7 +24564,14 @@ window._emojiData =
         "beach",
         "alcohol",
         "booze",
-        "mojito"
+        "mojito",
+        "напиток",
+        "коктейль",
+        "лето",
+        "пляж",
+        "алкоголь",
+        "спиртное",
+        "мохито"
       ],
       "skins": [
         {
@@ -21768,7 +24593,16 @@ window._emojiData =
         "pub",
         "summer",
         "alcohol",
-        "booze"
+        "booze",
+        "расслабление",
+        "напиток",
+        "питье",
+        "пьяный",
+        "вечеринка",
+        "паб",
+        "лето",
+        "алкоголь",
+        "спиртное"
       ],
       "skins": [
         {
@@ -21791,7 +24625,17 @@ window._emojiData =
         "pub",
         "summer",
         "alcohol",
-        "booze"
+        "booze",
+        "пиво",
+        "расслабление",
+        "напиток",
+        "питье",
+        "пьяный",
+        "вечеринка",
+        "паб",
+        "лето",
+        "алкоголь",
+        "спиртное"
       ],
       "skins": [
         {
@@ -21813,7 +24657,16 @@ window._emojiData =
         "cheers",
         "wine",
         "champagne",
-        "toast"
+        "toast",
+        "напиток",
+        "питье",
+        "вечеринка",
+        "алкоголь",
+        "празднование",
+        "за_здоровье",
+        "вино",
+        "шампанское",
+        "тост"
       ],
       "skins": [
         {
@@ -21836,7 +24689,17 @@ window._emojiData =
         "bourbon",
         "scotch",
         "whisky",
-        "shot"
+        "shot",
+        "питье",
+        "напиток",
+        "пьяный",
+        "алкоголь",
+        "ликер",
+        "спиртное",
+        "бурбон",
+        "скотч",
+        "виски",
+        "шот"
       ],
       "skins": [
         {
@@ -21851,7 +24714,9 @@ window._emojiData =
       "name": "Pouring Liquid",
       "keywords": [
         "cup",
-        "water"
+        "water",
+        "чашка",
+        "вода"
       ],
       "skins": [
         {
@@ -21866,7 +24731,9 @@ window._emojiData =
       "name": "Cup with Straw",
       "keywords": [
         "drink",
-        "soda"
+        "soda",
+        "питье",
+        "газировка"
       ],
       "skins": [
         {
@@ -21883,7 +24750,11 @@ window._emojiData =
         "taiwan",
         "boba",
         "milk",
-        "straw"
+        "straw",
+        "тайвань",
+        "боба",
+        "молоко",
+        "соломка"
       ],
       "skins": [
         {
@@ -21897,7 +24768,8 @@ window._emojiData =
       "id": "beverage_box",
       "name": "Beverage Box",
       "keywords": [
-        "drink"
+        "drink",
+        "питье"
       ],
       "skins": [
         {
@@ -21913,7 +24785,10 @@ window._emojiData =
       "keywords": [
         "drink",
         "tea",
-        "beverage"
+        "beverage",
+        "питье",
+        "чай",
+        "напиток"
       ],
       "skins": [
         {
@@ -21929,7 +24804,10 @@ window._emojiData =
       "keywords": [
         "cube",
         "water",
-        "cold"
+        "cold",
+        "кубик",
+        "вода",
+        "холодный"
       ],
       "skins": [
         {
@@ -21943,7 +24821,8 @@ window._emojiData =
       "id": "chopsticks",
       "name": "Chopsticks",
       "keywords": [
-        "food"
+        "food",
+        "еда"
       ],
       "skins": [
         {
@@ -21962,7 +24841,13 @@ window._emojiData =
         "meal",
         "lunch",
         "dinner",
-        "restaurant"
+        "restaurant",
+        "еда",
+        "есть",
+        "еда",
+        "обед",
+        "ужин",
+        "ресторан"
       ],
       "skins": [
         {
@@ -21977,7 +24862,9 @@ window._emojiData =
       "name": "Fork and Knife",
       "keywords": [
         "cutlery",
-        "kitchen"
+        "kitchen",
+        "столовые_приборы",
+        "кухня"
       ],
       "skins": [
         {
@@ -21993,7 +24880,10 @@ window._emojiData =
       "keywords": [
         "cutlery",
         "kitchen",
-        "tableware"
+        "tableware",
+        "столовые_приборы",
+        "кухня",
+        "посуда"
       ],
       "skins": [
         {
@@ -22011,7 +24901,12 @@ window._emojiData =
         "kitchen",
         "blade",
         "cutlery",
-        "weapon"
+        "weapon",
+        "нож",
+        "кухня",
+        "лезвие",
+        "столовые_приборы",
+        "оружие"
       ],
       "skins": [
         {
@@ -22026,7 +24921,9 @@ window._emojiData =
       "name": "Jar",
       "keywords": [
         "container",
-        "sauce"
+        "sauce",
+        "контейнер",
+        "соус"
       ],
       "skins": [
         {
@@ -22041,7 +24938,9 @@ window._emojiData =
       "name": "Amphora",
       "keywords": [
         "vase",
-        "jar"
+        "jar",
+        "ваза",
+        "кувшин"
       ],
       "skins": [
         {
@@ -22059,7 +24958,12 @@ window._emojiData =
         "showing",
         "europe",
         "world",
-        "international"
+        "international",
+        "африка",
+        "показывает",
+        "европа",
+        "мир",
+        "международный"
       ],
       "skins": [
         {
@@ -22076,7 +24980,11 @@ window._emojiData =
         "showing",
         "world",
         "USA",
-        "international"
+        "international",
+        "показывает",
+        "мир",
+        "сша",
+        "международный"
       ],
       "skins": [
         {
@@ -22095,7 +25003,13 @@ window._emojiData =
         "australia",
         "world",
         "east",
-        "international"
+        "international",
+        "азия",
+        "показывает",
+        "австралия",
+        "мир",
+        "восток",
+        "международный"
       ],
       "skins": [
         {
@@ -22114,7 +25028,13 @@ window._emojiData =
         "world",
         "internet",
         "interweb",
-        "i18n"
+        "i18n",
+        "земля",
+        "международный",
+        "мир",
+        "интернет",
+        "интервеб",
+        "интернационализация"
       ],
       "skins": [
         {
@@ -22129,7 +25049,9 @@ window._emojiData =
       "name": "World Map",
       "keywords": [
         "location",
-        "direction"
+        "direction",
+        "местоположение",
+        "направление"
       ],
       "skins": [
         {
@@ -22146,7 +25068,11 @@ window._emojiData =
         "nation",
         "country",
         "japanese",
-        "asia"
+        "asia",
+        "нация",
+        "страна",
+        "японский",
+        "азия"
       ],
       "skins": [
         {
@@ -22162,7 +25088,10 @@ window._emojiData =
       "keywords": [
         "magnetic",
         "navigation",
-        "orienteering"
+        "orienteering",
+        "магнитный",
+        "навигация",
+        "ориентирование"
       ],
       "skins": [
         {
@@ -22182,7 +25111,14 @@ window._emojiData =
         "nature",
         "environment",
         "winter",
-        "cold"
+        "cold",
+        "снег",
+        "покрытый",
+        "фото",
+        "природа",
+        "окружающая_среда",
+        "зима",
+        "холод"
       ],
       "skins": [
         {
@@ -22198,7 +25134,10 @@ window._emojiData =
       "keywords": [
         "photo",
         "nature",
-        "environment"
+        "environment",
+        "фото",
+        "природа",
+        "окружающая_среда"
       ],
       "skins": [
         {
@@ -22214,7 +25153,10 @@ window._emojiData =
       "keywords": [
         "photo",
         "nature",
-        "disaster"
+        "disaster",
+        "фото",
+        "природа",
+        "катастрофа"
       ],
       "skins": [
         {
@@ -22231,7 +25173,11 @@ window._emojiData =
         "photo",
         "mountain",
         "nature",
-        "japanese"
+        "japanese",
+        "фото",
+        "гора",
+        "природа",
+        "японский"
       ],
       "skins": [
         {
@@ -22247,7 +25193,10 @@ window._emojiData =
       "keywords": [
         "photo",
         "outdoors",
-        "tent"
+        "tent",
+        "фото",
+        "на_открытом_воздухе",
+        "палатка"
       ],
       "skins": [
         {
@@ -22265,7 +25214,12 @@ window._emojiData =
         "summer",
         "sunny",
         "sand",
-        "mojito"
+        "mojito",
+        "погода",
+        "лето",
+        "солнечно",
+        "песок",
+        "мохито"
       ],
       "skins": [
         {
@@ -22281,7 +25235,10 @@ window._emojiData =
       "keywords": [
         "photo",
         "warm",
-        "saharah"
+        "saharah",
+        "фото",
+        "теплый",
+        "сахара"
       ],
       "skins": [
         {
@@ -22297,7 +25254,10 @@ window._emojiData =
       "keywords": [
         "photo",
         "tropical",
-        "mojito"
+        "mojito",
+        "фото",
+        "тропический",
+        "мохито"
       ],
       "skins": [
         {
@@ -22313,7 +25273,10 @@ window._emojiData =
       "keywords": [
         "photo",
         "environment",
-        "nature"
+        "nature",
+        "фото",
+        "окружающая_среда",
+        "природа"
       ],
       "skins": [
         {
@@ -22331,7 +25294,12 @@ window._emojiData =
         "place",
         "sports",
         "concert",
-        "venue"
+        "venue",
+        "фото",
+        "место",
+        "спорт",
+        "концерт",
+        "площадка"
       ],
       "skins": [
         {
@@ -22347,7 +25315,10 @@ window._emojiData =
       "keywords": [
         "art",
         "culture",
-        "history"
+        "history",
+        "искусство",
+        "культура",
+        "история"
       ],
       "skins": [
         {
@@ -22363,7 +25334,10 @@ window._emojiData =
       "keywords": [
         "wip",
         "working",
-        "progress"
+        "progress",
+        "стройка",
+        "работа",
+        "прогресс"
       ],
       "skins": [
         {
@@ -22377,7 +25351,8 @@ window._emojiData =
       "id": "bricks",
       "name": "Brick",
       "keywords": [
-        "bricks"
+        "bricks",
+        "кирпичи"
       ],
       "skins": [
         {
@@ -22391,7 +25366,8 @@ window._emojiData =
       "id": "rock",
       "name": "Rock",
       "keywords": [
-        "stone"
+        "stone",
+        "камень"
       ],
       "skins": [
         {
@@ -22407,7 +25383,10 @@ window._emojiData =
       "keywords": [
         "nature",
         "timber",
-        "trunk"
+        "trunk",
+        "природа",
+        "древесина",
+        "ствол"
       ],
       "skins": [
         {
@@ -22422,7 +25401,9 @@ window._emojiData =
       "name": "Hut",
       "keywords": [
         "house",
-        "structure"
+        "structure",
+        "дом",
+        "структура"
       ],
       "skins": [
         {
@@ -22438,7 +25419,10 @@ window._emojiData =
       "keywords": [
         "house",
         "buildings",
-        "photo"
+        "photo",
+        "дом",
+        "здания",
+        "фото"
       ],
       "skins": [
         {
@@ -22455,7 +25439,11 @@ window._emojiData =
         "building",
         "abandon",
         "evict",
-        "broken"
+        "broken",
+        "здание",
+        "заброшенный",
+        "выселение",
+        "сломанный"
       ],
       "skins": [
         {
@@ -22470,7 +25458,9 @@ window._emojiData =
       "name": "House",
       "keywords": [
         "building",
-        "home"
+        "home",
+        "здание",
+        "дом"
       ],
       "skins": [
         {
@@ -22486,7 +25476,10 @@ window._emojiData =
       "keywords": [
         "home",
         "plant",
-        "nature"
+        "nature",
+        "дом",
+        "растение",
+        "природа"
       ],
       "skins": [
         {
@@ -22501,7 +25494,9 @@ window._emojiData =
       "name": "Office Building",
       "keywords": [
         "bureau",
-        "work"
+        "work",
+        "бюро",
+        "работа"
       ],
       "skins": [
         {
@@ -22517,7 +25512,10 @@ window._emojiData =
       "keywords": [
         "building",
         "envelope",
-        "communication"
+        "communication",
+        "здание",
+        "конверт",
+        "коммуникация"
       ],
       "skins": [
         {
@@ -22533,7 +25531,10 @@ window._emojiData =
       "keywords": [
         "european",
         "building",
-        "email"
+        "email",
+        "европейский",
+        "здание",
+        "электронная_почта"
       ],
       "skins": [
         {
@@ -22550,7 +25551,11 @@ window._emojiData =
         "building",
         "health",
         "surgery",
-        "doctor"
+        "doctor",
+        "здание",
+        "здоровье",
+        "хирургия",
+        "врач"
       ],
       "skins": [
         {
@@ -22569,7 +25574,13 @@ window._emojiData =
         "sales",
         "cash",
         "business",
-        "enterprise"
+        "enterprise",
+        "здание",
+        "деньги",
+        "продажи",
+        "наличные",
+        "бизнес",
+        "предприятие"
       ],
       "skins": [
         {
@@ -22585,7 +25596,10 @@ window._emojiData =
       "keywords": [
         "building",
         "accomodation",
-        "checkin"
+        "checkin",
+        "здание",
+        "проживание",
+        "регистрация"
       ],
       "skins": [
         {
@@ -22601,7 +25615,10 @@ window._emojiData =
       "keywords": [
         "like",
         "affection",
-        "dating"
+        "dating",
+        "нравится",
+        "привязанность",
+        "свидания"
       ],
       "skins": [
         {
@@ -22617,7 +25634,10 @@ window._emojiData =
       "keywords": [
         "building",
         "shopping",
-        "groceries"
+        "groceries",
+        "здание",
+        "покупки",
+        "продукты"
       ],
       "skins": [
         {
@@ -22635,7 +25655,12 @@ window._emojiData =
         "student",
         "education",
         "learn",
-        "teach"
+        "teach",
+        "здание",
+        "студент",
+        "образование",
+        "учиться",
+        "преподавать"
       ],
       "skins": [
         {
@@ -22651,7 +25676,10 @@ window._emojiData =
       "keywords": [
         "building",
         "shopping",
-        "mall"
+        "mall",
+        "здание",
+        "покупки",
+        "торговый_центр"
       ],
       "skins": [
         {
@@ -22668,7 +25696,11 @@ window._emojiData =
         "building",
         "industry",
         "pollution",
-        "smoke"
+        "smoke",
+        "здание",
+        "промышленность",
+        "загрязнение",
+        "дым"
       ],
       "skins": [
         {
@@ -22683,7 +25715,9 @@ window._emojiData =
       "name": "Japanese Castle",
       "keywords": [
         "photo",
-        "building"
+        "building",
+        "фото",
+        "здание"
       ],
       "skins": [
         {
@@ -22700,7 +25734,11 @@ window._emojiData =
         "european",
         "building",
         "royalty",
-        "history"
+        "history",
+        "европейский",
+        "здание",
+        "королевство",
+        "история"
       ],
       "skins": [
         {
@@ -22720,7 +25758,14 @@ window._emojiData =
         "couple",
         "marriage",
         "bride",
-        "groom"
+        "groom",
+        "любовь",
+        "нравится",
+        "привязанность",
+        "пара",
+        "брак",
+        "невеста",
+        "жених"
       ],
       "skins": [
         {
@@ -22735,7 +25780,9 @@ window._emojiData =
       "name": "Tokyo Tower",
       "keywords": [
         "photo",
-        "japanese"
+        "japanese",
+        "фото",
+        "японский"
       ],
       "skins": [
         {
@@ -22750,7 +25797,9 @@ window._emojiData =
       "name": "Statue of Liberty",
       "keywords": [
         "american",
-        "newyork"
+        "newyork",
+        "американский",
+        "нью-йорк"
       ],
       "skins": [
         {
@@ -22766,7 +25815,10 @@ window._emojiData =
       "keywords": [
         "building",
         "religion",
-        "christ"
+        "christ",
+        "здание",
+        "религия",
+        "христос"
       ],
       "skins": [
         {
@@ -22782,7 +25834,10 @@ window._emojiData =
       "keywords": [
         "islam",
         "worship",
-        "minaret"
+        "minaret",
+        "ислам",
+        "поклонение",
+        "минарет"
       ],
       "skins": [
         {
@@ -22796,7 +25851,8 @@ window._emojiData =
       "id": "hindu_temple",
       "name": "Hindu Temple",
       "keywords": [
-        "religion"
+        "religion",
+        "религия"
       ],
       "skins": [
         {
@@ -22813,7 +25869,11 @@ window._emojiData =
         "judaism",
         "worship",
         "temple",
-        "jewish"
+        "jewish",
+        "иудаизм",
+        "поклонение",
+        "храм",
+        "еврейский"
       ],
       "skins": [
         {
@@ -22829,7 +25889,10 @@ window._emojiData =
       "keywords": [
         "temple",
         "japan",
-        "kyoto"
+        "kyoto",
+        "храм",
+        "япония",
+        "киото"
       ],
       "skins": [
         {
@@ -22845,7 +25908,10 @@ window._emojiData =
       "keywords": [
         "mecca",
         "mosque",
-        "islam"
+        "islam",
+        "мекка",
+        "мечеть",
+        "ислам"
       ],
       "skins": [
         {
@@ -22862,7 +25928,11 @@ window._emojiData =
         "photo",
         "summer",
         "water",
-        "fresh"
+        "fresh",
+        "фото",
+        "лето",
+        "вода",
+        "свежий"
       ],
       "skins": [
         {
@@ -22878,7 +25948,10 @@ window._emojiData =
       "keywords": [
         "photo",
         "camping",
-        "outdoors"
+        "outdoors",
+        "фото",
+        "кемпинг",
+        "на_открытом_воздухе"
       ],
       "skins": [
         {
@@ -22893,7 +25966,9 @@ window._emojiData =
       "name": "Foggy",
       "keywords": [
         "photo",
-        "mountain"
+        "mountain",
+        "фото",
+        "гора"
       ],
       "skins": [
         {
@@ -22909,7 +25984,10 @@ window._emojiData =
       "keywords": [
         "evening",
         "city",
-        "downtown"
+        "downtown",
+        "вечер",
+        "город",
+        "центр"
       ],
       "skins": [
         {
@@ -22926,7 +26004,11 @@ window._emojiData =
         "photo",
         "night",
         "life",
-        "urban"
+        "urban",
+        "фото",
+        "ночь",
+        "жизнь",
+        "городской"
       ],
       "skins": [
         {
@@ -22942,7 +26024,10 @@ window._emojiData =
       "keywords": [
         "view",
         "vacation",
-        "photo"
+        "photo",
+        "вид",
+        "отпуск",
+        "фото"
       ],
       "skins": [
         {
@@ -22959,7 +26044,11 @@ window._emojiData =
         "morning",
         "view",
         "vacation",
-        "photo"
+        "photo",
+        "утро",
+        "вид",
+        "отпуск",
+        "фото"
       ],
       "skins": [
         {
@@ -22978,7 +26067,13 @@ window._emojiData =
         "photo",
         "evening",
         "sky",
-        "buildings"
+        "buildings",
+        "город",
+        "закат",
+        "фото",
+        "вечер",
+        "небо",
+        "здания"
       ],
       "skins": [
         {
@@ -22997,7 +26092,13 @@ window._emojiData =
         "photo",
         "good",
         "morning",
-        "dawn"
+        "dawn",
+        "город",
+        "восход",
+        "фото",
+        "хороший",
+        "утро",
+        "рассвет"
       ],
       "skins": [
         {
@@ -23012,7 +26113,9 @@ window._emojiData =
       "name": "Bridge at Night",
       "keywords": [
         "photo",
-        "sanfrancisco"
+        "sanfrancisco",
+        "фото",
+        "сан-франциско"
       ],
       "skins": [
         {
@@ -23029,7 +26132,11 @@ window._emojiData =
         "hotsprings",
         "bath",
         "warm",
-        "relax"
+        "relax",
+        "горячие_источники",
+        "ванна",
+        "теплый",
+        "расслабление"
       ],
       "skins": [
         {
@@ -23044,7 +26151,9 @@ window._emojiData =
       "name": "Carousel Horse",
       "keywords": [
         "photo",
-        "carnival"
+        "carnival",
+        "фото",
+        "карнавал"
       ],
       "skins": [
         {
@@ -23059,7 +26168,9 @@ window._emojiData =
       "name": "Playground Slide",
       "keywords": [
         "fun",
-        "park"
+        "park",
+        "веселье",
+        "парк"
       ],
       "skins": [
         {
@@ -23075,7 +26186,10 @@ window._emojiData =
       "keywords": [
         "photo",
         "carnival",
-        "londoneye"
+        "londoneye",
+        "фото",
+        "карнавал",
+        "лондонский_глаз"
       ],
       "skins": [
         {
@@ -23092,7 +26206,11 @@ window._emojiData =
         "carnival",
         "playground",
         "photo",
-        "fun"
+        "fun",
+        "карнавал",
+        "игровая_площадка",
+        "фото",
+        "веселье"
       ],
       "skins": [
         {
@@ -23108,7 +26226,10 @@ window._emojiData =
       "keywords": [
         "hair",
         "salon",
-        "style"
+        "style",
+        "волосы",
+        "салон",
+        "стиль"
       ],
       "skins": [
         {
@@ -23124,7 +26245,10 @@ window._emojiData =
       "keywords": [
         "festival",
         "carnival",
-        "party"
+        "party",
+        "фестиваль",
+        "карнавал",
+        "вечеринка"
       ],
       "skins": [
         {
@@ -23141,7 +26265,11 @@ window._emojiData =
         "steam",
         "transportation",
         "vehicle",
-        "train"
+        "train",
+        "пар",
+        "транспорт",
+        "транспортное_средство",
+        "поезд"
       ],
       "skins": [
         {
@@ -23156,7 +26284,9 @@ window._emojiData =
       "name": "Railway Car",
       "keywords": [
         "transportation",
-        "vehicle"
+        "vehicle",
+        "транспорт",
+        "транспортное_средство"
       ],
       "skins": [
         {
@@ -23175,7 +26305,13 @@ window._emojiData =
         "high",
         "speed",
         "transportation",
-        "vehicle"
+        "vehicle",
+        "скоростной_поезд",
+        "бок",
+        "высокий",
+        "скорость",
+        "транспорт",
+        "транспортное_средство"
       ],
       "skins": [
         {
@@ -23196,7 +26332,15 @@ window._emojiData =
         "speed",
         "fast",
         "public",
-        "travel"
+        "travel",
+        "скоростной_поезд",
+        "перед",
+        "транспорт",
+        "транспортное_средство",
+        "скорость",
+        "быстрый",
+        "общественный",
+        "путешествие"
       ],
       "skins": [
         {
@@ -23212,7 +26356,10 @@ window._emojiData =
       "keywords": [
         "train2",
         "transportation",
-        "vehicle"
+        "vehicle",
+        "поезд",
+        "транспорт",
+        "транспортное_средство"
       ],
       "skins": [
         {
@@ -23231,7 +26378,13 @@ window._emojiData =
         "square",
         "mrt",
         "underground",
-        "tube"
+        "tube",
+        "транспорт",
+        "синий",
+        "квадрат",
+        "метро",
+        "подземный",
+        "туннель"
       ],
       "skins": [
         {
@@ -23246,7 +26399,9 @@ window._emojiData =
       "name": "Light Rail",
       "keywords": [
         "transportation",
-        "vehicle"
+        "vehicle",
+        "транспорт",
+        "транспортное_средство"
       ],
       "skins": [
         {
@@ -23262,7 +26417,10 @@ window._emojiData =
       "keywords": [
         "transportation",
         "vehicle",
-        "public"
+        "public",
+        "транспорт",
+        "транспортное_средство",
+        "общественный"
       ],
       "skins": [
         {
@@ -23277,7 +26435,9 @@ window._emojiData =
       "name": "Tram",
       "keywords": [
         "transportation",
-        "vehicle"
+        "vehicle",
+        "транспорт",
+        "транспортное_средство"
       ],
       "skins": [
         {
@@ -23292,7 +26452,9 @@ window._emojiData =
       "name": "Monorail",
       "keywords": [
         "transportation",
-        "vehicle"
+        "vehicle",
+        "транспорт",
+        "транспортное_средство"
       ],
       "skins": [
         {
@@ -23307,7 +26469,9 @@ window._emojiData =
       "name": "Mountain Railway",
       "keywords": [
         "transportation",
-        "vehicle"
+        "vehicle",
+        "транспорт",
+        "транспортное_средство"
       ],
       "skins": [
         {
@@ -23326,7 +26490,13 @@ window._emojiData =
         "vehicle",
         "carriage",
         "public",
-        "travel"
+        "travel",
+        "поезд",
+        "транспорт",
+        "транспортное_средство",
+        "вагон",
+        "общественный",
+        "путешествие"
       ],
       "skins": [
         {
@@ -23342,7 +26512,10 @@ window._emojiData =
       "keywords": [
         "car",
         "vehicle",
-        "transportation"
+        "transportation",
+        "автобус",
+        "транспортное_средство",
+        "транспорт"
       ],
       "skins": [
         {
@@ -23357,7 +26530,9 @@ window._emojiData =
       "name": "Oncoming Bus",
       "keywords": [
         "vehicle",
-        "transportation"
+        "transportation",
+        "транспортное_средство",
+        "транспорт"
       ],
       "skins": [
         {
@@ -23373,7 +26548,10 @@ window._emojiData =
       "keywords": [
         "bart",
         "transportation",
-        "vehicle"
+        "vehicle",
+        "троллейбус",
+        "транспорт",
+        "транспортное_средство"
       ],
       "skins": [
         {
@@ -23389,7 +26567,10 @@ window._emojiData =
       "keywords": [
         "vehicle",
         "car",
-        "transportation"
+        "transportation",
+        "минибус",
+        "транспортное_средство",
+        "транспорт"
       ],
       "skins": [
         {
@@ -23405,7 +26586,10 @@ window._emojiData =
       "keywords": [
         "health",
         "911",
-        "hospital"
+        "hospital",
+        "здоровье",
+        "скорая_помощь",
+        "больница"
       ],
       "skins": [
         {
@@ -23421,7 +26605,10 @@ window._emojiData =
       "keywords": [
         "transportation",
         "cars",
-        "vehicle"
+        "vehicle",
+        "транспорт",
+        "автомобили",
+        "транспортное_средство"
       ],
       "skins": [
         {
@@ -23440,7 +26627,13 @@ window._emojiData =
         "transportation",
         "law",
         "legal",
-        "enforcement"
+        "enforcement",
+        "транспортное_средство",
+        "автомобили",
+        "транспорт",
+        "закон",
+        "юридический",
+        "правопорядок"
       ],
       "skins": [
         {
@@ -23458,7 +26651,12 @@ window._emojiData =
         "law",
         "legal",
         "enforcement",
-        "911"
+        "911",
+        "транспортное_средство",
+        "закон",
+        "юридический",
+        "правопорядок",
+        "скорая_помощь"
       ],
       "skins": [
         {
@@ -23475,7 +26673,11 @@ window._emojiData =
         "uber",
         "vehicle",
         "cars",
-        "transportation"
+        "transportation",
+        "убер",
+        "транспортное_средство",
+        "автомобили",
+        "транспорт"
       ],
       "skins": [
         {
@@ -23491,7 +26693,10 @@ window._emojiData =
       "keywords": [
         "vehicle",
         "cars",
-        "uber"
+        "uber",
+        "транспортное_средство",
+        "автомобили",
+        "убер"
       ],
       "skins": [
         {
@@ -23508,7 +26713,11 @@ window._emojiData =
         "car",
         "red",
         "transportation",
-        "vehicle"
+        "vehicle",
+        "автомобиль",
+        "красный",
+        "транспорт",
+        "транспортное_средство"
       ],
       "skins": [
         {
@@ -23524,7 +26733,10 @@ window._emojiData =
       "keywords": [
         "car",
         "vehicle",
-        "transportation"
+        "transportation",
+        "автомобиль",
+        "транспортное_средство",
+        "транспорт"
       ],
       "skins": [
         {
@@ -23542,7 +26754,12 @@ window._emojiData =
         "car",
         "sport",
         "utility",
-        "transportation"
+        "transportation",
+        "синий",
+        "автомобиль",
+        "спорт",
+        "утилитарный",
+        "транспорт"
       ],
       "skins": [
         {
@@ -23557,7 +26774,9 @@ window._emojiData =
       "name": "Pickup Truck",
       "keywords": [
         "car",
-        "transportation"
+        "transportation",
+        "пикап",
+        "транспорт"
       ],
       "skins": [
         {
@@ -23572,7 +26791,9 @@ window._emojiData =
       "name": "Delivery Truck",
       "keywords": [
         "cars",
-        "transportation"
+        "transportation",
+        "автомобили",
+        "транспорт"
       ],
       "skins": [
         {
@@ -23589,7 +26810,11 @@ window._emojiData =
         "vehicle",
         "cars",
         "transportation",
-        "express"
+        "express",
+        "транспортное_средство",
+        "автомобили",
+        "транспорт",
+        "экспресс"
       ],
       "skins": [
         {
@@ -23606,7 +26831,11 @@ window._emojiData =
         "vehicle",
         "car",
         "farming",
-        "agriculture"
+        "agriculture",
+        "транспортное_средство",
+        "автомобиль",
+        "фермерство",
+        "сельское_хозяйство"
       ],
       "skins": [
         {
@@ -23624,7 +26853,12 @@ window._emojiData =
         "race",
         "fast",
         "formula",
-        "f1"
+        "f1",
+        "спорт",
+        "гонка",
+        "быстрый",
+        "формула",
+        "ф1"
       ],
       "skins": [
         {
@@ -23641,7 +26875,11 @@ window._emojiData =
         "racing",
         "race",
         "sports",
-        "fast"
+        "fast",
+        "гонки",
+        "гонка",
+        "спорт",
+        "быстрый"
       ],
       "skins": [
         {
@@ -23657,7 +26895,10 @@ window._emojiData =
       "keywords": [
         "vehicle",
         "vespa",
-        "sasha"
+        "sasha",
+        "транспортное_средство",
+        "веспа",
+        "саша"
       ],
       "skins": [
         {
@@ -23671,7 +26912,8 @@ window._emojiData =
       "id": "manual_wheelchair",
       "name": "Manual Wheelchair",
       "keywords": [
-        "accessibility"
+        "accessibility",
+        "доступность"
       ],
       "skins": [
         {
@@ -23685,7 +26927,8 @@ window._emojiData =
       "id": "motorized_wheelchair",
       "name": "Motorized Wheelchair",
       "keywords": [
-        "accessibility"
+        "accessibility",
+        "доступность"
       ],
       "skins": [
         {
@@ -23700,7 +26943,9 @@ window._emojiData =
       "name": "Auto Rickshaw",
       "keywords": [
         "move",
-        "transportation"
+        "transportation",
+        "движение",
+        "транспорт"
       ],
       "skins": [
         {
@@ -23717,7 +26962,11 @@ window._emojiData =
         "bike",
         "sports",
         "exercise",
-        "hipster"
+        "hipster",
+        "велосипед",
+        "спорт",
+        "упражнение",
+        "хипстер"
       ],
       "skins": [
         {
@@ -23733,7 +26982,10 @@ window._emojiData =
       "keywords": [
         "kick",
         "vehicle",
-        "razor"
+        "razor",
+        "самокат",
+        "транспортное_средство",
+        "рейзор"
       ],
       "skins": [
         {
@@ -23747,7 +26999,8 @@ window._emojiData =
       "id": "skateboard",
       "name": "Skateboard",
       "keywords": [
-        "board"
+        "board",
+        "скейтборд"
       ],
       "skins": [
         {
@@ -23762,7 +27015,9 @@ window._emojiData =
       "name": "Roller Skate",
       "keywords": [
         "footwear",
-        "sports"
+        "sports",
+        "обувь",
+        "спорт"
       ],
       "skins": [
         {
@@ -23778,7 +27033,10 @@ window._emojiData =
       "keywords": [
         "busstop",
         "transportation",
-        "wait"
+        "wait",
+        "автобусная_остановка",
+        "транспорт",
+        "ожидание"
       ],
       "skins": [
         {
@@ -23795,7 +27053,11 @@ window._emojiData =
         "road",
         "cupertino",
         "interstate",
-        "highway"
+        "highway",
+        "дорога",
+        "купертино",
+        "межштатный",
+        "шоссе"
       ],
       "skins": [
         {
@@ -23810,7 +27072,9 @@ window._emojiData =
       "name": "Railway Track",
       "keywords": [
         "train",
-        "transportation"
+        "transportation",
+        "поезд",
+        "транспорт"
       ],
       "skins": [
         {
@@ -23824,7 +27088,8 @@ window._emojiData =
       "id": "oil_drum",
       "name": "Oil Drum",
       "keywords": [
-        "barrell"
+        "barrell",
+        "бочка"
       ],
       "skins": [
         {
@@ -23841,7 +27106,11 @@ window._emojiData =
         "fuelpump",
         "gas",
         "station",
-        "petroleum"
+        "petroleum",
+        "топливный_насос",
+        "бензин",
+        "станция",
+        "нефть"
       ],
       "skins": [
         {
@@ -23856,7 +27125,9 @@ window._emojiData =
       "name": "Wheel",
       "keywords": [
         "car",
-        "transport"
+        "transport",
+        "колесо",
+        "транспорт"
       ],
       "skins": [
         {
@@ -23878,7 +27149,15 @@ window._emojiData =
         "error",
         "pinged",
         "law",
-        "legal"
+        "legal",
+        "вращающийся",
+        "скорая_помощь",
+        "чрезвычайная_ситуация",
+        "сигнал",
+        "ошибка",
+        "уведомление",
+        "закон",
+        "юридический"
       ],
       "skins": [
         {
@@ -23893,7 +27172,9 @@ window._emojiData =
       "name": "Horizontal Traffic Light",
       "keywords": [
         "transportation",
-        "signal"
+        "signal",
+        "транспорт",
+        "сигнал"
       ],
       "skins": [
         {
@@ -23908,7 +27189,9 @@ window._emojiData =
       "name": "Vertical Traffic Light",
       "keywords": [
         "transportation",
-        "driving"
+        "driving",
+        "транспорт",
+        "вождение"
       ],
       "skins": [
         {
@@ -23922,7 +27205,8 @@ window._emojiData =
       "id": "octagonal_sign",
       "name": "Stop Sign",
       "keywords": [
-        "octagonal"
+        "octagonal",
+        "восьмиугольный"
       ],
       "skins": [
         {
@@ -23939,7 +27223,11 @@ window._emojiData =
         "wip",
         "progress",
         "caution",
-        "warning"
+        "warning",
+        "стройка",
+        "прогресс",
+        "осторожность",
+        "предупреждение"
       ],
       "skins": [
         {
@@ -23956,7 +27244,11 @@ window._emojiData =
         "ship",
         "ferry",
         "sea",
-        "boat"
+        "boat",
+        "корабль",
+        "паром",
+        "море",
+        "лодка"
       ],
       "skins": [
         {
@@ -23972,7 +27264,10 @@ window._emojiData =
       "keywords": [
         "life",
         "saver",
-        "preserver"
+        "preserver",
+        "жизнь",
+        "спасатель",
+        "спасательный_круг"
       ],
       "skins": [
         {
@@ -23991,7 +27286,13 @@ window._emojiData =
         "summer",
         "transportation",
         "water",
-        "sailing"
+        "sailing",
+        "лодка",
+        "корабль",
+        "лето",
+        "транспорт",
+        "вода",
+        "парусный_спорт"
       ],
       "skins": [
         {
@@ -24008,7 +27309,11 @@ window._emojiData =
         "boat",
         "paddle",
         "water",
-        "ship"
+        "ship",
+        "лодка",
+        "весло",
+        "вода",
+        "корабль"
       ],
       "skins": [
         {
@@ -24025,7 +27330,11 @@ window._emojiData =
         "ship",
         "transportation",
         "vehicle",
-        "summer"
+        "summer",
+        "корабль",
+        "транспорт",
+        "транспортное_средство",
+        "лето"
       ],
       "skins": [
         {
@@ -24041,7 +27350,10 @@ window._emojiData =
       "keywords": [
         "yacht",
         "cruise",
-        "ferry"
+        "ferry",
+        "яхта",
+        "круиз",
+        "паром"
       ],
       "skins": [
         {
@@ -24057,7 +27369,10 @@ window._emojiData =
       "keywords": [
         "boat",
         "ship",
-        "yacht"
+        "yacht",
+        "лодка",
+        "корабль",
+        "яхта"
       ],
       "skins": [
         {
@@ -24071,7 +27386,8 @@ window._emojiData =
       "id": "motor_boat",
       "name": "Motor Boat",
       "keywords": [
-        "ship"
+        "ship",
+        "корабль"
       ],
       "skins": [
         {
@@ -24087,7 +27403,10 @@ window._emojiData =
       "keywords": [
         "transportation",
         "titanic",
-        "deploy"
+        "deploy",
+        "транспорт",
+        "титаник",
+        "развертывание"
       ],
       "skins": [
         {
@@ -24104,7 +27423,11 @@ window._emojiData =
         "vehicle",
         "transportation",
         "flight",
-        "fly"
+        "fly",
+        "транспортное_средство",
+        "транспорт",
+        "полет",
+        "летать"
       ],
       "skins": [
         {
@@ -24121,7 +27444,11 @@ window._emojiData =
         "flight",
         "transportation",
         "fly",
-        "vehicle"
+        "vehicle",
+        "полет",
+        "транспорт",
+        "летать",
+        "транспортное_средство"
       ],
       "skins": [
         {
@@ -24137,7 +27464,10 @@ window._emojiData =
       "keywords": [
         "airport",
         "flight",
-        "landing"
+        "landing",
+        "аэропорт",
+        "полет",
+        "взлет"
       ],
       "skins": [
         {
@@ -24154,7 +27484,11 @@ window._emojiData =
         "arriving",
         "airport",
         "flight",
-        "boarding"
+        "boarding",
+        "прибытие",
+        "аэропорт",
+        "полет",
+        "посадка"
       ],
       "skins": [
         {
@@ -24169,7 +27503,9 @@ window._emojiData =
       "name": "Parachute",
       "keywords": [
         "fly",
-        "glide"
+        "glide",
+        "летать",
+        "планировать"
       ],
       "skins": [
         {
@@ -24188,7 +27524,13 @@ window._emojiData =
         "transport",
         "bus",
         "flight",
-        "fly"
+        "fly",
+        "сидеть",
+        "самолет",
+        "транспорт",
+        "автобус",
+        "полет",
+        "летать"
       ],
       "skins": [
         {
@@ -24204,7 +27546,10 @@ window._emojiData =
       "keywords": [
         "transportation",
         "vehicle",
-        "fly"
+        "fly",
+        "транспорт",
+        "транспортное_средство",
+        "летать"
       ],
       "skins": [
         {
@@ -24219,7 +27564,9 @@ window._emojiData =
       "name": "Suspension Railway",
       "keywords": [
         "vehicle",
-        "transportation"
+        "transportation",
+        "транспортное_средство",
+        "транспорт"
       ],
       "skins": [
         {
@@ -24235,7 +27582,10 @@ window._emojiData =
       "keywords": [
         "transportation",
         "vehicle",
-        "ski"
+        "ski",
+        "транспорт",
+        "транспортное_средство",
+        "лыжи"
       ],
       "skins": [
         {
@@ -24251,7 +27601,10 @@ window._emojiData =
       "keywords": [
         "transportation",
         "vehicle",
-        "ski"
+        "ski",
+        "транспорт",
+        "транспортное_средство",
+        "лыжи"
       ],
       "skins": [
         {
@@ -24270,7 +27623,13 @@ window._emojiData =
         "orbit",
         "spaceflight",
         "NASA",
-        "ISS"
+        "ISS",
+        "связь",
+        "джипиэс",
+        "орбита",
+        "космический_полет",
+        "наса",
+        "мкс"
       ],
       "skins": [
         {
@@ -24290,7 +27649,14 @@ window._emojiData =
         "NASA",
         "outer",
         "space",
-        "fly"
+        "fly",
+        "запуск",
+        "корабль",
+        "режим_персонала",
+        "наса",
+        "внешний",
+        "космос",
+        "летать"
       ],
       "skins": [
         {
@@ -24306,7 +27672,10 @@ window._emojiData =
       "keywords": [
         "transportation",
         "vehicle",
-        "ufo"
+        "ufo",
+        "транспорт",
+        "транспортное_средство",
+        "нло"
       ],
       "skins": [
         {
@@ -24320,7 +27689,8 @@ window._emojiData =
       "id": "bellhop_bell",
       "name": "Bellhop Bell",
       "keywords": [
-        "service"
+        "service",
+        "обслуживание"
       ],
       "skins": [
         {
@@ -24335,7 +27705,9 @@ window._emojiData =
       "name": "Luggage",
       "keywords": [
         "packing",
-        "travel"
+        "travel",
+        "упаковка",
+        "путешествие"
       ],
       "skins": [
         {
@@ -24356,7 +27728,15 @@ window._emojiData =
         "limit",
         "exam",
         "quiz",
-        "test"
+        "test",
+        "закончено",
+        "время",
+        "часы",
+        "старомодный",
+        "ограничение",
+        "экзамен",
+        "викторина",
+        "тест"
       ],
       "skins": [
         {
@@ -24374,7 +27754,12 @@ window._emojiData =
         "sand",
         "oldschool",
         "time",
-        "countdown"
+        "countdown",
+        "течет",
+        "песок",
+        "старомодный",
+        "время",
+        "обратный_отсчет"
       ],
       "skins": [
         {
@@ -24389,7 +27774,9 @@ window._emojiData =
       "name": "Watch",
       "keywords": [
         "time",
-        "accessories"
+        "accessories",
+        "время",
+        "аксессуары"
       ],
       "skins": [
         {
@@ -24404,7 +27791,9 @@ window._emojiData =
       "name": "Alarm Clock",
       "keywords": [
         "time",
-        "wake"
+        "wake",
+        "время",
+        "пробуждение"
       ],
       "skins": [
         {
@@ -24419,7 +27808,9 @@ window._emojiData =
       "name": "Stopwatch",
       "keywords": [
         "time",
-        "deadline"
+        "deadline",
+        "время",
+        "срок"
       ],
       "skins": [
         {
@@ -24433,7 +27824,8 @@ window._emojiData =
       "id": "timer_clock",
       "name": "Timer Clock",
       "keywords": [
-        "alarm"
+        "alarm",
+        "будильник"
       ],
       "skins": [
         {
@@ -24447,7 +27839,8 @@ window._emojiData =
       "id": "mantelpiece_clock",
       "name": "Mantelpiece Clock",
       "keywords": [
-        "time"
+        "time",
+        "время"
       ],
       "skins": [
         {
@@ -24475,7 +27868,21 @@ window._emojiData =
         "midday",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы12",
+        "часы",
+        "12",
+        "00:00",
+        "0000",
+        "12:00",
+        "1200",
+        "время",
+        "полдень",
+        "полночь",
+        "середина_дня",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24499,7 +27906,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы1230",
+        "двенадцать",
+        "тридцать",
+        "00:30",
+        "0030",
+        "12:30",
+        "1230",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24524,7 +27942,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы1",
+        "часы",
+        "1",
+        "1:00",
+        "100",
+        "13:00",
+        "1300",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24548,7 +27977,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы130",
+        "один",
+        "тридцать",
+        "1:30",
+        "130",
+        "13:30",
+        "1330",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24573,7 +28013,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы2",
+        "часы",
+        "2",
+        "2:00",
+        "200",
+        "14:00",
+        "1400",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24597,7 +28048,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы230",
+        "два",
+        "тридцать",
+        "2:30",
+        "230",
+        "14:30",
+        "1430",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24622,7 +28084,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы3",
+        "часы",
+        "3",
+        "3:00",
+        "300",
+        "15:00",
+        "1500",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24646,7 +28119,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы330",
+        "три",
+        "тридцать",
+        "3:30",
+        "330",
+        "15:30",
+        "1530",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24671,7 +28155,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы4",
+        "часы",
+        "4",
+        "4:00",
+        "400",
+        "16:00",
+        "1600",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24695,7 +28190,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы430",
+        "четыре",
+        "тридцать",
+        "4:30",
+        "430",
+        "16:30",
+        "1630",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24720,7 +28226,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы5",
+        "часы",
+        "5",
+        "5:00",
+        "500",
+        "17:00",
+        "1700",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24744,7 +28261,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы530",
+        "пять",
+        "тридцать",
+        "5:30",
+        "530",
+        "17:30",
+        "1730",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24771,7 +28299,20 @@ window._emojiData =
         "early",
         "schedule",
         "dawn",
-        "dusk"
+        "dusk",
+        "часы6",
+        "часы",
+        "6",
+        "6:00",
+        "600",
+        "18:00",
+        "1800",
+        "время",
+        "поздно",
+        "рано",
+        "расписание",
+        "рассвет",
+        "сумерки"
       ],
       "skins": [
         {
@@ -24795,7 +28336,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы630",
+        "шесть",
+        "тридцать",
+        "6:30",
+        "630",
+        "18:30",
+        "1830",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24820,7 +28372,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы7",
+        "часы",
+        "7",
+        "7:00",
+        "700",
+        "19:00",
+        "1900",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24844,7 +28407,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы730",
+        "семь",
+        "тридцать",
+        "7:30",
+        "730",
+        "19:30",
+        "1930",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24869,7 +28443,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы8",
+        "часы",
+        "8",
+        "8:00",
+        "800",
+        "20:00",
+        "2000",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24893,7 +28478,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы830",
+        "восемь",
+        "тридцать",
+        "8:30",
+        "830",
+        "20:30",
+        "2030",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24918,7 +28514,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы9",
+        "часы",
+        "9",
+        "9:00",
+        "900",
+        "21:00",
+        "2100",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24942,7 +28549,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы930",
+        "девять",
+        "тридцать",
+        "9:30",
+        "930",
+        "21:30",
+        "2130",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24967,7 +28585,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы10",
+        "часы",
+        "10",
+        "10:00",
+        "1000",
+        "22:00",
+        "2200",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -24991,7 +28620,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы1030",
+        "десять",
+        "тридцать",
+        "10:30",
+        "1030",
+        "22:30",
+        "2230",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -25016,7 +28656,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы11",
+        "часы",
+        "11",
+        "11:00",
+        "1100",
+        "23:00",
+        "2300",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -25040,7 +28691,18 @@ window._emojiData =
         "time",
         "late",
         "early",
-        "schedule"
+        "schedule",
+        "часы1130",
+        "одиннадцать",
+        "тридцать",
+        "11:30",
+        "1130",
+        "23:30",
+        "2330",
+        "время",
+        "поздно",
+        "рано",
+        "расписание"
       ],
       "skins": [
         {
@@ -25060,7 +28722,14 @@ window._emojiData =
         "space",
         "night",
         "evening",
-        "sleep"
+        "sleep",
+        "природа",
+        "сумерки",
+        "планета",
+        "космос",
+        "ночь",
+        "вечер",
+        "сон"
       ],
       "skins": [
         {
@@ -25080,7 +28749,14 @@ window._emojiData =
         "space",
         "night",
         "evening",
-        "sleep"
+        "sleep",
+        "природа",
+        "сумерки",
+        "планета",
+        "космос",
+        "ночь",
+        "вечер",
+        "сон"
       ],
       "skins": [
         {
@@ -25100,7 +28776,14 @@ window._emojiData =
         "space",
         "night",
         "evening",
-        "sleep"
+        "sleep",
+        "природа",
+        "сумерки",
+        "планета",
+        "космос",
+        "ночь",
+        "вечер",
+        "сон"
       ],
       "skins": [
         {
@@ -25122,7 +28805,16 @@ window._emojiData =
         "planet",
         "space",
         "evening",
-        "sleep"
+        "sleep",
+        "природа",
+        "ночь",
+        "небо",
+        "серый",
+        "сумерки",
+        "планета",
+        "космос",
+        "вечер",
+        "сон"
       ],
       "skins": [
         {
@@ -25143,7 +28835,15 @@ window._emojiData =
         "space",
         "night",
         "evening",
-        "sleep"
+        "sleep",
+        "природа",
+        "желтый",
+        "сумерки",
+        "планета",
+        "космос",
+        "ночь",
+        "вечер",
+        "сон"
       ],
       "skins": [
         {
@@ -25164,7 +28864,15 @@ window._emojiData =
         "night",
         "evening",
         "sleep",
-        "waxing"
+        "waxing",
+        "природа",
+        "сумерки",
+        "планета",
+        "космос",
+        "ночь",
+        "вечер",
+        "сон",
+        "нарастающий"
       ],
       "skins": [
         {
@@ -25184,7 +28892,14 @@ window._emojiData =
         "space",
         "night",
         "evening",
-        "sleep"
+        "sleep",
+        "природа",
+        "сумерки",
+        "планета",
+        "космос",
+        "ночь",
+        "вечер",
+        "сон"
       ],
       "skins": [
         {
@@ -25204,7 +28919,14 @@ window._emojiData =
         "space",
         "night",
         "evening",
-        "sleep"
+        "sleep",
+        "природа",
+        "сумерки",
+        "планета",
+        "космос",
+        "ночь",
+        "вечер",
+        "сон"
       ],
       "skins": [
         {
@@ -25222,7 +28944,12 @@ window._emojiData =
         "sleep",
         "sky",
         "evening",
-        "magic"
+        "magic",
+        "ночь",
+        "сон",
+        "небо",
+        "вечер",
+        "магия"
       ],
       "skins": [
         {
@@ -25243,7 +28970,15 @@ window._emojiData =
         "space",
         "night",
         "evening",
-        "sleep"
+        "sleep",
+        "с",
+        "природа",
+        "сумерки",
+        "планета",
+        "космос",
+        "ночь",
+        "вечер",
+        "сон"
       ],
       "skins": [
         {
@@ -25264,7 +28999,15 @@ window._emojiData =
         "space",
         "night",
         "evening",
-        "sleep"
+        "sleep",
+        "с",
+        "природа",
+        "сумерки",
+        "планета",
+        "космос",
+        "ночь",
+        "вечер",
+        "сон"
       ],
       "skins": [
         {
@@ -25285,7 +29028,15 @@ window._emojiData =
         "space",
         "night",
         "evening",
-        "sleep"
+        "sleep",
+        "с",
+        "природа",
+        "сумерки",
+        "планета",
+        "космос",
+        "ночь",
+        "вечер",
+        "сон"
       ],
       "skins": [
         {
@@ -25302,7 +29053,11 @@ window._emojiData =
         "weather",
         "temperature",
         "hot",
-        "cold"
+        "cold",
+        "погода",
+        "температура",
+        "жарко",
+        "холодно"
       ],
       "skins": [
         {
@@ -25322,7 +29077,14 @@ window._emojiData =
         "brightness",
         "summer",
         "beach",
-        "spring"
+        "spring",
+        "солнечно",
+        "погода",
+        "природа",
+        "яркость",
+        "лето",
+        "пляж",
+        "весна"
       ],
       "skins": [
         {
@@ -25343,7 +29105,15 @@ window._emojiData =
         "space",
         "night",
         "evening",
-        "sleep"
+        "sleep",
+        "с",
+        "природа",
+        "сумерки",
+        "планета",
+        "космос",
+        "ночь",
+        "вечер",
+        "сон"
       ],
       "skins": [
         {
@@ -25359,7 +29129,10 @@ window._emojiData =
       "keywords": [
         "nature",
         "morning",
-        "sky"
+        "sky",
+        "природа",
+        "утро",
+        "небо"
       ],
       "skins": [
         {
@@ -25373,7 +29146,8 @@ window._emojiData =
       "id": "ringed_planet",
       "name": "Ringed Planet",
       "keywords": [
-        "outerspace"
+        "outerspace",
+        "космос"
       ],
       "skins": [
         {
@@ -25388,7 +29162,9 @@ window._emojiData =
       "name": "Star",
       "keywords": [
         "night",
-        "yellow"
+        "yellow",
+        "ночь",
+        "желтый"
       ],
       "skins": [
         {
@@ -25407,7 +29183,13 @@ window._emojiData =
         "sparkle",
         "awesome",
         "good",
-        "magic"
+        "magic",
+        "звезда2",
+        "ночь",
+        "блеск",
+        "потрясающий",
+        "хороший",
+        "магия"
       ],
       "skins": [
         {
@@ -25423,7 +29205,10 @@ window._emojiData =
       "keywords": [
         "stars",
         "night",
-        "photo"
+        "photo",
+        "звезды",
+        "ночь",
+        "фото"
       ],
       "skins": [
         {
@@ -25439,7 +29224,10 @@ window._emojiData =
       "keywords": [
         "photo",
         "space",
-        "stars"
+        "stars",
+        "фото",
+        "космос",
+        "звезды"
       ],
       "skins": [
         {
@@ -25454,7 +29242,9 @@ window._emojiData =
       "name": "Cloud",
       "keywords": [
         "weather",
-        "sky"
+        "sky",
+        "погода",
+        "небо"
       ],
       "skins": [
         {
@@ -25475,7 +29265,15 @@ window._emojiData =
         "cloudy",
         "morning",
         "fall",
-        "spring"
+        "spring",
+        "частично",
+        "солнечно",
+        "погода",
+        "природа",
+        "облачно",
+        "утро",
+        "осень",
+        "весна"
       ],
       "skins": [
         {
@@ -25490,7 +29288,9 @@ window._emojiData =
       "name": "Cloud with Lightning and Rain",
       "keywords": [
         "thunder",
-        "weather"
+        "weather",
+        "гром",
+        "погода"
       ],
       "skins": [
         {
@@ -25506,7 +29306,10 @@ window._emojiData =
       "keywords": [
         "mostly",
         "sunny",
-        "weather"
+        "weather",
+        "в основном",
+        "солнечно",
+        "погода"
       ],
       "skins": [
         {
@@ -25522,7 +29325,10 @@ window._emojiData =
       "keywords": [
         "barely",
         "sunny",
-        "weather"
+        "weather",
+        "едва",
+        "солнечно",
+        "погода"
       ],
       "skins": [
         {
@@ -25538,7 +29344,10 @@ window._emojiData =
       "keywords": [
         "partly",
         "sunny",
-        "weather"
+        "weather",
+        "частично",
+        "солнечно",
+        "погода"
       ],
       "skins": [
         {
@@ -25552,7 +29361,8 @@ window._emojiData =
       "id": "rain_cloud",
       "name": "Cloud with Rain",
       "keywords": [
-        "weather"
+        "weather",
+        "погода"
       ],
       "skins": [
         {
@@ -25566,7 +29376,8 @@ window._emojiData =
       "id": "snow_cloud",
       "name": "Cloud with Snow",
       "keywords": [
-        "weather"
+        "weather",
+        "погода"
       ],
       "skins": [
         {
@@ -25581,7 +29392,9 @@ window._emojiData =
       "name": "Cloud with Lightning",
       "keywords": [
         "weather",
-        "thunder"
+        "thunder",
+        "погода",
+        "гром"
       ],
       "skins": [
         {
@@ -25598,7 +29411,11 @@ window._emojiData =
         "cloud",
         "weather",
         "cyclone",
-        "twister"
+        "twister",
+        "облако",
+        "погода",
+        "циклон",
+        "смерч"
       ],
       "skins": [
         {
@@ -25612,7 +29429,8 @@ window._emojiData =
       "id": "fog",
       "name": "Fog",
       "keywords": [
-        "weather"
+        "weather",
+        "погода"
       ],
       "skins": [
         {
@@ -25628,7 +29446,10 @@ window._emojiData =
       "keywords": [
         "blowing",
         "gust",
-        "air"
+        "air",
+        "дует",
+        "порыв",
+        "воздух"
       ],
       "skins": [
         {
@@ -25652,7 +29473,18 @@ window._emojiData =
         "spin",
         "tornado",
         "hurricane",
-        "typhoon"
+        "typhoon",
+        "погода",
+        "вихрь",
+        "синий",
+        "облако",
+        "воронка",
+        "спираль",
+        "водоворот",
+        "вращение",
+        "торнадо",
+        "ураган",
+        "тайфун"
       ],
       "skins": [
         {
@@ -25672,7 +29504,14 @@ window._emojiData =
         "face",
         "photo",
         "sky",
-        "spring"
+        "spring",
+        "природа",
+        "счастливый",
+        "единорог",
+        "лицо",
+        "фото",
+        "небо",
+        "весна"
       ],
       "skins": [
         {
@@ -25688,7 +29527,10 @@ window._emojiData =
       "keywords": [
         "weather",
         "rain",
-        "drizzle"
+        "drizzle",
+        "погода",
+        "дождь",
+        "морось"
       ],
       "skins": [
         {
@@ -25703,7 +29545,9 @@ window._emojiData =
       "name": "Umbrella",
       "keywords": [
         "weather",
-        "spring"
+        "spring",
+        "погода",
+        "весна"
       ],
       "skins": [
         {
@@ -25719,7 +29563,10 @@ window._emojiData =
       "keywords": [
         "rainy",
         "weather",
-        "spring"
+        "spring",
+        "дождливый",
+        "погода",
+        "весна"
       ],
       "skins": [
         {
@@ -25734,7 +29581,9 @@ window._emojiData =
       "name": "Umbrella on Ground",
       "keywords": [
         "weather",
-        "summer"
+        "summer",
+        "погода",
+        "лето"
       ],
       "skins": [
         {
@@ -25753,7 +29602,13 @@ window._emojiData =
         "weather",
         "lightning",
         "bolt",
-        "fast"
+        "fast",
+        "разряд",
+        "гром",
+        "погода",
+        "молния",
+        "удар",
+        "быстрый"
       ],
       "skins": [
         {
@@ -25772,7 +29627,13 @@ window._emojiData =
         "cold",
         "weather",
         "christmas",
-        "xmas"
+        "xmas",
+        "зима",
+        "сезон",
+        "холод",
+        "погода",
+        "рождество",
+        "рождество"
       ],
       "skins": [
         {
@@ -25792,7 +29653,14 @@ window._emojiData =
         "weather",
         "christmas",
         "xmas",
-        "frozen"
+        "frozen",
+        "зима",
+        "сезон",
+        "холод",
+        "погода",
+        "рождество",
+        "рождество",
+        "замороженный"
       ],
       "skins": [
         {
@@ -25812,7 +29680,14 @@ window._emojiData =
         "weather",
         "christmas",
         "xmas",
-        "frozen"
+        "frozen",
+        "зима",
+        "сезон",
+        "холод",
+        "погода",
+        "рождество",
+        "рождество",
+        "замороженный"
       ],
       "skins": [
         {
@@ -25826,7 +29701,8 @@ window._emojiData =
       "id": "comet",
       "name": "Comet",
       "keywords": [
-        "space"
+        "space",
+        "космос"
       ],
       "skins": [
         {
@@ -25842,7 +29718,11 @@ window._emojiData =
       "keywords": [
         "hot",
         "cook",
-        "flame"
+        "flame",
+        "жарко",
+        "готовить",
+        "пламя",
+        "огонь"
       ],
       "skins": [
         {
@@ -25859,7 +29739,11 @@ window._emojiData =
         "water",
         "drip",
         "faucet",
-        "spring"
+        "spring",
+        "вода",
+        "капля",
+        "кран",
+        "весна"
       ],
       "skins": [
         {
@@ -25877,7 +29761,12 @@ window._emojiData =
         "sea",
         "nature",
         "tsunami",
-        "disaster"
+        "disaster",
+        "океан",
+        "море",
+        "природа",
+        "цунами",
+        "катастрофа"
       ],
       "skins": [
         {
@@ -25898,7 +29787,15 @@ window._emojiData =
         "light",
         "pumpkin",
         "creepy",
-        "fall"
+        "fall",
+        "джек",
+        "о",
+        "фонарь",
+        "хэллоуин",
+        "свет",
+        "тыква",
+        "жуткий",
+        "осень"
       ],
       "skins": [
         {
@@ -25916,7 +29813,12 @@ window._emojiData =
         "vacation",
         "december",
         "xmas",
-        "celebration"
+        "celebration",
+        "фестиваль",
+        "отпуск",
+        "декабрь",
+        "рождество",
+        "празднование"
       ],
       "skins": [
         {
@@ -25933,7 +29835,11 @@ window._emojiData =
         "photo",
         "festival",
         "carnival",
-        "congratulations"
+        "congratulations",
+        "фото",
+        "фестиваль",
+        "карнавал",
+        "поздравления"
       ],
       "skins": [
         {
@@ -25949,7 +29855,10 @@ window._emojiData =
       "keywords": [
         "stars",
         "night",
-        "shine"
+        "shine",
+        "звезды",
+        "ночь",
+        "блеск"
       ],
       "skins": [
         {
@@ -25967,7 +29876,12 @@ window._emojiData =
         "boom",
         "explode",
         "explosion",
-        "explosive"
+        "explosive",
+        "динамит",
+        "бум",
+        "взрываться",
+        "взрыв",
+        "взрывчатый"
       ],
       "skins": [
         {
@@ -25987,7 +29901,14 @@ window._emojiData =
         "cool",
         "awesome",
         "good",
-        "magic"
+        "magic",
+        "звезды",
+        "блеск",
+        "блестящий",
+        "крутой",
+        "потрясающий",
+        "хороший",
+        "магия"
       ],
       "skins": [
         {
@@ -26004,7 +29925,11 @@ window._emojiData =
         "party",
         "celebration",
         "birthday",
-        "circus"
+        "circus",
+        "вечеринка",
+        "празднование",
+        "день_рождения",
+        "цирк"
       ],
       "skins": [
         {
@@ -26023,7 +29948,13 @@ window._emojiData =
         "birthday",
         "magic",
         "circus",
-        "celebration"
+        "celebration",
+        "тада",
+        "поздравления",
+        "день_рождения",
+        "магия",
+        "цирк",
+        "празднование"
       ],
       "skins": [
         {
@@ -26040,7 +29971,11 @@ window._emojiData =
         "festival",
         "party",
         "birthday",
-        "circus"
+        "circus",
+        "фестиваль",
+        "вечеринка",
+        "день_рождения",
+        "цирк"
       ],
       "skins": [
         {
@@ -26062,7 +29997,16 @@ window._emojiData =
         "wish",
         "star",
         "festival",
-        "tanzaku"
+        "tanzaku",
+        "растение",
+        "природа",
+        "ветка",
+        "лето",
+        "бамбук",
+        "желание",
+        "звезда",
+        "фестиваль",
+        "танзаку"
       ],
       "skins": [
         {
@@ -26083,7 +30027,15 @@ window._emojiData =
         "vegetable",
         "panda",
         "new",
-        "years"
+        "years",
+        "бамбук",
+        "японский",
+        "растение",
+        "природа",
+        "овощ",
+        "панда",
+        "новый",
+        "год"
       ],
       "skins": [
         {
@@ -26098,7 +30050,9 @@ window._emojiData =
       "name": "Japanese Dolls",
       "keywords": [
         "toy",
-        "kimono"
+        "kimono",
+        "игрушка",
+        "кимоно"
       ],
       "skins": [
         {
@@ -26116,7 +30070,12 @@ window._emojiData =
         "fish",
         "japanese",
         "koinobori",
-        "banner"
+        "banner",
+        "флаги",
+        "рыба",
+        "японский",
+        "койнобори",
+        "знамя"
       ],
       "skins": [
         {
@@ -26133,7 +30092,11 @@ window._emojiData =
         "nature",
         "ding",
         "spring",
-        "bell"
+        "bell",
+        "природа",
+        "динь",
+        "весна",
+        "колокольчик"
       ],
       "skins": [
         {
@@ -26152,7 +30115,13 @@ window._emojiData =
         "photo",
         "japan",
         "asia",
-        "tsukimi"
+        "tsukimi",
+        "рис",
+        "сцена",
+        "фото",
+        "япония",
+        "азия",
+        "цукими"
       ],
       "skins": [
         {
@@ -26166,7 +30135,8 @@ window._emojiData =
       "id": "red_envelope",
       "name": "Red Envelope",
       "keywords": [
-        "gift"
+        "gift",
+        "подарок"
       ],
       "skins": [
         {
@@ -26185,7 +30155,11 @@ window._emojiData =
         "girl",
         "bowtie",
         "бант",
-        "ленточка"
+        "ленточка",
+        "украшение",
+        "розовый",
+        "девочка",
+        "галстук-бабочка"
       ],
       "skins": [
         {
@@ -26203,7 +30177,10 @@ window._emojiData =
         "birthday",
         "christmas",
         "xmas",
-        "подарок"
+        "подарок",
+        "презент",
+        "день_рождения",
+        "рождество"
       ],
       "skins": [
         {
@@ -26220,7 +30197,11 @@ window._emojiData =
         "sports",
         "cause",
         "support",
-        "awareness"
+        "awareness",
+        "спорт",
+        "причина",
+        "поддержка",
+        "осведомленность"
       ],
       "skins": [
         {
@@ -26236,7 +30217,10 @@ window._emojiData =
       "keywords": [
         "sports",
         "concert",
-        "entrance"
+        "entrance",
+        "спорт",
+        "концерт",
+        "вход"
       ],
       "skins": [
         {
@@ -26252,7 +30236,10 @@ window._emojiData =
       "keywords": [
         "event",
         "concert",
-        "pass"
+        "pass",
+        "событие",
+        "концерт",
+        "пропуск"
       ],
       "skins": [
         {
@@ -26268,7 +30255,10 @@ window._emojiData =
       "keywords": [
         "award",
         "winning",
-        "army"
+        "army",
+        "награда",
+        "победа",
+        "армия"
       ],
       "skins": [
         {
@@ -26287,7 +30277,13 @@ window._emojiData =
         "contest",
         "place",
         "ftw",
-        "ceremony"
+        "ceremony",
+        "победа",
+        "награда",
+        "соревнование",
+        "место",
+        "за_победу",
+        "церемония"
       ],
       "skins": [
         {
@@ -26302,7 +30298,9 @@ window._emojiData =
       "name": "Sports Medal",
       "keywords": [
         "award",
-        "winning"
+        "winning",
+        "награда",
+        "победа"
       ],
       "skins": [
         {
@@ -26318,7 +30316,10 @@ window._emojiData =
       "keywords": [
         "first",
         "award",
-        "winning"
+        "winning",
+        "первое",
+        "награда",
+        "победа"
       ],
       "skins": [
         {
@@ -26333,7 +30334,9 @@ window._emojiData =
       "name": "2nd Place Medal",
       "keywords": [
         "second",
-        "award"
+        "award",
+        "второе",
+        "награда"
       ],
       "skins": [
         {
@@ -26348,7 +30351,9 @@ window._emojiData =
       "name": "3rd Place Medal",
       "keywords": [
         "third",
-        "award"
+        "award",
+        "третье",
+        "награда"
       ],
       "skins": [
         {
@@ -26363,7 +30368,9 @@ window._emojiData =
       "name": "Soccer Ball",
       "keywords": [
         "sports",
-        "football"
+        "football",
+        "спорт",
+        "футбол"
       ],
       "skins": [
         {
@@ -26378,7 +30385,9 @@ window._emojiData =
       "name": "Baseball",
       "keywords": [
         "sports",
-        "balls"
+        "balls",
+        "спорт",
+        "мячи"
       ],
       "skins": [
         {
@@ -26393,7 +30402,9 @@ window._emojiData =
       "name": "Softball",
       "keywords": [
         "sports",
-        "balls"
+        "balls",
+        "спорт",
+        "мячи"
       ],
       "skins": [
         {
@@ -26409,7 +30420,10 @@ window._emojiData =
       "keywords": [
         "sports",
         "balls",
-        "NBA"
+        "NBA",
+        "спорт",
+        "мячи",
+        "НБА"
       ],
       "skins": [
         {
@@ -26424,7 +30438,9 @@ window._emojiData =
       "name": "Volleyball",
       "keywords": [
         "sports",
-        "balls"
+        "balls",
+        "спорт",
+        "мячи"
       ],
       "skins": [
         {
@@ -26440,7 +30456,10 @@ window._emojiData =
       "keywords": [
         "sports",
         "balls",
-        "NFL"
+        "NFL",
+        "спорт",
+        "мячи",
+        "НФЛ"
       ],
       "skins": [
         {
@@ -26455,7 +30474,9 @@ window._emojiData =
       "name": "Rugby Football",
       "keywords": [
         "sports",
-        "team"
+        "team",
+        "спорт",
+        "команда"
       ],
       "skins": [
         {
@@ -26471,7 +30492,10 @@ window._emojiData =
       "keywords": [
         "sports",
         "balls",
-        "green"
+        "green",
+        "спорт",
+        "мячи",
+        "зеленый"
       ],
       "skins": [
         {
@@ -26487,7 +30511,10 @@ window._emojiData =
       "keywords": [
         "sports",
         "frisbee",
-        "ultimate"
+        "ultimate",
+        "спорт",
+        "фрисби",
+        "алтимат"
       ],
       "skins": [
         {
@@ -26503,7 +30530,10 @@ window._emojiData =
       "keywords": [
         "sports",
         "fun",
-        "play"
+        "play",
+        "спорт",
+        "веселье",
+        "игра"
       ],
       "skins": [
         {
@@ -26520,7 +30550,11 @@ window._emojiData =
         "bat",
         "and",
         "ball",
-        "sports"
+        "sports",
+        "бита",
+        "и",
+        "мяч",
+        "спорт"
       ],
       "skins": [
         {
@@ -26537,7 +30571,11 @@ window._emojiData =
         "stick",
         "and",
         "ball",
-        "sports"
+        "sports",
+        "клюшка",
+        "и",
+        "мяч",
+        "спорт"
       ],
       "skins": [
         {
@@ -26554,7 +30592,11 @@ window._emojiData =
         "stick",
         "and",
         "puck",
-        "sports"
+        "sports",
+        "клюшка",
+        "и",
+        "шайба",
+        "спорт"
       ],
       "skins": [
         {
@@ -26570,7 +30612,10 @@ window._emojiData =
       "keywords": [
         "sports",
         "ball",
-        "stick"
+        "stick",
+        "спорт",
+        "мяч",
+        "клюшка"
       ],
       "skins": [
         {
@@ -26590,7 +30635,14 @@ window._emojiData =
         "and",
         "ball",
         "sports",
-        "pingpong"
+        "pingpong",
+        "настольный",
+        "теннис",
+        "ракетка",
+        "и",
+        "мяч",
+        "спорт",
+        "пинг-понг"
       ],
       "skins": [
         {
@@ -26607,7 +30659,11 @@ window._emojiData =
         "racquet",
         "and",
         "shuttlecock",
-        "sports"
+        "sports",
+        "ракетка",
+        "и",
+        "волан",
+        "спорт"
       ],
       "skins": [
         {
@@ -26622,7 +30678,9 @@ window._emojiData =
       "name": "Boxing Glove",
       "keywords": [
         "sports",
-        "fighting"
+        "fighting",
+        "спорт",
+        "бой"
       ],
       "skins": [
         {
@@ -26638,7 +30696,10 @@ window._emojiData =
       "keywords": [
         "judo",
         "karate",
-        "taekwondo"
+        "taekwondo",
+        "дзюдо",
+        "карате",
+        "тхэквондо"
       ],
       "skins": [
         {
@@ -26652,7 +30713,8 @@ window._emojiData =
       "id": "goal_net",
       "name": "Goal Net",
       "keywords": [
-        "sports"
+        "sports",
+        "спорт"
       ],
       "skins": [
         {
@@ -26669,7 +30731,11 @@ window._emojiData =
         "golf",
         "sports",
         "business",
-        "summer"
+        "summer",
+        "гольф",
+        "спорт",
+        "бизнес",
+        "лето"
       ],
       "skins": [
         {
@@ -26683,7 +30749,8 @@ window._emojiData =
       "id": "ice_skate",
       "name": "Ice Skate",
       "keywords": [
-        "sports"
+        "sports",
+        "спорт"
       ],
       "skins": [
         {
@@ -26701,7 +30768,12 @@ window._emojiData =
         "fish",
         "food",
         "hobby",
-        "summer"
+        "summer",
+        "и",
+        "рыба",
+        "еда",
+        "хобби",
+        "лето"
       ],
       "skins": [
         {
@@ -26716,7 +30788,9 @@ window._emojiData =
       "name": "Diving Mask",
       "keywords": [
         "sport",
-        "ocean"
+        "ocean",
+        "спорт",
+        "океан"
       ],
       "skins": [
         {
@@ -26733,7 +30807,11 @@ window._emojiData =
         "with",
         "sash",
         "play",
-        "pageant"
+        "pageant",
+        "с",
+        "лента",
+        "игра",
+        "конкурс"
       ],
       "skins": [
         {
@@ -26751,7 +30829,12 @@ window._emojiData =
         "sports",
         "winter",
         "cold",
-        "snow"
+        "snow",
+        "лыжи",
+        "спорт",
+        "зима",
+        "холод",
+        "снег"
       ],
       "skins": [
         {
@@ -26767,7 +30850,10 @@ window._emojiData =
       "keywords": [
         "sleigh",
         "luge",
-        "toboggan"
+        "toboggan",
+        "сани",
+        "люж",
+        "тобогган"
       ],
       "skins": [
         {
@@ -26781,7 +30867,8 @@ window._emojiData =
       "id": "curling_stone",
       "name": "Curling Stone",
       "keywords": [
-        "sports"
+        "sports",
+        "спорт"
       ],
       "skins": [
         {
@@ -26801,7 +30888,13 @@ window._emojiData =
         "game",
         "play",
         "bar",
-        "target"
+        "target",
+        "дартс",
+        "прямой",
+        "попадание",
+        "игра",
+        "бар",
+        "мишень"
       ],
       "skins": [
         {
@@ -26816,7 +30909,9 @@ window._emojiData =
       "name": "Yo-Yo",
       "keywords": [
         "yo",
-        "toy"
+        "toy",
+        "йо-йо",
+        "игрушка"
       ],
       "skins": [
         {
@@ -26831,7 +30926,9 @@ window._emojiData =
       "name": "Kite",
       "keywords": [
         "wind",
-        "fly"
+        "fly",
+        "ветер",
+        "летать"
       ],
       "skins": [
         {
@@ -26848,7 +30945,11 @@ window._emojiData =
         "gun",
         "violence",
         "weapon",
-        "revolver"
+        "revolver",
+        "пистолет",
+        "насилие",
+        "оружие",
+        "револьвер"
       ],
       "skins": [
         {
@@ -26869,7 +30970,15 @@ window._emojiData =
         "hobby",
         "game",
         "luck",
-        "magic"
+        "magic",
+        "бильярд",
+        "пул",
+        "8",
+        "шар",
+        "хобби",
+        "игра",
+        "удача",
+        "магия"
       ],
       "skins": [
         {
@@ -26888,7 +30997,13 @@ window._emojiData =
         "magic",
         "circus",
         "fortune",
-        "teller"
+        "teller",
+        "диско",
+        "вечеринка",
+        "магия",
+        "цирк",
+        "гадалка",
+        "предсказатель"
       ],
       "skins": [
         {
@@ -26903,7 +31018,9 @@ window._emojiData =
       "name": "Magic Wand",
       "keywords": [
         "supernature",
-        "power"
+        "power",
+        "сверхъестественное",
+        "сила"
       ],
       "skins": [
         {
@@ -26920,7 +31037,11 @@ window._emojiData =
         "play",
         "console",
         "PS4",
-        "controller"
+        "controller",
+        "игра",
+        "консоль",
+        "PS4",
+        "контроллер"
       ],
       "skins": [
         {
@@ -26935,7 +31056,9 @@ window._emojiData =
       "name": "Joystick",
       "keywords": [
         "game",
-        "play"
+        "play",
+        "игра",
+        "джойстик"
       ],
       "skins": [
         {
@@ -26954,7 +31077,13 @@ window._emojiData =
         "vegas",
         "fruit",
         "luck",
-        "casino"
+        "casino",
+        "ставка",
+        "азарт",
+        "вегас",
+        "фрукты",
+        "удача",
+        "казино"
       ],
       "skins": [
         {
@@ -26972,7 +31101,12 @@ window._emojiData =
         "random",
         "tabletop",
         "play",
-        "luck"
+        "luck",
+        "кубик",
+        "случайный",
+        "настольный",
+        "игра",
+        "удача"
       ],
       "skins": [
         {
@@ -26987,7 +31121,9 @@ window._emojiData =
       "name": "Puzzle Piece",
       "keywords": [
         "jigsaw",
-        "interlocking"
+        "interlocking",
+        "пазл",
+        "сцепляющийся"
       ],
       "skins": [
         {
@@ -27002,7 +31138,9 @@ window._emojiData =
       "name": "Teddy Bear",
       "keywords": [
         "plush",
-        "stuffed"
+        "stuffed",
+        "плюшевый",
+        "набитый"
       ],
       "skins": [
         {
@@ -27018,7 +31156,10 @@ window._emojiData =
       "keywords": [
         "mexico",
         "candy",
-        "celebration"
+        "celebration",
+        "мексика",
+        "конфеты",
+        "празднование"
       ],
       "skins": [
         {
@@ -27034,7 +31175,10 @@ window._emojiData =
       "keywords": [
         "disco",
         "dance",
-        "party"
+        "party",
+        "диско",
+        "танец",
+        "вечеринка"
       ],
       "skins": [
         {
@@ -27049,7 +31193,9 @@ window._emojiData =
       "name": "Nesting Dolls",
       "keywords": [
         "matryoshka",
-        "toy"
+        "toy",
+        "матрешка",
+        "игрушка"
       ],
       "skins": [
         {
@@ -27067,7 +31213,12 @@ window._emojiData =
         "poker",
         "cards",
         "suits",
-        "magic"
+        "magic",
+        "пики",
+        "покер",
+        "карты",
+        "масти",
+        "магия"
       ],
       "skins": [
         {
@@ -27085,7 +31236,12 @@ window._emojiData =
         "poker",
         "cards",
         "magic",
-        "suits"
+        "suits",
+        "червы",
+        "покер",
+        "карты",
+        "магия",
+        "масти"
       ],
       "skins": [
         {
@@ -27103,7 +31259,12 @@ window._emojiData =
         "poker",
         "cards",
         "magic",
-        "suits"
+        "suits",
+        "бубны",
+        "покер",
+        "карты",
+        "магия",
+        "масти"
       ],
       "skins": [
         {
@@ -27121,7 +31282,12 @@ window._emojiData =
         "poker",
         "cards",
         "magic",
-        "suits"
+        "suits",
+        "трефы",
+        "покер",
+        "карты",
+        "магия",
+        "масти"
       ],
       "skins": [
         {
@@ -27135,7 +31301,9 @@ window._emojiData =
       "id": "chess_pawn",
       "name": "Chess Pawn",
       "keywords": [
-        "expendable"
+        "expendable",
+        "пешка",
+        "жертвенный"
       ],
       "skins": [
         {
@@ -27154,7 +31322,12 @@ window._emojiData =
         "cards",
         "game",
         "play",
-        "magic"
+        "magic",
+        "черный",
+        "покер",
+        "карты",
+        "игра",
+        "магия"
       ],
       "skins": [
         {
@@ -27171,7 +31344,10 @@ window._emojiData =
         "game",
         "play",
         "chinese",
-        "kanji"
+        "kanji",
+        "игра",
+        "китайский",
+        "кандзи"
       ],
       "skins": [
         {
@@ -27187,7 +31363,10 @@ window._emojiData =
       "keywords": [
         "game",
         "sunset",
-        "red"
+        "red",
+        "игра",
+        "закат",
+        "красный"
       ],
       "skins": [
         {
@@ -27203,7 +31382,10 @@ window._emojiData =
       "keywords": [
         "acting",
         "theater",
-        "drama"
+        "drama",
+        "актерство",
+        "театр",
+        "драма"
       ],
       "skins": [
         {
@@ -27219,7 +31401,10 @@ window._emojiData =
       "keywords": [
         "frame",
         "with",
-        "photography"
+        "photography",
+        "рамка",
+        "с",
+        "фотография"
       ],
       "skins": [
         {
@@ -27237,7 +31422,12 @@ window._emojiData =
         "design",
         "paint",
         "draw",
-        "colors"
+        "colors",
+        "искусство",
+        "дизайн",
+        "краска",
+        "рисовать",
+        "цвета"
       ],
       "skins": [
         {
@@ -27254,7 +31444,11 @@ window._emojiData =
         "needle",
         "sewing",
         "spool",
-        "string"
+        "string",
+        "нитка",
+        "шитье",
+        "катушка",
+        "шнур"
       ],
       "skins": [
         {
@@ -27268,7 +31462,8 @@ window._emojiData =
       "id": "sewing_needle",
       "name": "Sewing Needle",
       "keywords": [
-        "stitches"
+        "stitches",
+        "швы"
       ],
       "skins": [
         {
@@ -27284,7 +31479,10 @@ window._emojiData =
       "keywords": [
         "ball",
         "crochet",
-        "knit"
+        "knit",
+        "клубок",
+        "вязание_крючком",
+        "вязание"
       ],
       "skins": [
         {
@@ -27299,7 +31497,9 @@ window._emojiData =
       "name": "Knot",
       "keywords": [
         "rope",
-        "scout"
+        "scout",
+        "веревка",
+        "скаут"
       ],
       "skins": [
         {
@@ -27319,7 +31519,14 @@ window._emojiData =
         "eyesight",
         "nerdy",
         "dork",
-        "geek"
+        "geek",
+        "очки",
+        "мода",
+        "аксессуары",
+        "зрение",
+        "ботаник",
+        "чудак",
+        "гик"
       ],
       "skins": [
         {
@@ -27336,7 +31543,11 @@ window._emojiData =
         "dark",
         "face",
         "cool",
-        "accessories"
+        "accessories",
+        "темные",
+        "лицо",
+        "крутой",
+        "аксессуары"
       ],
       "skins": [
         {
@@ -27352,7 +31563,10 @@ window._emojiData =
       "keywords": [
         "eyes",
         "protection",
-        "safety"
+        "safety",
+        "глаза",
+        "защита",
+        "безопасность"
       ],
       "skins": [
         {
@@ -27369,7 +31583,11 @@ window._emojiData =
         "doctor",
         "experiment",
         "scientist",
-        "chemist"
+        "chemist",
+        "доктор",
+        "эксперимент",
+        "ученый",
+        "химик"
       ],
       "skins": [
         {
@@ -27383,7 +31601,8 @@ window._emojiData =
       "id": "safety_vest",
       "name": "Safety Vest",
       "keywords": [
-        "protection"
+        "protection",
+        "защита"
       ],
       "skins": [
         {
@@ -27402,7 +31621,13 @@ window._emojiData =
         "formal",
         "fashion",
         "cloth",
-        "business"
+        "business",
+        "рубашка",
+        "костюм",
+        "официальный",
+        "мода",
+        "одежда",
+        "бизнес"
       ],
       "skins": [
         {
@@ -27422,7 +31647,12 @@ window._emojiData =
         "fashion",
         "cloth",
         "casual",
-        "tee"
+        "tee",
+        "рубашка",
+        "футболка",
+        "мода",
+        "одежда",
+        "повседневный"
       ],
       "skins": [
         {
@@ -27437,7 +31667,9 @@ window._emojiData =
       "name": "Jeans",
       "keywords": [
         "fashion",
-        "shopping"
+        "shopping",
+        "мода",
+        "шопинг"
       ],
       "skins": [
         {
@@ -27453,7 +31685,10 @@ window._emojiData =
       "keywords": [
         "neck",
         "winter",
-        "clothes"
+        "clothes",
+        "шея",
+        "зима",
+        "одежда"
       ],
       "skins": [
         {
@@ -27469,7 +31704,10 @@ window._emojiData =
       "keywords": [
         "hands",
         "winter",
-        "clothes"
+        "clothes",
+        "руки",
+        "зима",
+        "одежда"
       ],
       "skins": [
         {
@@ -27483,7 +31721,8 @@ window._emojiData =
       "id": "coat",
       "name": "Coat",
       "keywords": [
-        "jacket"
+        "jacket",
+        "куртка"
       ],
       "skins": [
         {
@@ -27498,7 +31737,9 @@ window._emojiData =
       "name": "Socks",
       "keywords": [
         "stockings",
-        "clothes"
+        "clothes",
+        "носки",
+        "одежда"
       ],
       "skins": [
         {
@@ -27514,7 +31755,10 @@ window._emojiData =
       "keywords": [
         "clothes",
         "fashion",
-        "shopping"
+        "shopping",
+        "одежда",
+        "мода",
+        "шопинг"
       ],
       "skins": [
         {
@@ -27532,7 +31776,12 @@ window._emojiData =
         "fashion",
         "women",
         "female",
-        "japanese"
+        "japanese",
+        "платье",
+        "мода",
+        "женщины",
+        "женский",
+        "японский"
       ],
       "skins": [
         {
@@ -27546,7 +31795,9 @@ window._emojiData =
       "id": "sari",
       "name": "Sari",
       "keywords": [
-        "dress"
+        "dress",
+        "сари",
+        "платье"
       ],
       "skins": [
         {
@@ -27562,7 +31813,10 @@ window._emojiData =
       "keywords": [
         "one",
         "piece",
-        "fashion"
+        "fashion",
+        "цельный",
+        "купальник",
+        "мода"
       ],
       "skins": [
         {
@@ -27576,7 +31830,9 @@ window._emojiData =
       "id": "briefs",
       "name": "Briefs",
       "keywords": [
-        "clothing"
+        "clothing",
+        "трусы",
+        "одежда"
       ],
       "skins": [
         {
@@ -27590,7 +31846,9 @@ window._emojiData =
       "id": "shorts",
       "name": "Shorts",
       "keywords": [
-        "clothing"
+        "clothing",
+        "шорты",
+        "одежда"
       ],
       "skins": [
         {
@@ -27610,7 +31868,14 @@ window._emojiData =
         "girl",
         "fashion",
         "beach",
-        "summer"
+        "summer",
+        "плавание",
+        "женский",
+        "женщина",
+        "девочка",
+        "мода",
+        "пляж",
+        "лето"
       ],
       "skins": [
         {
@@ -27629,7 +31894,12 @@ window._emojiData =
         "fashion",
         "shopping",
         "bags",
-        "female"
+        "female",
+        "женщина",
+        "мода",
+        "шопинг",
+        "сумки",
+        "женский"
       ],
       "skins": [
         {
@@ -27644,7 +31914,9 @@ window._emojiData =
       "name": "Folding Hand Fan",
       "keywords": [
         "flamenco",
-        "hot"
+        "hot",
+        "фламенко",
+        "жарко"
       ],
       "skins": [
         {
@@ -27662,7 +31934,12 @@ window._emojiData =
         "accessories",
         "money",
         "sales",
-        "shopping"
+        "shopping",
+        "мода",
+        "аксессуары",
+        "деньги",
+        "продажи",
+        "шопинг"
       ],
       "skins": [
         {
@@ -27679,7 +31956,10 @@ window._emojiData =
         "fashion",
         "accessory",
         "accessories",
-        "shopping"
+        "shopping",
+        "мода",
+        "аксессуар",
+        "шопинг"
       ],
       "skins": [
         {
@@ -27696,7 +31976,11 @@ window._emojiData =
         "clutch",
         "bag",
         "accessories",
-        "shopping"
+        "shopping",
+        "клатч",
+        "сумка",
+        "аксессуары",
+        "шопинг"
       ],
       "skins": [
         {
@@ -27712,7 +31996,10 @@ window._emojiData =
       "keywords": [
         "mall",
         "buy",
-        "purchase"
+        "purchase",
+        "торговый_центр",
+        "купить",
+        "покупка"
       ],
       "skins": [
         {
@@ -27730,7 +32017,12 @@ window._emojiData =
         "satchel",
         "student",
         "education",
-        "bag"
+        "bag",
+        "школа",
+        "ранец",
+        "студент",
+        "образование",
+        "сумка"
       ],
       "skins": [
         {
@@ -27745,7 +32037,9 @@ window._emojiData =
       "name": "Thong Sandal",
       "keywords": [
         "footwear",
-        "summer"
+        "summer",
+        "обувь",
+        "лето"
       ],
       "skins": [
         {
@@ -27762,7 +32056,10 @@ window._emojiData =
         "man",
         "s",
         "fashion",
-        "male"
+        "male",
+        "мужчина",
+        "мода",
+        "мужской"
       ],
       "skins": [
         {
@@ -27779,7 +32076,11 @@ window._emojiData =
         "athletic",
         "shoes",
         "sports",
-        "sneakers"
+        "sneakers",
+        "спортивный",
+        "обувь",
+        "спорт",
+        "кроссовки"
       ],
       "skins": [
         {
@@ -27794,7 +32095,9 @@ window._emojiData =
       "name": "Hiking Boot",
       "keywords": [
         "backpacking",
-        "camping"
+        "camping",
+        "поход",
+        "кемпинг"
       ],
       "skins": [
         {
@@ -27812,7 +32115,11 @@ window._emojiData =
         "ballet",
         "slip",
         "on",
-        "slipper"
+        "slipper",
+        "женский",
+        "балетки",
+        "надеть",
+        "тапочки"
       ],
       "skins": [
         {
@@ -27833,7 +32140,14 @@ window._emojiData =
         "shoes",
         "female",
         "pumps",
-        "stiletto"
+        "stiletto",
+        "высокий",
+        "каблук",
+        "мода",
+        "обувь",
+        "женский",
+        "туфли",
+        "шпилька"
       ],
       "skins": [
         {
@@ -27852,7 +32166,11 @@ window._emojiData =
         "shoes",
         "fashion",
         "flip",
-        "flops"
+        "flops",
+        "женщина",
+        "обувь",
+        "мода",
+        "шлепанцы"
       ],
       "skins": [
         {
@@ -27866,7 +32184,8 @@ window._emojiData =
       "id": "ballet_shoes",
       "name": "Ballet Shoes",
       "keywords": [
-        "dance"
+        "dance",
+        "танец"
       ],
       "skins": [
         {
@@ -27884,7 +32203,11 @@ window._emojiData =
         "woman",
         "s",
         "shoes",
-        "fashion"
+        "fashion",
+        "сапоги",
+        "женщина",
+        "обувь",
+        "мода"
       ],
       "skins": [
         {
@@ -27899,7 +32222,9 @@ window._emojiData =
       "name": "Hair Pick",
       "keywords": [
         "afro",
-        "comb"
+        "comb",
+        "афро",
+        "расческа"
       ],
       "skins": [
         {
@@ -27917,7 +32242,11 @@ window._emojiData =
         "kod",
         "leader",
         "royalty",
-        "lord"
+        "lord",
+        "король",
+        "лидер",
+        "королевский",
+        "лорд"
       ],
       "skins": [
         {
@@ -27937,7 +32266,13 @@ window._emojiData =
         "accessories",
         "female",
         "lady",
-        "spring"
+        "spring",
+        "женщина",
+        "мода",
+        "аксессуары",
+        "женский",
+        "леди",
+        "весна"
       ],
       "skins": [
         {
@@ -27955,7 +32290,12 @@ window._emojiData =
         "magic",
         "gentleman",
         "classy",
-        "circus"
+        "circus",
+        "цилиндр",
+        "магия",
+        "джентльмен",
+        "элегантный",
+        "цирк"
       ],
       "skins": [
         {
@@ -27978,7 +32318,16 @@ window._emojiData =
         "hat",
         "legal",
         "learn",
-        "education"
+        "education",
+        "академическая_шапочка",
+        "школа",
+        "колледж",
+        "степень",
+        "университет",
+        "шапка",
+        "закон",
+        "учеба",
+        "образование"
       ],
       "skins": [
         {
@@ -27992,7 +32341,8 @@ window._emojiData =
       "id": "billed_cap",
       "name": "Billed Cap",
       "keywords": [
-        "baseball"
+        "baseball",
+        "бейсболка"
       ],
       "skins": [
         {
@@ -28007,7 +32357,9 @@ window._emojiData =
       "name": "Military Helmet",
       "keywords": [
         "army",
-        "protection"
+        "protection",
+        "армия",
+        "защита"
       ],
       "skins": [
         {
@@ -28027,7 +32379,13 @@ window._emojiData =
         "worker",
         "s",
         "construction",
-        "build"
+        "build",
+        "с",
+        "белый",
+        "крест",
+        "рабочий",
+        "строительство",
+        "строить"
       ],
       "skins": [
         {
@@ -28042,7 +32400,9 @@ window._emojiData =
       "name": "Prayer Beads",
       "keywords": [
         "dhikr",
-        "religious"
+        "religious",
+        "зикр",
+        "религиозный"
       ],
       "skins": [
         {
@@ -28059,7 +32419,11 @@ window._emojiData =
         "female",
         "girl",
         "fashion",
-        "woman"
+        "woman",
+        "женский",
+        "девочка",
+        "мода",
+        "женщина"
       ],
       "skins": [
         {
@@ -28081,7 +32445,16 @@ window._emojiData =
         "fashion",
         "jewelry",
         "gem",
-        "engagement"
+        "engagement",
+        "свадьба",
+        "предложение",
+        "брак",
+        "валентинки",
+        "бриллиант",
+        "мода",
+        "украшения",
+        "драгоценность",
+        "помолвка"
       ],
       "skins": [
         {
@@ -28098,7 +32471,11 @@ window._emojiData =
         "blue",
         "ruby",
         "diamond",
-        "jewelry"
+        "jewelry",
+        "синий",
+        "рубин",
+        "бриллиант",
+        "украшения"
       ],
       "skins": [
         {
@@ -28116,7 +32493,12 @@ window._emojiData =
         "sound",
         "volume",
         "silence",
-        "quiet"
+        "quiet",
+        "без_звука",
+        "звук",
+        "громкость",
+        "тишина",
+        "тихий"
       ],
       "skins": [
         {
@@ -28134,7 +32516,12 @@ window._emojiData =
         "volume",
         "sound",
         "silence",
-        "broadcast"
+        "broadcast",
+        "низкий",
+        "громкость",
+        "звук",
+        "тишина",
+        "вещание"
       ],
       "skins": [
         {
@@ -28149,7 +32536,9 @@ window._emojiData =
       "name": "Speaker Medium Volume",
       "keywords": [
         "sound",
-        "broadcast"
+        "broadcast",
+        "звук",
+        "вещание"
       ],
       "skins": [
         {
@@ -28167,7 +32556,12 @@ window._emojiData =
         "sound",
         "noise",
         "noisy",
-        "broadcast"
+        "broadcast",
+        "громкий",
+        "звук",
+        "шум",
+        "шумный",
+        "вещание"
       ],
       "skins": [
         {
@@ -28182,7 +32576,9 @@ window._emojiData =
       "name": "Loudspeaker",
       "keywords": [
         "volume",
-        "sound"
+        "sound",
+        "громкость",
+        "звук"
       ],
       "skins": [
         {
@@ -28199,7 +32595,11 @@ window._emojiData =
         "mega",
         "sound",
         "speaker",
-        "volume"
+        "volume",
+        "мегафон",
+        "звук",
+        "динамик",
+        "громкость"
       ],
       "skins": [
         {
@@ -28214,7 +32614,9 @@ window._emojiData =
       "name": "Postal Horn",
       "keywords": [
         "instrument",
-        "music"
+        "music",
+        "инструмент",
+        "музыка"
       ],
       "skins": [
         {
@@ -28232,7 +32634,11 @@ window._emojiData =
         "notification",
         "christmas",
         "xmas",
-        "chime"
+        "chime",
+        "звук",
+        "уведомление",
+        "рождество",
+        "звон"
       ],
       "skins": [
         {
@@ -28251,7 +32657,13 @@ window._emojiData =
         "volume",
         "mute",
         "quiet",
-        "silent"
+        "silent",
+        "нет",
+        "звук",
+        "громкость",
+        "без_звука",
+        "тихий",
+        "молчание"
       ],
       "skins": [
         {
@@ -28267,7 +32679,10 @@ window._emojiData =
       "keywords": [
         "treble",
         "clef",
-        "compose"
+        "compose",
+        "скрипичный_ключ",
+        "ключ",
+        "композиция"
       ],
       "skins": [
         {
@@ -28283,7 +32698,10 @@ window._emojiData =
       "keywords": [
         "score",
         "tone",
-        "sound"
+        "sound",
+        "ноты",
+        "тон",
+        "звук"
       ],
       "skins": [
         {
@@ -28298,7 +32716,9 @@ window._emojiData =
       "name": "Musical Notes",
       "keywords": [
         "music",
-        "score"
+        "score",
+        "музыка",
+        "ноты"
       ],
       "skins": [
         {
@@ -28315,7 +32735,11 @@ window._emojiData =
         "sing",
         "recording",
         "artist",
-        "talkshow"
+        "talkshow",
+        "петь",
+        "запись",
+        "артист",
+        "ток-шоу"
       ],
       "skins": [
         {
@@ -28329,7 +32753,8 @@ window._emojiData =
       "id": "level_slider",
       "name": "Level Slider",
       "keywords": [
-        "scale"
+        "scale",
+        "уровень"
       ],
       "skins": [
         {
@@ -28343,7 +32768,8 @@ window._emojiData =
       "id": "control_knobs",
       "name": "Control Knobs",
       "keywords": [
-        "dial"
+        "dial",
+        "регуляторы"
       ],
       "skins": [
         {
@@ -28361,7 +32787,12 @@ window._emojiData =
         "music",
         "PA",
         "sing",
-        "talkshow"
+        "talkshow",
+        "звук",
+        "музыка",
+        "усилитель",
+        "петь",
+        "ток-шоу"
       ],
       "skins": [
         {
@@ -28378,7 +32809,11 @@ window._emojiData =
         "headphones",
         "music",
         "score",
-        "gadgets"
+        "gadgets",
+        "наушники",
+        "музыка",
+        "ноты",
+        "гаджеты"
       ],
       "skins": [
         {
@@ -28395,7 +32830,11 @@ window._emojiData =
         "communication",
         "music",
         "podcast",
-        "program"
+        "program",
+        "связь",
+        "музыка",
+        "подкаст",
+        "программа"
       ],
       "skins": [
         {
@@ -28412,7 +32851,11 @@ window._emojiData =
         "music",
         "instrument",
         "jazz",
-        "blues"
+        "blues",
+        "музыка",
+        "инструмент",
+        "джаз",
+        "блюз"
       ],
       "skins": [
         {
@@ -28426,7 +32869,8 @@ window._emojiData =
       "id": "accordion",
       "name": "Accordion",
       "keywords": [
-        "music"
+        "music",
+        "музыка"
       ],
       "skins": [
         {
@@ -28441,7 +32885,9 @@ window._emojiData =
       "name": "Guitar",
       "keywords": [
         "music",
-        "instrument"
+        "instrument",
+        "музыка",
+        "инструмент"
       ],
       "skins": [
         {
@@ -28457,7 +32903,10 @@ window._emojiData =
       "keywords": [
         "piano",
         "instrument",
-        "compose"
+        "compose",
+        "пианино",
+        "инструмент",
+        "композиция"
       ],
       "skins": [
         {
@@ -28472,7 +32921,9 @@ window._emojiData =
       "name": "Trumpet",
       "keywords": [
         "music",
-        "brass"
+        "brass",
+        "музыка",
+        "медный"
       ],
       "skins": [
         {
@@ -28489,7 +32940,11 @@ window._emojiData =
         "music",
         "instrument",
         "orchestra",
-        "symphony"
+        "symphony",
+        "музыка",
+        "инструмент",
+        "оркестр",
+        "симфония"
       ],
       "skins": [
         {
@@ -28504,7 +32959,9 @@ window._emojiData =
       "name": "Banjo",
       "keywords": [
         "music",
-        "instructment"
+        "instructment",
+        "музыка",
+        "инструмент"
       ],
       "skins": [
         {
@@ -28522,7 +32979,12 @@ window._emojiData =
         "drumsticks",
         "music",
         "instrument",
-        "snare"
+        "snare",
+        "с",
+        "барабанные_палки",
+        "музыка",
+        "инструмент",
+        "малый_барабан"
       ],
       "skins": [
         {
@@ -28536,7 +32998,8 @@ window._emojiData =
       "id": "long_drum",
       "name": "Long Drum",
       "keywords": [
-        "music"
+        "music",
+        "музыка"
       ],
       "skins": [
         {
@@ -28552,7 +33015,10 @@ window._emojiData =
       "keywords": [
         "music",
         "instrument",
-        "percussion"
+        "percussion",
+        "музыка",
+        "инструмент",
+        "перкуссия"
       ],
       "skins": [
         {
@@ -28570,7 +33036,11 @@ window._emojiData =
         "music",
         "instrument",
         "pied",
-        "piper"
+        "piper",
+        "бамбук",
+        "музыка",
+        "инструмент",
+        "пестрый_дудочник"
       ],
       "skins": [
         {
@@ -28588,7 +33058,12 @@ window._emojiData =
         "technology",
         "apple",
         "gadgets",
-        "dial"
+        "dial",
+        "смартфон",
+        "технология",
+        "яблоко",
+        "гаджеты",
+        "набор"
       ],
       "skins": [
         {
@@ -28604,7 +33079,10 @@ window._emojiData =
       "keywords": [
         "calling",
         "iphone",
-        "incoming"
+        "incoming",
+        "звонок",
+        "смартфон",
+        "входящий"
       ],
       "skins": [
         {
@@ -28621,7 +33099,11 @@ window._emojiData =
         "phone",
         "technology",
         "communication",
-        "dial"
+        "dial",
+        "телефон",
+        "технология",
+        "связь",
+        "набор"
       ],
       "skins": [
         {
@@ -28637,7 +33119,10 @@ window._emojiData =
       "keywords": [
         "technology",
         "communication",
-        "dial"
+        "dial",
+        "технология",
+        "связь",
+        "набор"
       ],
       "skins": [
         {
@@ -28653,7 +33138,10 @@ window._emojiData =
       "keywords": [
         "bbcall",
         "oldschool",
-        "90s"
+        "90s",
+        "пейджер",
+        "старомодный",
+        "90-е"
       ],
       "skins": [
         {
@@ -28668,7 +33156,9 @@ window._emojiData =
       "name": "Fax Machine",
       "keywords": [
         "communication",
-        "technology"
+        "technology",
+        "связь",
+        "технология"
       ],
       "skins": [
         {
@@ -28684,7 +33174,10 @@ window._emojiData =
       "keywords": [
         "power",
         "energy",
-        "sustain"
+        "sustain",
+        "энергия",
+        "питание",
+        "поддержка"
       ],
       "skins": [
         {
@@ -28699,7 +33192,9 @@ window._emojiData =
       "name": "Low Battery",
       "keywords": [
         "drained",
-        "dead"
+        "dead",
+        "разряжен",
+        "мертв"
       ],
       "skins": [
         {
@@ -28714,7 +33209,9 @@ window._emojiData =
       "name": "Electric Plug",
       "keywords": [
         "charger",
-        "power"
+        "power",
+        "зарядка",
+        "питание"
       ],
       "skins": [
         {
@@ -28732,7 +33229,12 @@ window._emojiData =
         "technology",
         "screen",
         "display",
-        "monitor"
+        "monitor",
+        "ноутбук",
+        "технология",
+        "экран",
+        "дисплей",
+        "монитор"
       ],
       "skins": [
         {
@@ -28748,7 +33250,10 @@ window._emojiData =
       "keywords": [
         "technology",
         "computing",
-        "screen"
+        "screen",
+        "технология",
+        "вычисления",
+        "экран"
       ],
       "skins": [
         {
@@ -28763,7 +33268,9 @@ window._emojiData =
       "name": "Printer",
       "keywords": [
         "paper",
-        "ink"
+        "ink",
+        "бумага",
+        "чернила"
       ],
       "skins": [
         {
@@ -28781,7 +33288,12 @@ window._emojiData =
         "computer",
         "type",
         "input",
-        "text"
+        "text",
+        "технология",
+        "компьютер",
+        "печатать",
+        "ввод",
+        "текст"
       ],
       "skins": [
         {
@@ -28797,7 +33309,10 @@ window._emojiData =
       "keywords": [
         "three",
         "button",
-        "click"
+        "click",
+        "три",
+        "кнопка",
+        "клик"
       ],
       "skins": [
         {
@@ -28812,7 +33327,9 @@ window._emojiData =
       "name": "Trackball",
       "keywords": [
         "technology",
-        "trackpad"
+        "trackpad",
+        "технология",
+        "трекпад"
       ],
       "skins": [
         {
@@ -28831,7 +33348,13 @@ window._emojiData =
         "technology",
         "record",
         "data",
-        "90s"
+        "90s",
+        "компьютер",
+        "диск",
+        "технология",
+        "запись",
+        "данные",
+        "90-е"
       ],
       "skins": [
         {
@@ -28849,7 +33372,12 @@ window._emojiData =
         "technology",
         "save",
         "90s",
-        "80s"
+        "80s",
+        "старомодный",
+        "технология",
+        "сохранить",
+        "90-е",
+        "80-е"
       ],
       "skins": [
         {
@@ -28867,7 +33395,11 @@ window._emojiData =
         "disk",
         "technology",
         "dvd",
-        "90s"
+        "90s",
+        "диск",
+        "технология",
+        "двд",
+        "90-е"
       ],
       "skins": [
         {
@@ -28883,7 +33415,9 @@ window._emojiData =
       "keywords": [
         "cd",
         "disk",
-        "disc"
+        "disc",
+        "диск",
+        "двд"
       ],
       "skins": [
         {
@@ -28897,7 +33431,8 @@ window._emojiData =
       "id": "abacus",
       "name": "Abacus",
       "keywords": [
-        "calculation"
+        "calculation",
+        "вычисления"
       ],
       "skins": [
         {
@@ -28912,7 +33447,9 @@ window._emojiData =
       "name": "Movie Camera",
       "keywords": [
         "film",
-        "record"
+        "record",
+        "фильм",
+        "запись"
       ],
       "skins": [
         {
@@ -28926,7 +33463,8 @@ window._emojiData =
       "id": "film_frames",
       "name": "Film Frames",
       "keywords": [
-        "movie"
+        "movie",
+        "фильм"
       ],
       "skins": [
         {
@@ -28943,7 +33481,11 @@ window._emojiData =
         "video",
         "tape",
         "record",
-        "movie"
+        "movie",
+        "видео",
+        "пленка",
+        "запись",
+        "фильм"
       ],
       "skins": [
         {
@@ -28959,7 +33501,9 @@ window._emojiData =
       "keywords": [
         "movie",
         "film",
-        "record"
+        "record",
+        "фильм",
+        "запись"
       ],
       "skins": [
         {
@@ -28977,7 +33521,12 @@ window._emojiData =
         "technology",
         "program",
         "oldschool",
-        "show"
+        "show",
+        "телевизор",
+        "технология",
+        "программа",
+        "старомодный",
+        "шоу"
       ],
       "skins": [
         {
@@ -28992,7 +33541,9 @@ window._emojiData =
       "name": "Camera",
       "keywords": [
         "gadgets",
-        "photography"
+        "photography",
+        "гаджеты",
+        "фотография"
       ],
       "skins": [
         {
@@ -29007,7 +33558,9 @@ window._emojiData =
       "name": "Camera with Flash",
       "keywords": [
         "photography",
-        "gadgets"
+        "gadgets",
+        "фотография",
+        "гаджеты"
       ],
       "skins": [
         {
@@ -29022,7 +33575,9 @@ window._emojiData =
       "name": "Video Camera",
       "keywords": [
         "film",
-        "record"
+        "record",
+        "фильм",
+        "запись"
       ],
       "skins": [
         {
@@ -29041,7 +33596,13 @@ window._emojiData =
         "video",
         "oldschool",
         "90s",
-        "80s"
+        "80s",
+        "видеокассета",
+        "запись",
+        "видео",
+        "старомодный",
+        "90-е",
+        "80-е"
       ],
       "skins": [
         {
@@ -29059,7 +33620,12 @@ window._emojiData =
         "search",
         "zoom",
         "find",
-        "detective"
+        "detective",
+        "лупа",
+        "поиск",
+        "увеличение",
+        "найти",
+        "детектив"
       ],
       "skins": [
         {
@@ -29077,7 +33643,12 @@ window._emojiData =
         "search",
         "zoom",
         "find",
-        "detective"
+        "detective",
+        "лупа",
+        "поиск",
+        "увеличение",
+        "найти",
+        "детектив"
       ],
       "skins": [
         {
@@ -29092,7 +33663,9 @@ window._emojiData =
       "name": "Candle",
       "keywords": [
         "fire",
-        "wax"
+        "wax",
+        "огонь",
+        "воск"
       ],
       "skins": [
         {
@@ -29107,7 +33680,9 @@ window._emojiData =
       "name": "Light Bulb",
       "keywords": [
         "electricity",
-        "idea"
+        "idea",
+        "электричество",
+        "идея"
       ],
       "skins": [
         {
@@ -29124,7 +33699,11 @@ window._emojiData =
         "dark",
         "camping",
         "sight",
-        "night"
+        "night",
+        "темнота",
+        "кемпинг",
+        "видимость",
+        "ночь"
       ],
       "skins": [
         {
@@ -29142,7 +33721,12 @@ window._emojiData =
         "paper",
         "light",
         "halloween",
-        "spooky"
+        "spooky",
+        "красный",
+        "бумага",
+        "свет",
+        "хэллоуин",
+        "жуткий"
       ],
       "skins": [
         {
@@ -29156,7 +33740,8 @@ window._emojiData =
       "id": "diya_lamp",
       "name": "Diya Lamp",
       "keywords": [
-        "lighting"
+        "lighting",
+        "освещение"
       ],
       "skins": [
         {
@@ -29174,7 +33759,12 @@ window._emojiData =
         "notes",
         "record",
         "paper",
-        "study"
+        "study",
+        "класс",
+        "заметки",
+        "запись",
+        "бумага",
+        "учеба"
       ],
       "skins": [
         {
@@ -29192,7 +33782,12 @@ window._emojiData =
         "library",
         "knowledge",
         "textbook",
-        "learn"
+        "learn",
+        "читать",
+        "библиотека",
+        "знания",
+        "учебник",
+        "учиться"
       ],
       "skins": [
         {
@@ -29211,7 +33806,13 @@ window._emojiData =
         "knowledge",
         "literature",
         "learn",
-        "study"
+        "study",
+        "читать",
+        "библиотека",
+        "знания",
+        "литература",
+        "учиться",
+        "учеба"
       ],
       "skins": [
         {
@@ -29228,7 +33829,11 @@ window._emojiData =
         "read",
         "library",
         "knowledge",
-        "study"
+        "study",
+        "читать",
+        "библиотека",
+        "знания",
+        "учеба"
       ],
       "skins": [
         {
@@ -29246,7 +33851,12 @@ window._emojiData =
         "library",
         "knowledge",
         "learn",
-        "study"
+        "study",
+        "читать",
+        "библиотека",
+        "знания",
+        "учиться",
+        "учеба"
       ],
       "skins": [
         {
@@ -29264,7 +33874,12 @@ window._emojiData =
         "library",
         "knowledge",
         "textbook",
-        "study"
+        "study",
+        "читать",
+        "библиотека",
+        "знания",
+        "учебник",
+        "учеба"
       ],
       "skins": [
         {
@@ -29280,7 +33895,10 @@ window._emojiData =
       "keywords": [
         "literature",
         "library",
-        "study"
+        "study",
+        "литература",
+        "библиотека",
+        "учеба"
       ],
       "skins": [
         {
@@ -29298,7 +33916,12 @@ window._emojiData =
         "record",
         "notes",
         "paper",
-        "study"
+        "study",
+        "канцелярия",
+        "запись",
+        "заметки",
+        "бумага",
+        "учеба"
       ],
       "skins": [
         {
@@ -29313,7 +33936,9 @@ window._emojiData =
       "name": "Ledger",
       "keywords": [
         "notes",
-        "paper"
+        "paper",
+        "заметки",
+        "бумага"
       ],
       "skins": [
         {
@@ -29329,7 +33954,10 @@ window._emojiData =
       "keywords": [
         "documents",
         "office",
-        "paper"
+        "paper",
+        "документы",
+        "офис",
+        "бумага"
       ],
       "skins": [
         {
@@ -29346,7 +33974,11 @@ window._emojiData =
         "documents",
         "ancient",
         "history",
-        "paper"
+        "paper",
+        "документы",
+        "древний",
+        "история",
+        "бумага"
       ],
       "skins": [
         {
@@ -29363,7 +33995,11 @@ window._emojiData =
         "documents",
         "office",
         "paper",
-        "information"
+        "information",
+        "документы",
+        "офис",
+        "бумага",
+        "информация"
       ],
       "skins": [
         {
@@ -29378,7 +34014,9 @@ window._emojiData =
       "name": "Newspaper",
       "keywords": [
         "press",
-        "headline"
+        "headline",
+        "пресса",
+        "заголовок"
       ],
       "skins": [
         {
@@ -29395,7 +34033,10 @@ window._emojiData =
         "rolled",
         "up",
         "press",
-        "headline"
+        "headline",
+        "свернутая",
+        "пресса",
+        "заголовок"
       ],
       "skins": [
         {
@@ -29412,7 +34053,11 @@ window._emojiData =
         "favorite",
         "save",
         "order",
-        "tidy"
+        "tidy",
+        "избранное",
+        "сохранить",
+        "порядок",
+        "аккуратно"
       ],
       "skins": [
         {
@@ -29428,7 +34073,10 @@ window._emojiData =
       "keywords": [
         "favorite",
         "label",
-        "save"
+        "save",
+        "избранное",
+        "метка",
+        "сохранить"
       ],
       "skins": [
         {
@@ -29443,7 +34091,9 @@ window._emojiData =
       "name": "Label",
       "keywords": [
         "sale",
-        "tag"
+        "tag",
+        "распродажа",
+        "ярлык"
       ],
       "skins": [
         {
@@ -29461,7 +34111,12 @@ window._emojiData =
         "dollar",
         "payment",
         "coins",
-        "sale"
+        "sale",
+        "мешок_денег",
+        "доллар",
+        "оплата",
+        "монеты",
+        "распродажа"
       ],
       "skins": [
         {
@@ -29476,7 +34131,9 @@ window._emojiData =
       "name": "Coin",
       "keywords": [
         "money",
-        "currency"
+        "currency",
+        "деньги",
+        "валюта"
       ],
       "skins": [
         {
@@ -29494,7 +34151,12 @@ window._emojiData =
         "sales",
         "japanese",
         "dollar",
-        "currency"
+        "currency",
+        "деньги",
+        "продажи",
+        "японский",
+        "доллар",
+        "валюта"
       ],
       "skins": [
         {
@@ -29511,7 +34173,11 @@ window._emojiData =
         "money",
         "sales",
         "bill",
-        "currency"
+        "currency",
+        "деньги",
+        "продажи",
+        "купюра",
+        "валюта"
       ],
       "skins": [
         {
@@ -29528,7 +34194,11 @@ window._emojiData =
         "money",
         "sales",
         "dollar",
-        "currency"
+        "currency",
+        "деньги",
+        "продажи",
+        "доллар",
+        "валюта"
       ],
       "skins": [
         {
@@ -29549,7 +34219,15 @@ window._emojiData =
         "bills",
         "uk",
         "england",
-        "currency"
+        "currency",
+        "британский",
+        "стерлинг",
+        "деньги",
+        "продажи",
+        "купюры",
+        "великобритания",
+        "англия",
+        "валюта"
       ],
       "skins": [
         {
@@ -29566,7 +34244,11 @@ window._emojiData =
         "dollar",
         "bills",
         "payment",
-        "sale"
+        "sale",
+        "доллар",
+        "купюры",
+        "оплата",
+        "распродажа"
       ],
       "skins": [
         {
@@ -29585,7 +34267,13 @@ window._emojiData =
         "dollar",
         "bill",
         "payment",
-        "shopping"
+        "shopping",
+        "деньги",
+        "продажи",
+        "доллар",
+        "купюра",
+        "оплата",
+        "шопинг"
       ],
       "skins": [
         {
@@ -29600,7 +34288,9 @@ window._emojiData =
       "name": "Receipt",
       "keywords": [
         "accounting",
-        "expenses"
+        "expenses",
+        "бухгалтерия",
+        "расходы"
       ],
       "skins": [
         {
@@ -29618,7 +34308,12 @@ window._emojiData =
         "square",
         "graph",
         "presentation",
-        "stats"
+        "stats",
+        "зеленый",
+        "квадрат",
+        "график",
+        "презентация",
+        "статистика"
       ],
       "skins": [
         {
@@ -29636,7 +34331,12 @@ window._emojiData =
         "letter",
         "postal",
         "inbox",
-        "communication"
+        "communication",
+        "электронная_почта",
+        "письмо",
+        "почта",
+        "входящие",
+        "связь"
       ],
       "skins": [
         {
@@ -29653,7 +34353,11 @@ window._emojiData =
         "e",
         "mail",
         "communication",
-        "inbox"
+        "inbox",
+        "электронная",
+        "почта",
+        "связь",
+        "входящие"
       ],
       "skins": [
         {
@@ -29668,7 +34372,9 @@ window._emojiData =
       "name": "Incoming Envelope",
       "keywords": [
         "email",
-        "inbox"
+        "inbox",
+        "электронная_почта",
+        "входящие"
       ],
       "skins": [
         {
@@ -29683,7 +34389,9 @@ window._emojiData =
       "name": "Envelope with Arrow",
       "keywords": [
         "email",
-        "communication"
+        "communication",
+        "электронная_почта",
+        "связь"
       ],
       "skins": [
         {
@@ -29698,7 +34406,9 @@ window._emojiData =
       "name": "Outbox Tray",
       "keywords": [
         "inbox",
-        "email"
+        "email",
+        "входящие",
+        "электронная_почта"
       ],
       "skins": [
         {
@@ -29713,7 +34423,9 @@ window._emojiData =
       "name": "Inbox Tray",
       "keywords": [
         "email",
-        "documents"
+        "documents",
+        "электронная_почта",
+        "документы"
       ],
       "skins": [
         {
@@ -29731,7 +34443,12 @@ window._emojiData =
         "gift",
         "cardboard",
         "box",
-        "moving"
+        "moving",
+        "почта",
+        "подарок",
+        "картон",
+        "коробка",
+        "переезд"
       ],
       "skins": [
         {
@@ -29747,7 +34464,10 @@ window._emojiData =
       "keywords": [
         "email",
         "inbox",
-        "communication"
+        "communication",
+        "электронная_почта",
+        "входящие",
+        "связь"
       ],
       "skins": [
         {
@@ -29763,7 +34483,10 @@ window._emojiData =
       "keywords": [
         "email",
         "communication",
-        "inbox"
+        "inbox",
+        "электронная_почта",
+        "связь",
+        "входящие"
       ],
       "skins": [
         {
@@ -29780,7 +34503,11 @@ window._emojiData =
         "mail",
         "email",
         "inbox",
-        "communication"
+        "communication",
+        "почта",
+        "электронная_почта",
+        "входящие",
+        "связь"
       ],
       "skins": [
         {
@@ -29797,7 +34524,11 @@ window._emojiData =
         "no",
         "mail",
         "email",
-        "inbox"
+        "inbox",
+        "нет",
+        "почта",
+        "электронная_почта",
+        "входящие"
       ],
       "skins": [
         {
@@ -29813,7 +34544,10 @@ window._emojiData =
       "keywords": [
         "email",
         "letter",
-        "envelope"
+        "envelope",
+        "электронная_почта",
+        "письмо",
+        "конверт"
       ],
       "skins": [
         {
@@ -29828,7 +34562,9 @@ window._emojiData =
       "name": "Ballot Box with Ballot",
       "keywords": [
         "election",
-        "vote"
+        "vote",
+        "выборы",
+        "голосование"
       ],
       "skins": [
         {
@@ -29848,7 +34584,14 @@ window._emojiData =
         "paper",
         "writing",
         "school",
-        "study"
+        "study",
+        "карандаш",
+        "канцелярия",
+        "писать",
+        "бумага",
+        "письмо",
+        "школа",
+        "учеба"
       ],
       "skins": [
         {
@@ -29865,7 +34608,11 @@ window._emojiData =
         "pen",
         "stationery",
         "writing",
-        "write"
+        "write",
+        "перо",
+        "канцелярия",
+        "письмо",
+        "писать"
       ],
       "skins": [
         {
@@ -29883,7 +34630,12 @@ window._emojiData =
         "left",
         "stationery",
         "writing",
-        "write"
+        "write",
+        "нижний",
+        "левый",
+        "канцелярия",
+        "письмо",
+        "писать"
       ],
       "skins": [
         {
@@ -29902,7 +34654,13 @@ window._emojiData =
         "ballpoint",
         "stationery",
         "writing",
-        "write"
+        "write",
+        "нижний",
+        "левый",
+        "шариковая",
+        "канцелярия",
+        "письмо",
+        "писать"
       ],
       "skins": [
         {
@@ -29920,7 +34678,12 @@ window._emojiData =
         "left",
         "drawing",
         "creativity",
-        "art"
+        "art",
+        "нижний",
+        "левый",
+        "рисование",
+        "творчество",
+        "искусство"
       ],
       "skins": [
         {
@@ -29937,7 +34700,11 @@ window._emojiData =
         "lower",
         "left",
         "drawing",
-        "creativity"
+        "creativity",
+        "нижний",
+        "левый",
+        "рисование",
+        "творчество"
       ],
       "skins": [
         {
@@ -29962,7 +34729,19 @@ window._emojiData =
         "quiz",
         "test",
         "study",
-        "compose"
+        "compose",
+        "карандаш",
+        "писать",
+        "документы",
+        "канцелярия",
+        "бумага",
+        "письмо",
+        "юридический",
+        "экзамен",
+        "викторина",
+        "тест",
+        "учеба",
+        "составлять"
       ],
       "skins": [
         {
@@ -29982,7 +34761,14 @@ window._emojiData =
         "law",
         "legal",
         "job",
-        "career"
+        "career",
+        "бизнес",
+        "документы",
+        "работа",
+        "закон",
+        "юридический",
+        "работа",
+        "карьера"
       ],
       "skins": [
         {
@@ -29998,7 +34784,10 @@ window._emojiData =
       "keywords": [
         "documents",
         "business",
-        "office"
+        "office",
+        "документы",
+        "бизнес",
+        "офис"
       ],
       "skins": [
         {
@@ -30013,7 +34802,9 @@ window._emojiData =
       "name": "Open File Folder",
       "keywords": [
         "documents",
-        "load"
+        "load",
+        "документы",
+        "загрузка"
       ],
       "skins": [
         {
@@ -30029,7 +34820,10 @@ window._emojiData =
       "keywords": [
         "organizing",
         "business",
-        "stationery"
+        "stationery",
+        "организация",
+        "бизнес",
+        "канцелярия"
       ],
       "skins": [
         {
@@ -30044,7 +34838,9 @@ window._emojiData =
       "name": "Calendar",
       "keywords": [
         "date",
-        "schedule"
+        "schedule",
+        "дата",
+        "расписание"
       ],
       "skins": [
         {
@@ -30062,7 +34858,11 @@ window._emojiData =
         "off",
         "schedule",
         "date",
-        "planning"
+        "planning",
+        "отрывной",
+        "расписание",
+        "дата",
+        "планирование"
       ],
       "skins": [
         {
@@ -30079,7 +34879,10 @@ window._emojiData =
         "note",
         "pad",
         "memo",
-        "stationery"
+        "stationery",
+        "заметка",
+        "блокнот",
+        "канцелярия"
       ],
       "skins": [
         {
@@ -30096,7 +34899,11 @@ window._emojiData =
         "pad",
         "date",
         "schedule",
-        "planning"
+        "planning",
+        "календарь",
+        "дата",
+        "расписание",
+        "планирование"
       ],
       "skins": [
         {
@@ -30111,7 +34918,9 @@ window._emojiData =
       "name": "Card Index",
       "keywords": [
         "business",
-        "stationery"
+        "stationery",
+        "бизнес",
+        "канцелярия"
       ],
       "skins": [
         {
@@ -30137,7 +34946,15 @@ window._emojiData =
         "money",
         "sales",
         "good",
-        "success"
+        "success",
+        "график",
+        "рост",
+        "презентация",
+        "статистика",
+        "бизнес",
+        "экономика",
+        "продажи",
+        "успех"
       ],
       "skins": [
         {
@@ -30163,7 +34980,15 @@ window._emojiData =
         "money",
         "sales",
         "bad",
-        "failure"
+        "failure",
+        "график",
+        "спад",
+        "презентация",
+        "статистика",
+        "бизнес",
+        "экономика",
+        "продажи",
+        "неудача"
       ],
       "skins": [
         {
@@ -30179,7 +35004,10 @@ window._emojiData =
       "keywords": [
         "graph",
         "presentation",
-        "stats"
+        "stats",
+        "гистограмма",
+        "презентация",
+        "статистика"
       ],
       "skins": [
         {
@@ -30194,7 +35022,9 @@ window._emojiData =
       "name": "Clipboard",
       "keywords": [
         "stationery",
-        "documents"
+        "documents",
+        "канцелярия",
+        "документы"
       ],
       "skins": [
         {
@@ -30210,7 +35040,10 @@ window._emojiData =
       "keywords": [
         "stationery",
         "mark",
-        "here"
+        "here",
+        "канцелярия",
+        "отметка",
+        "здесь"
       ],
       "skins": [
         {
@@ -30227,7 +35060,11 @@ window._emojiData =
         "stationery",
         "location",
         "map",
-        "here"
+        "here",
+        "канцелярия",
+        "местоположение",
+        "карта",
+        "здесь"
       ],
       "skins": [
         {
@@ -30242,7 +35079,9 @@ window._emojiData =
       "name": "Paperclip",
       "keywords": [
         "documents",
-        "stationery"
+        "stationery",
+        "документы",
+        "канцелярия"
       ],
       "skins": [
         {
@@ -30257,7 +35096,9 @@ window._emojiData =
       "name": "Linked Paperclips",
       "keywords": [
         "documents",
-        "stationery"
+        "stationery",
+        "документы",
+        "канцелярия"
       ],
       "skins": [
         {
@@ -30278,7 +35119,15 @@ window._emojiData =
         "school",
         "drawing",
         "architect",
-        "sketch"
+        "sketch",
+        "канцелярия",
+        "измерение",
+        "длина",
+        "математика",
+        "школа",
+        "рисование",
+        "архитектор",
+        "эскиз"
       ],
       "skins": [
         {
@@ -30295,7 +35144,11 @@ window._emojiData =
         "stationery",
         "math",
         "architect",
-        "sketch"
+        "sketch",
+        "канцелярия",
+        "математика",
+        "архитектор",
+        "эскиз"
       ],
       "skins": [
         {
@@ -30310,7 +35163,9 @@ window._emojiData =
       "name": "Scissors",
       "keywords": [
         "stationery",
-        "cut"
+        "cut",
+        "канцелярия",
+        "резать"
       ],
       "skins": [
         {
@@ -30325,7 +35180,9 @@ window._emojiData =
       "name": "Card File Box",
       "keywords": [
         "business",
-        "stationery"
+        "stationery",
+        "бизнес",
+        "канцелярия"
       ],
       "skins": [
         {
@@ -30340,7 +35197,9 @@ window._emojiData =
       "name": "File Cabinet",
       "keywords": [
         "filing",
-        "organizing"
+        "organizing",
+        "хранение",
+        "организация"
       ],
       "skins": [
         {
@@ -30358,7 +35217,11 @@ window._emojiData =
         "trash",
         "rubbish",
         "garbage",
-        "toss"
+        "toss",
+        "корзина",
+        "мусор",
+        "хлам",
+        "выбросить"
       ],
       "skins": [
         {
@@ -30375,7 +35238,10 @@ window._emojiData =
         "locked",
         "security",
         "password",
-        "padlock"
+        "padlock",
+        "замок",
+        "безопасность",
+        "пароль"
       ],
       "skins": [
         {
@@ -30391,7 +35257,10 @@ window._emojiData =
       "keywords": [
         "unlock",
         "privacy",
-        "security"
+        "security",
+        "разблокировка",
+        "конфиденциальность",
+        "безопасность"
       ],
       "skins": [
         {
@@ -30408,7 +35277,11 @@ window._emojiData =
         "lock",
         "ink",
         "security",
-        "secret"
+        "secret",
+        "замок",
+        "ручка",
+        "безопасность",
+        "секрет"
       ],
       "skins": [
         {
@@ -30425,7 +35298,11 @@ window._emojiData =
         "closed",
         "lock",
         "security",
-        "privacy"
+        "privacy",
+        "замок",
+        "ключ",
+        "безопасность",
+        "конфиденциальность"
       ],
       "skins": [
         {
@@ -30441,7 +35318,10 @@ window._emojiData =
       "keywords": [
         "lock",
         "door",
-        "password"
+        "password",
+        "ключ",
+        "дверь",
+        "пароль"
       ],
       "skins": [
         {
@@ -30457,7 +35337,10 @@ window._emojiData =
       "keywords": [
         "lock",
         "door",
-        "password"
+        "password",
+        "старый ключ",
+        "дверь",
+        "пароль"
       ],
       "skins": [
         {
@@ -30473,7 +35356,10 @@ window._emojiData =
       "keywords": [
         "tools",
         "build",
-        "create"
+        "create",
+        "молоток",
+        "строительство",
+        "создание"
       ],
       "skins": [
         {
@@ -30489,7 +35375,10 @@ window._emojiData =
       "keywords": [
         "tool",
         "chop",
-        "cut"
+        "cut",
+        "топор",
+        "рубить",
+        "резать"
       ],
       "skins": [
         {
@@ -30504,7 +35393,9 @@ window._emojiData =
       "name": "Pick",
       "keywords": [
         "tools",
-        "dig"
+        "dig",
+        "кирка",
+        "копать"
       ],
       "skins": [
         {
@@ -30520,7 +35411,10 @@ window._emojiData =
       "keywords": [
         "tools",
         "build",
-        "create"
+        "create",
+        "молоток и кирка",
+        "строительство",
+        "создание"
       ],
       "skins": [
         {
@@ -30536,7 +35430,10 @@ window._emojiData =
       "keywords": [
         "tools",
         "build",
-        "create"
+        "create",
+        "молоток и гаечный ключ",
+        "строительство",
+        "создание"
       ],
       "skins": [
         {
@@ -30551,7 +35448,9 @@ window._emojiData =
       "name": "Dagger",
       "keywords": [
         "knife",
-        "weapon"
+        "weapon",
+        "кинжал",
+        "оружие"
       ],
       "skins": [
         {
@@ -30565,7 +35464,9 @@ window._emojiData =
       "id": "crossed_swords",
       "name": "Crossed Swords",
       "keywords": [
-        "weapon"
+        "weapon",
+        "скрещенные мечи",
+        "оружие"
       ],
       "skins": [
         {
@@ -30582,7 +35483,10 @@ window._emojiData =
         "boom",
         "explode",
         "explosion",
-        "terrorism"
+        "terrorism",
+        "бомба",
+        "взрыв",
+        "терроризм"
       ],
       "skins": [
         {
@@ -30596,7 +35500,9 @@ window._emojiData =
       "id": "boomerang",
       "name": "Boomerang",
       "keywords": [
-        "weapon"
+        "weapon",
+        "бумеранг",
+        "оружие"
       ],
       "skins": [
         {
@@ -30610,7 +35516,9 @@ window._emojiData =
       "id": "bow_and_arrow",
       "name": "Bow and Arrow",
       "keywords": [
-        "sports"
+        "sports",
+        "лук и стрела",
+        "спорт"
       ],
       "skins": [
         {
@@ -30625,7 +35533,10 @@ window._emojiData =
       "name": "Shield",
       "keywords": [
         "protection",
-        "security"
+        "security",
+        "щит",
+        "защита",
+        "безопасность"
       ],
       "skins": [
         {
@@ -30640,7 +35551,10 @@ window._emojiData =
       "name": "Carpentry Saw",
       "keywords": [
         "cut",
-        "chop"
+        "chop",
+        "пила",
+        "резать",
+        "рубить"
       ],
       "skins": [
         {
@@ -30658,7 +35572,10 @@ window._emojiData =
         "diy",
         "ikea",
         "fix",
-        "maintainer"
+        "maintainer",
+        "гаечный ключ",
+        "инструменты",
+        "ремонт"
       ],
       "skins": [
         {
@@ -30672,7 +35589,9 @@ window._emojiData =
       "id": "screwdriver",
       "name": "Screwdriver",
       "keywords": [
-        "tools"
+        "tools",
+        "отвертка",
+        "инструменты"
       ],
       "skins": [
         {
@@ -30688,7 +35607,10 @@ window._emojiData =
       "keywords": [
         "handy",
         "tools",
-        "fix"
+        "fix",
+        "гайка и болт",
+        "инструменты",
+        "ремонт"
       ],
       "skins": [
         {
@@ -30702,7 +35624,8 @@ window._emojiData =
       "id": "gear",
       "name": "Gear",
       "keywords": [
-        "cog"
+        "cog",
+        "шестерня"
       ],
       "skins": [
         {
@@ -30717,7 +35640,9 @@ window._emojiData =
       "name": "Clamp",
       "keywords": [
         "compression",
-        "tool"
+        "tool",
+        "зажим",
+        "инструмент"
       ],
       "skins": [
         {
@@ -30734,7 +35659,11 @@ window._emojiData =
         "scales",
         "law",
         "fairness",
-        "weight"
+        "weight",
+        "весы",
+        "закон",
+        "справедливость",
+        "вес"
       ],
       "skins": [
         {
@@ -30749,7 +35678,9 @@ window._emojiData =
       "name": "White Cane",
       "keywords": [
         "probing",
-        "accessibility"
+        "accessibility",
+        "трость",
+        "доступность"
       ],
       "skins": [
         {
@@ -30764,7 +35695,9 @@ window._emojiData =
       "name": "Link",
       "keywords": [
         "rings",
-        "url"
+        "url",
+        "ссылка",
+        "кольца"
       ],
       "skins": [
         {
@@ -30779,7 +35712,10 @@ window._emojiData =
       "name": "Chains",
       "keywords": [
         "lock",
-        "arrest"
+        "arrest",
+        "цепи",
+        "замок",
+        "арест"
       ],
       "skins": [
         {
@@ -30793,7 +35729,9 @@ window._emojiData =
       "id": "hook",
       "name": "Hook",
       "keywords": [
-        "tools"
+        "tools",
+        "крюк",
+        "инструменты"
       ],
       "skins": [
         {
@@ -30811,7 +35749,11 @@ window._emojiData =
         "diy",
         "fix",
         "maintainer",
-        "mechanic"
+        "mechanic",
+        "ящик для инструментов",
+        "инструменты",
+        "ремонт",
+        "механик"
       ],
       "skins": [
         {
@@ -30826,7 +35768,9 @@ window._emojiData =
       "name": "Magnet",
       "keywords": [
         "attraction",
-        "magnetic"
+        "magnetic",
+        "магнит",
+        "притяжение"
       ],
       "skins": [
         {
@@ -30840,7 +35784,9 @@ window._emojiData =
       "id": "ladder",
       "name": "Ladder",
       "keywords": [
-        "tools"
+        "tools",
+        "лестница",
+        "инструменты"
       ],
       "skins": [
         {
@@ -30857,7 +35803,11 @@ window._emojiData =
         "distilling",
         "science",
         "experiment",
-        "chemistry"
+        "chemistry",
+        "перегонный куб",
+        "наука",
+        "эксперимент",
+        "химия"
       ],
       "skins": [
         {
@@ -30874,7 +35824,12 @@ window._emojiData =
         "chemistry",
         "experiment",
         "lab",
-        "science"
+        "science",
+        "пробирка",
+        "химия",
+        "эксперимент",
+        "лаборатория",
+        "наука"
       ],
       "skins": [
         {
@@ -30891,7 +35846,12 @@ window._emojiData =
         "bacteria",
         "biology",
         "culture",
-        "lab"
+        "lab",
+        "чашка Петри",
+        "бактерии",
+        "биология",
+        "культура",
+        "лаборатория"
       ],
       "skins": [
         {
@@ -30907,7 +35867,10 @@ window._emojiData =
       "keywords": [
         "biologist",
         "genetics",
-        "life"
+        "life",
+        "ДНК",
+        "генетика",
+        "жизнь"
       ],
       "skins": [
         {
@@ -30925,7 +35888,12 @@ window._emojiData =
         "experiment",
         "zoomin",
         "science",
-        "study"
+        "study",
+        "микроскоп",
+        "лаборатория",
+        "эксперимент",
+        "наука",
+        "исследование"
       ],
       "skins": [
         {
@@ -30943,7 +35911,12 @@ window._emojiData =
         "space",
         "zoom",
         "science",
-        "astronomy"
+        "astronomy",
+        "телескоп",
+        "звезды",
+        "космос",
+        "наука",
+        "астрономия"
       ],
       "skins": [
         {
@@ -30960,7 +35933,11 @@ window._emojiData =
         "communication",
         "future",
         "radio",
-        "space"
+        "space",
+        "спутниковая антенна",
+        "связь",
+        "радио",
+        "космос"
       ],
       "skins": [
         {
@@ -30981,7 +35958,16 @@ window._emojiData =
         "medicine",
         "needle",
         "doctor",
-        "nurse"
+        "nurse",
+        "шприц",
+        "здоровье",
+        "больница",
+        "лекарства",
+        "кровь",
+        "медицина",
+        "игла",
+        "доктор",
+        "медсестра"
       ],
       "skins": [
         {
@@ -30998,7 +35984,10 @@ window._emojiData =
         "period",
         "hurt",
         "harm",
-        "wound"
+        "wound",
+        "капля крови",
+        "боль",
+        "рана"
       ],
       "skins": [
         {
@@ -31016,7 +36005,12 @@ window._emojiData =
         "medicine",
         "doctor",
         "pharmacy",
-        "drug"
+        "drug",
+        "таблетка",
+        "здоровье",
+        "медицина",
+        "доктор",
+        "аптека"
       ],
       "skins": [
         {
@@ -31030,7 +36024,9 @@ window._emojiData =
       "id": "adhesive_bandage",
       "name": "Adhesive Bandage",
       "keywords": [
-        "heal"
+        "heal",
+        "пластырь",
+        "лечение"
       ],
       "skins": [
         {
@@ -31045,7 +36041,10 @@ window._emojiData =
       "name": "Crutch",
       "keywords": [
         "accessibility",
-        "assist"
+        "assist",
+        "костыль",
+        "доступность",
+        "поддержка"
       ],
       "skins": [
         {
@@ -31059,7 +36058,9 @@ window._emojiData =
       "id": "stethoscope",
       "name": "Stethoscope",
       "keywords": [
-        "health"
+        "health",
+        "стетоскоп",
+        "здоровье"
       ],
       "skins": [
         {
@@ -31076,7 +36077,10 @@ window._emojiData =
         "x",
         "ray",
         "skeleton",
-        "medicine"
+        "medicine",
+        "рентген",
+        "скелет",
+        "медицина"
       ],
       "skins": [
         {
@@ -31092,7 +36096,10 @@ window._emojiData =
       "keywords": [
         "house",
         "entry",
-        "exit"
+        "exit",
+        "дверь",
+        "вход",
+        "выход"
       ],
       "skins": [
         {
@@ -31106,7 +36113,8 @@ window._emojiData =
       "id": "elevator",
       "name": "Elevator",
       "keywords": [
-        "lift"
+        "lift",
+        "лифт"
       ],
       "skins": [
         {
@@ -31120,7 +36128,9 @@ window._emojiData =
       "id": "mirror",
       "name": "Mirror",
       "keywords": [
-        "reflection"
+        "reflection",
+        "зеркало",
+        "отражение"
       ],
       "skins": [
         {
@@ -31134,7 +36144,9 @@ window._emojiData =
       "id": "window",
       "name": "Window",
       "keywords": [
-        "scenery"
+        "scenery",
+        "окно",
+        "пейзаж"
       ],
       "skins": [
         {
@@ -31149,7 +36161,10 @@ window._emojiData =
       "name": "Bed",
       "keywords": [
         "sleep",
-        "rest"
+        "rest",
+        "кровать",
+        "сон",
+        "отдых"
       ],
       "skins": [
         {
@@ -31164,7 +36179,10 @@ window._emojiData =
       "name": "Couch and Lamp",
       "keywords": [
         "read",
-        "chill"
+        "chill",
+        "диван и лампа",
+        "чтение",
+        "отдых"
       ],
       "skins": [
         {
@@ -31179,7 +36197,9 @@ window._emojiData =
       "name": "Chair",
       "keywords": [
         "sit",
-        "furniture"
+        "furniture",
+        "стул",
+        "мебель"
       ],
       "skins": [
         {
@@ -31197,7 +36217,10 @@ window._emojiData =
         "wc",
         "washroom",
         "bathroom",
-        "potty"
+        "potty",
+        "туалет",
+        "ванная",
+        "уборная"
       ],
       "skins": [
         {
@@ -31211,7 +36234,9 @@ window._emojiData =
       "id": "plunger",
       "name": "Plunger",
       "keywords": [
-        "toilet"
+        "toilet",
+        "вантуз",
+        "туалет"
       ],
       "skins": [
         {
@@ -31227,7 +36252,10 @@ window._emojiData =
       "keywords": [
         "clean",
         "water",
-        "bathroom"
+        "bathroom",
+        "душ",
+        "вода",
+        "ванная"
       ],
       "skins": [
         {
@@ -31243,7 +36271,10 @@ window._emojiData =
       "keywords": [
         "clean",
         "shower",
-        "bathroom"
+        "bathroom",
+        "ванна",
+        "душ",
+        "ванная"
       ],
       "skins": [
         {
@@ -31257,7 +36288,9 @@ window._emojiData =
       "id": "mouse_trap",
       "name": "Mouse Trap",
       "keywords": [
-        "cheese"
+        "cheese",
+        "мышеловка",
+        "сыр"
       ],
       "skins": [
         {
@@ -31271,7 +36304,9 @@ window._emojiData =
       "id": "razor",
       "name": "Razor",
       "keywords": [
-        "cut"
+        "cut",
+        "бритва",
+        "резать"
       ],
       "skins": [
         {
@@ -31286,7 +36321,10 @@ window._emojiData =
       "name": "Lotion Bottle",
       "keywords": [
         "moisturizer",
-        "sunscreen"
+        "sunscreen",
+        "лосьон",
+        "увлажнитель",
+        "солнцезащитный крем"
       ],
       "skins": [
         {
@@ -31300,7 +36338,9 @@ window._emojiData =
       "id": "safety_pin",
       "name": "Safety Pin",
       "keywords": [
-        "diaper"
+        "diaper",
+        "булавка",
+        "подгузник"
       ],
       "skins": [
         {
@@ -31316,7 +36356,10 @@ window._emojiData =
       "keywords": [
         "cleaning",
         "sweeping",
-        "witch"
+        "witch",
+        "метла",
+        "уборка",
+        "ведьма"
       ],
       "skins": [
         {
@@ -31330,7 +36373,9 @@ window._emojiData =
       "id": "basket",
       "name": "Basket",
       "keywords": [
-        "laundry"
+        "laundry",
+        "корзина",
+        "прачечная"
       ],
       "skins": [
         {
@@ -31343,7 +36388,10 @@ window._emojiData =
     "roll_of_paper": {
       "id": "roll_of_paper",
       "name": "Roll of Paper",
-      "keywords": [],
+      "keywords": [
+        "бумага",
+        "туалетная бумага"
+      ],
       "skins": [
         {
           "unified": "1f9fb",
@@ -31357,7 +36405,10 @@ window._emojiData =
       "name": "Bucket",
       "keywords": [
         "water",
-        "container"
+        "container",
+        "ведро",
+        "вода",
+        "контейнер"
       ],
       "skins": [
         {
@@ -31374,7 +36425,11 @@ window._emojiData =
         "bar",
         "bathing",
         "cleaning",
-        "lather"
+        "lather",
+        "мыло",
+        "купание",
+        "уборка",
+        "пена"
       ],
       "skins": [
         {
@@ -31391,7 +36446,11 @@ window._emojiData =
         "soap",
         "fun",
         "carbonation",
-        "sparkling"
+        "sparkling",
+        "пузыри",
+        "мыло",
+        "веселье",
+        "газирование"
       ],
       "skins": [
         {
@@ -31406,7 +36465,10 @@ window._emojiData =
       "name": "Toothbrush",
       "keywords": [
         "hygiene",
-        "dental"
+        "dental",
+        "зубная щетка",
+        "гигиена",
+        "зубы"
       ],
       "skins": [
         {
@@ -31422,7 +36484,10 @@ window._emojiData =
       "keywords": [
         "absorbing",
         "cleaning",
-        "porous"
+        "porous",
+        "губка",
+        "уборка",
+        "пористый"
       ],
       "skins": [
         {
@@ -31436,7 +36501,9 @@ window._emojiData =
       "id": "fire_extinguisher",
       "name": "Fire Extinguisher",
       "keywords": [
-        "quench"
+        "quench",
+        "огнетушитель",
+        "тушение"
       ],
       "skins": [
         {
@@ -31450,7 +36517,9 @@ window._emojiData =
       "id": "shopping_trolley",
       "name": "Shopping Cart",
       "keywords": [
-        "trolley"
+        "trolley",
+        "тележка",
+        "покупки"
       ],
       "skins": [
         {
@@ -31468,7 +36537,11 @@ window._emojiData =
         "kills",
         "tobacco",
         "joint",
-        "smoke"
+        "smoke",
+        "сигарета",
+        "курение",
+        "табак",
+        "дым"
       ],
       "skins": [
         {
@@ -31491,7 +36564,11 @@ window._emojiData =
         "cemetery",
         "casket",
         "funeral",
-        "box"
+        "box",
+        "гроб",
+        "смерть",
+        "кладбище",
+        "похороны"
       ],
       "skins": [
         {
@@ -31507,7 +36584,10 @@ window._emojiData =
       "keywords": [
         "death",
         "rip",
-        "grave"
+        "grave",
+        "надгробие",
+        "смерть",
+        "могила"
       ],
       "skins": [
         {
@@ -31525,7 +36605,10 @@ window._emojiData =
         "die",
         "death",
         "rip",
-        "ashes"
+        "ashes",
+        "урна",
+        "смерть",
+        "прах"
       ],
       "skins": [
         {
@@ -31540,7 +36623,10 @@ window._emojiData =
       "name": "Nazar Amulet",
       "keywords": [
         "bead",
-        "charm"
+        "charm",
+        "назар",
+        "амулет",
+        "оберег"
       ],
       "skins": [
         {
@@ -31555,7 +36641,10 @@ window._emojiData =
       "name": "Hamsa",
       "keywords": [
         "religion",
-        "protection"
+        "protection",
+        "хамса",
+        "религия",
+        "защита"
       ],
       "skins": [
         {
@@ -31572,7 +36661,10 @@ window._emojiData =
         "moyai",
         "rock",
         "easter",
-        "island"
+        "island",
+        "моаи",
+        "камень",
+        "остров Пасхи"
       ],
       "skins": [
         {
@@ -31586,7 +36678,9 @@ window._emojiData =
       "id": "placard",
       "name": "Placard",
       "keywords": [
-        "announcement"
+        "announcement",
+        "плакат",
+        "объявление"
       ],
       "skins": [
         {
@@ -31600,7 +36694,9 @@ window._emojiData =
       "id": "identification_card",
       "name": "Identification Card",
       "keywords": [
-        "document"
+        "document",
+        "удостоверение",
+        "документ"
       ],
       "skins": [
         {
@@ -31620,7 +36716,11 @@ window._emojiData =
         "blue",
         "square",
         "payment",
-        "bank"
+        "bank",
+        "банкомат",
+        "деньги",
+        "платеж",
+        "банк"
       ],
       "skins": [
         {
@@ -31640,7 +36740,9 @@ window._emojiData =
         "blue",
         "square",
         "human",
-        "info"
+        "info",
+        "мусор в урну",
+        "информация"
       ],
       "skins": [
         {
@@ -31659,7 +36761,10 @@ window._emojiData =
         "liquid",
         "restroom",
         "cleaning",
-        "faucet"
+        "faucet",
+        "питьевая вода",
+        "кран",
+        "уборная"
       ],
       "skins": [
         {
@@ -31676,7 +36781,9 @@ window._emojiData =
         "blue",
         "square",
         "disabled",
-        "accessibility"
+        "accessibility",
+        "инвалидная коляска",
+        "доступность"
       ],
       "skins": [
         {
@@ -31699,7 +36806,10 @@ window._emojiData =
         "blue",
         "square",
         "gender",
-        "male"
+        "male",
+        "мужской туалет",
+        "мужчина",
+        "уборная"
       ],
       "skins": [
         {
@@ -31723,7 +36833,10 @@ window._emojiData =
         "toilet",
         "loo",
         "restroom",
-        "gender"
+        "gender",
+        "женский туалет",
+        "женщина",
+        "уборная"
       ],
       "skins": [
         {
@@ -31742,7 +36855,10 @@ window._emojiData =
         "toilet",
         "refresh",
         "wc",
-        "gender"
+        "gender",
+        "туалет",
+        "уборная",
+        "освежиться"
       ],
       "skins": [
         {
@@ -31758,7 +36874,9 @@ window._emojiData =
       "keywords": [
         "orange",
         "square",
-        "child"
+        "child",
+        "ребенок",
+        "младенец"
       ],
       "skins": [
         {
@@ -31776,7 +36894,9 @@ window._emojiData =
         "toilet",
         "restroom",
         "blue",
-        "square"
+        "square",
+        "туалет",
+        "уборная"
       ],
       "skins": [
         {
@@ -31792,7 +36912,9 @@ window._emojiData =
       "keywords": [
         "custom",
         "blue",
-        "square"
+        "square",
+        "паспортный контроль",
+        "таможня"
       ],
       "skins": [
         {
@@ -31809,7 +36931,10 @@ window._emojiData =
         "passport",
         "border",
         "blue",
-        "square"
+        "square",
+        "таможня",
+        "паспорт",
+        "граница"
       ],
       "skins": [
         {
@@ -31826,7 +36951,10 @@ window._emojiData =
         "blue",
         "square",
         "airport",
-        "transport"
+        "transport",
+        "выдача багажа",
+        "аэропорт",
+        "транспорт"
       ],
       "skins": [
         {
@@ -31842,7 +36970,9 @@ window._emojiData =
       "keywords": [
         "blue",
         "square",
-        "travel"
+        "travel",
+        "камера хранения",
+        "путешествие"
       ],
       "skins": [
         {
@@ -31861,7 +36991,10 @@ window._emojiData =
         "alert",
         "error",
         "problem",
-        "issue"
+        "issue",
+        "предупреждение",
+        "тревога",
+        "проблема"
       ],
       "skins": [
         {
@@ -31881,7 +37014,11 @@ window._emojiData =
         "sign",
         "driving",
         "yellow",
-        "diamond"
+        "diamond",
+        "переход детей",
+        "школа",
+        "опасность",
+        "знак"
       ],
       "skins": [
         {
@@ -31901,7 +37038,10 @@ window._emojiData =
         "bad",
         "denied",
         "stop",
-        "circle"
+        "circle",
+        "вход запрещен",
+        "безопасность",
+        "стоп"
       ],
       "skins": [
         {
@@ -31923,7 +37063,10 @@ window._emojiData =
         "limit",
         "denied",
         "disallow",
-        "circle"
+        "circle",
+        "запрещено",
+        "стоп",
+        "ограничение"
       ],
       "skins": [
         {
@@ -31939,7 +37082,9 @@ window._emojiData =
       "keywords": [
         "cyclist",
         "prohibited",
-        "circle"
+        "circle",
+        "велосипеды запрещены",
+        "запрещено"
       ],
       "skins": [
         {
@@ -31957,7 +37102,10 @@ window._emojiData =
         "blue",
         "square",
         "smell",
-        "smoke"
+        "smoke",
+        "курение запрещено",
+        "сигарета",
+        "дым"
       ],
       "skins": [
         {
@@ -31977,7 +37125,10 @@ window._emojiData =
         "trash",
         "bin",
         "garbage",
-        "circle"
+        "circle",
+        "мусорить запрещено",
+        "мусор",
+        "корзина"
       ],
       "skins": [
         {
@@ -31996,7 +37147,9 @@ window._emojiData =
         "drink",
         "faucet",
         "tap",
-        "circle"
+        "circle",
+        "непитьевая вода",
+        "кран"
       ],
       "skins": [
         {
@@ -32013,7 +37166,10 @@ window._emojiData =
         "rules",
         "crossing",
         "walking",
-        "circle"
+        "circle",
+        "пешеходы запрещены",
+        "переход",
+        "ходьба"
       ],
       "skins": [
         {
@@ -32029,7 +37185,9 @@ window._emojiData =
       "keywords": [
         "iphone",
         "mute",
-        "circle"
+        "circle",
+        "мобильные телефоны запрещены",
+        "тишина"
       ],
       "skins": [
         {
@@ -32049,7 +37207,11 @@ window._emojiData =
         "pub",
         "night",
         "minor",
-        "circle"
+        "circle",
+        "несовершеннолетним вход запрещен",
+        "напитки",
+        "паб",
+        "ночь"
       ],
       "skins": [
         {
@@ -32065,7 +37227,10 @@ window._emojiData =
       "keywords": [
         "sign",
         "nuclear",
-        "danger"
+        "danger",
+        "радиоактивность",
+        "ядерный",
+        "опасность"
       ],
       "skins": [
         {
@@ -32080,7 +37245,11 @@ window._emojiData =
       "name": "Biohazard",
       "keywords": [
         "sign",
-        "danger"
+        "dangerJuneItem danger",
+        "biohazard",
+        "биоопасность",
+        "знак",
+        "опасность"
       ],
       "skins": [
         {
@@ -32098,7 +37267,11 @@ window._emojiData =
         "square",
         "continue",
         "top",
-        "direction"
+        "direction",
+        "стрелка вверх",
+        "продолжить",
+        "верх",
+        "направление"
       ],
       "skins": [
         {
@@ -32120,7 +37293,13 @@ window._emojiData =
         "point",
         "direction",
         "diagonal",
-        "northeast"
+        "northeast",
+        "стрелка вверх-вправо",
+        "верх",
+        "право",
+        "направление",
+        "диагональ",
+        "северо-восток"
       ],
       "skins": [
         {
@@ -32136,7 +37315,9 @@ window._emojiData =
       "keywords": [
         "blue",
         "square",
-        "next"
+        "next",
+        "стрелка вправо",
+        "следующий"
       ],
       "skins": [
         {
@@ -32157,7 +37338,13 @@ window._emojiData =
         "square",
         "direction",
         "diagonal",
-        "southeast"
+        "southeast",
+        "стрелка вниз-вправо",
+        "низ",
+        "право",
+        "направление",
+        "диагональ",
+        "юго-восток"
       ],
       "skins": [
         {
@@ -32174,7 +37361,10 @@ window._emojiData =
         "blue",
         "square",
         "direction",
-        "bottom"
+        "bottom",
+        "стрелка вниз",
+        "низ",
+        "направление"
       ],
       "skins": [
         {
@@ -32195,7 +37385,13 @@ window._emojiData =
         "square",
         "direction",
         "diagonal",
-        "southwest"
+        "southwest",
+        "стрелка вниз-влево",
+        "низ",
+        "лево",
+        "направление",
+        "диагональ",
+        "юго-запад"
       ],
       "skins": [
         {
@@ -32212,11 +37408,14 @@ window._emojiData =
         "blue",
         "square",
         "previous",
-        "back"
+        "back",
+        "стрелка влево",
+        "предыдущий",
+        "назад"
       ],
       "skins": [
         {
-          "unified": "2b05-fe0f",
+          "unified": "2b05-fe0f nagu",
           "native": "⬅️"
         }
       ],
@@ -32234,7 +37433,13 @@ window._emojiData =
         "point",
         "direction",
         "diagonal",
-        "northwest"
+        "northwest",
+        "стрелка вверх-влево",
+        "верх",
+        "лево",
+        "направление",
+        "диагональ",
+        "северо-запад"
       ],
       "skins": [
         {
@@ -32252,7 +37457,10 @@ window._emojiData =
         "square",
         "direction",
         "way",
-        "vertical"
+        "vertical",
+        "стрелка вверх-вниз",
+        "направление",
+        "вертикаль"
       ],
       "skins": [
         {
@@ -32269,7 +37477,10 @@ window._emojiData =
         "shape",
         "direction",
         "horizontal",
-        "sideways"
+        "sideways",
+        "стрелка влево-вправо",
+        "направление",
+        "горизонталь"
       ],
       "skins": [
         {
@@ -32291,7 +37502,12 @@ window._emojiData =
         "blue",
         "square",
         "undo",
-        "enter"
+        "enter",
+        "стрелка вправо с поворотом влево",
+        "назад",
+        "возврат",
+        "отмена",
+        "ввод"
       ],
       "skins": [
         {
@@ -32310,7 +37526,11 @@ window._emojiData =
         "square",
         "return",
         "rotate",
-        "direction"
+        "direction",
+        "стрелка влево с поворотом вправо",
+        "возврат",
+        "поворот",
+        "направление"
       ],
       "skins": [
         {
@@ -32328,7 +37548,10 @@ window._emojiData =
         "blue",
         "square",
         "direction",
-        "top"
+        "top",
+        "стрелка вправо с поворотом вверх",
+        "направление",
+        "верх"
       ],
       "skins": [
         {
@@ -32346,7 +37569,10 @@ window._emojiData =
         "blue",
         "square",
         "direction",
-        "bottom"
+        "bottom",
+        "стрелка вправо с поворотом вниз",
+        "направление",
+        "низ"
       ],
       "skins": [
         {
@@ -32363,7 +37589,11 @@ window._emojiData =
         "sync",
         "cycle",
         "round",
-        "repeat"
+        "repeat",
+        "стрелки по часовой стрелке",
+        "синхронизация",
+        "цикл",
+        "повтор"
       ],
       "skins": [
         {
@@ -32380,7 +37610,10 @@ window._emojiData =
         "blue",
         "square",
         "sync",
-        "cycle"
+        "cycle",
+        "стрелки против часовой стрелки",
+        "синхронизация",
+        "цикл"
       ],
       "skins": [
         {
@@ -32395,7 +37628,9 @@ window._emojiData =
       "name": "Back Arrow",
       "keywords": [
         "words",
-        "return"
+        "return",
+        "назад",
+        "возврат"
       ],
       "skins": [
         {
@@ -32409,7 +37644,8 @@ window._emojiData =
       "id": "end",
       "name": "End Arrow",
       "keywords": [
-        "words"
+        "words",
+        "конец"
       ],
       "skins": [
         {
@@ -32424,7 +37660,8 @@ window._emojiData =
       "name": "On! Arrow",
       "keywords": [
         "on",
-        "words"
+        "words",
+        "включено"
       ],
       "skins": [
         {
@@ -32438,7 +37675,8 @@ window._emojiData =
       "id": "soon",
       "name": "Soon Arrow",
       "keywords": [
-        "words"
+        "words",
+        "скоро"
       ],
       "skins": [
         {
@@ -32454,7 +37692,8 @@ window._emojiData =
       "keywords": [
         "words",
         "blue",
-        "square"
+        "square",
+        "верх"
       ],
       "skins": [
         {
@@ -32471,7 +37710,12 @@ window._emojiData =
         "religion",
         "church",
         "temple",
-        "prayer"
+        "prayer",
+        "место поклонения",
+        "религия",
+        "церковь",
+        "храм",
+        "молитва"
       ],
       "skins": [
         {
@@ -32487,7 +37731,11 @@ window._emojiData =
       "keywords": [
         "science",
         "physics",
-        "chemistry"
+        "chemistry",
+        "символ атома",
+        "наука",
+        "физика",
+        "химия"
       ],
       "skins": [
         {
@@ -32505,7 +37753,12 @@ window._emojiData =
         "hinduism",
         "buddhism",
         "sikhism",
-        "jainism"
+        "jainism",
+        "символ ом",
+        "индуизм",
+        "буддизм",
+        "сикхизм",
+        "джайнизм"
       ],
       "skins": [
         {
@@ -32519,7 +37772,9 @@ window._emojiData =
       "id": "star_of_david",
       "name": "Star of David",
       "keywords": [
-        "judaism"
+        "judaism",
+        "звезда Давида",
+        "иудаизм"
       ],
       "skins": [
         {
@@ -32536,7 +37791,12 @@ window._emojiData =
         "hinduism",
         "buddhism",
         "sikhism",
-        "jainism"
+        "jainism",
+        "колесо дхармы",
+        "индуизм",
+        "буддизм",
+        "сикхизм",
+        "джайнизм"
       ],
       "skins": [
         {
@@ -32550,7 +37810,9 @@ window._emojiData =
       "id": "yin_yang",
       "name": "Yin Yang",
       "keywords": [
-        "balance"
+        "balance",
+        "инь-янь",
+        "баланс"
       ],
       "skins": [
         {
@@ -32564,7 +37826,9 @@ window._emojiData =
       "id": "latin_cross",
       "name": "Latin Cross",
       "keywords": [
-        "christianity"
+        "christianity",
+        "латинский крест",
+        "христианство"
       ],
       "skins": [
         {
@@ -32579,7 +37843,9 @@ window._emojiData =
       "name": "Orthodox Cross",
       "keywords": [
         "suppedaneum",
-        "religion"
+        "religion",
+        "православный крест",
+        "религия"
       ],
       "skins": [
         {
@@ -32593,7 +37859,9 @@ window._emojiData =
       "id": "star_and_crescent",
       "name": "Star and Crescent",
       "keywords": [
-        "islam"
+        "islam",
+        "звезда и полумесяц",
+        "ислам"
       ],
       "skins": [
         {
@@ -32607,7 +37875,9 @@ window._emojiData =
       "id": "peace_symbol",
       "name": "Peace Symbol",
       "keywords": [
-        "hippie"
+        "hippie",
+        "символ мира",
+        "хиппи"
       ],
       "skins": [
         {
@@ -32626,7 +37896,11 @@ window._emojiData =
         "branches",
         "hanukkah",
         "candles",
-        "jewish"
+        "jewish",
+        "менора",
+        "ханука",
+        "свечи",
+        "еврейский"
       ],
       "skins": [
         {
@@ -32646,7 +37920,11 @@ window._emojiData =
         "square",
         "religion",
         "jewish",
-        "hexagram"
+        "hexagram",
+        "шестиконечная звезда",
+        "религия",
+        "еврейский",
+        "гексаграмма"
       ],
       "skins": [
         {
@@ -32661,7 +37939,10 @@ window._emojiData =
       "name": "Khanda",
       "keywords": [
         "Sikhism",
-        "religion"
+        "religion",
+        "кханда",
+        "сикхизм",
+        "религия"
       ],
       "skins": [
         {
@@ -32679,7 +37960,11 @@ window._emojiData =
         "purple",
         "square",
         "zodiac",
-        "astrology"
+        "astrology",
+        "овен",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32697,7 +37982,11 @@ window._emojiData =
         "square",
         "sign",
         "zodiac",
-        "astrology"
+        "astrology",
+        "телец",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32715,7 +38004,11 @@ window._emojiData =
         "zodiac",
         "purple",
         "square",
-        "astrology"
+        "astrology",
+        "близнецы",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32733,7 +38026,11 @@ window._emojiData =
         "zodiac",
         "purple",
         "square",
-        "astrology"
+        "astrology",
+        "рак",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32751,7 +38048,11 @@ window._emojiData =
         "purple",
         "square",
         "zodiac",
-        "astrology"
+        "astrology",
+        "лев",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32769,7 +38070,11 @@ window._emojiData =
         "zodiac",
         "purple",
         "square",
-        "astrology"
+        "astrology",
+        "дева",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32787,7 +38092,11 @@ window._emojiData =
         "purple",
         "square",
         "zodiac",
-        "astrology"
+        "astrology",
+        "весы",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32806,7 +38115,11 @@ window._emojiData =
         "zodiac",
         "purple",
         "square",
-        "astrology"
+        "astrology",
+        "скорпион",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32824,7 +38137,11 @@ window._emojiData =
         "zodiac",
         "purple",
         "square",
-        "astrology"
+        "astrology",
+        "стрелец",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32842,7 +38159,11 @@ window._emojiData =
         "zodiac",
         "purple",
         "square",
-        "astrology"
+        "astrology",
+        "козерог",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32860,7 +38181,11 @@ window._emojiData =
         "purple",
         "square",
         "zodiac",
-        "astrology"
+        "astrology",
+        "водолей",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32878,7 +38203,11 @@ window._emojiData =
         "square",
         "sign",
         "zodiac",
-        "astrology"
+        "astrology",
+        "рыбы",
+        "знак",
+        "зодиак",
+        "астрология"
       ],
       "skins": [
         {
@@ -32896,7 +38225,11 @@ window._emojiData =
         "purple",
         "square",
         "constellation",
-        "astrology"
+        "astrology",
+        "змееносец",
+        "знак",
+        "созвездие",
+        "астрология"
       ],
       "skins": [
         {
@@ -32916,7 +38249,10 @@ window._emojiData =
         "blue",
         "square",
         "music",
-        "random"
+        "random",
+        "перемешать треки",
+        "музыка",
+        "случайный"
       ],
       "skins": [
         {
@@ -32931,7 +38267,10 @@ window._emojiData =
       "name": "Repeat Button",
       "keywords": [
         "loop",
-        "record"
+        "record",
+        "повтор",
+        "цикл",
+        "запись"
       ],
       "skins": [
         {
@@ -32948,7 +38287,9 @@ window._emojiData =
         "one",
         "blue",
         "square",
-        "loop"
+        "loop",
+        "повтор одного",
+        "цикл"
       ],
       "skins": [
         {
@@ -32967,7 +38308,11 @@ window._emojiData =
         "blue",
         "square",
         "right",
-        "direction"
+        "direction",
+        "кнопка воспроизведения",
+        "вперед",
+        "право",
+        "направление"
       ],
       "skins": [
         {
@@ -32987,7 +38332,11 @@ window._emojiData =
         "square",
         "play",
         "speed",
-        "continue"
+        "continue",
+        "быстрая перемотка вперед",
+        "воспроизведение",
+        "скорость",
+        "продолжить"
       ],
       "skins": [
         {
@@ -33011,7 +38360,10 @@ window._emojiData =
         "bar",
         "forward",
         "blue",
-        "square"
+        "square",
+        "следующий трек",
+        "вперед",
+        "кнопка"
       ],
       "skins": [
         {
@@ -33034,7 +38386,9 @@ window._emojiData =
         "vertical",
         "bar",
         "blue",
-        "square"
+        "square",
+        "воспроизведение или пауза",
+        "кнопка"
       ],
       "skins": [
         {
@@ -33053,7 +38407,10 @@ window._emojiData =
         "blue",
         "square",
         "left",
-        "direction"
+        "direction",
+        "обратное воспроизведение",
+        "влево",
+        "направление"
       ],
       "skins": [
         {
@@ -33070,7 +38427,9 @@ window._emojiData =
         "rewind",
         "play",
         "blue",
-        "square"
+        "square",
+        "быстрая перемотка назад",
+        "воспроизведение"
       ],
       "skins": [
         {
@@ -33092,7 +38451,9 @@ window._emojiData =
         "with",
         "vertical",
         "bar",
-        "backward"
+        "backward",
+        "предыдущий трек",
+        "назад"
       ],
       "skins": [
         {
@@ -33115,7 +38476,10 @@ window._emojiData =
         "direction",
         "point",
         "forward",
-        "top"
+        "top",
+        "кнопка вверх",
+        "направление",
+        "верх"
       ],
       "skins": [
         {
@@ -33134,7 +38498,10 @@ window._emojiData =
         "blue",
         "square",
         "direction",
-        "top"
+        "top",
+        "быстрая кнопка вверх",
+        "направление",
+        "верх"
       ],
       "skins": [
         {
@@ -33154,7 +38521,10 @@ window._emojiData =
         "blue",
         "square",
         "direction",
-        "bottom"
+        "bottom",
+        "кнопка вниз",
+        "направление",
+        "низ"
       ],
       "skins": [
         {
@@ -33173,7 +38543,10 @@ window._emojiData =
         "blue",
         "square",
         "direction",
-        "bottom"
+        "bottom",
+        "быстрая кнопка вниз",
+        "направление",
+        "низ"
       ],
       "skins": [
         {
@@ -33191,7 +38564,8 @@ window._emojiData =
         "vertical",
         "bar",
         "blue",
-        "square"
+        "square",
+        "кнопка паузы"
       ],
       "skins": [
         {
@@ -33208,7 +38582,8 @@ window._emojiData =
         "black",
         "square",
         "for",
-        "blue"
+        "blue",
+        "кнопка стоп"
       ],
       "skins": [
         {
@@ -33226,7 +38601,8 @@ window._emojiData =
         "circle",
         "for",
         "blue",
-        "square"
+        "square",
+        "кнопка записи"
       ],
       "skins": [
         {
@@ -33241,7 +38617,8 @@ window._emojiData =
       "name": "Eject Button",
       "keywords": [
         "blue",
-        "square"
+        "square",
+        "кнопка извлечения"
       ],
       "skins": [
         {
@@ -33262,7 +38639,11 @@ window._emojiData =
         "movie",
         "curtain",
         "stage",
-        "theater"
+        "theater",
+        "кино",
+        "фильм",
+        "театр",
+        "занавес"
       ],
       "skins": [
         {
@@ -33281,7 +38662,10 @@ window._emojiData =
         "sun",
         "afternoon",
         "warm",
-        "summer"
+        "summer",
+        "низкая яркость",
+        "солнце",
+        "лето"
       ],
       "skins": [
         {
@@ -33298,7 +38682,10 @@ window._emojiData =
         "high",
         "brightness",
         "sun",
-        "light"
+        "light",
+        "высокая яркость",
+        "солнце",
+        "свет"
       ],
       "skins": [
         {
@@ -33321,7 +38708,11 @@ window._emojiData =
         "internet",
         "connection",
         "wifi",
-        "bluetooth"
+        "bluetooth",
+        "уровень сигнала",
+        "интернет",
+        "связь",
+        "вайфай"
       ],
       "skins": [
         {
@@ -33338,7 +38729,11 @@ window._emojiData =
         "wifi",
         "internet",
         "contactless",
-        "signal"
+        "signal",
+        "беспроводной",
+        "вайфай",
+        "интернет",
+        "сигнал"
       ],
       "skins": [
         {
@@ -33354,7 +38749,9 @@ window._emojiData =
       "keywords": [
         "orange",
         "square",
-        "phone"
+        "phone",
+        "режим вибрации",
+        "телефон"
       ],
       "skins": [
         {
@@ -33372,7 +38769,9 @@ window._emojiData =
         "orange",
         "square",
         "silence",
-        "quiet"
+        "quiet",
+        "телефон выключен",
+        "тишина"
       ],
       "skins": [
         {
@@ -33389,7 +38788,10 @@ window._emojiData =
         "woman",
         "women",
         "lady",
-        "girl"
+        "girl",
+        "женский знак",
+        "женщина",
+        "девочка"
       ],
       "skins": [
         {
@@ -33405,7 +38807,10 @@ window._emojiData =
       "keywords": [
         "man",
         "boy",
-        "men"
+        "men",
+        "мужской знак",
+        "мужчина",
+        "мальчик"
       ],
       "skins": [
         {
@@ -33419,7 +38824,9 @@ window._emojiData =
       "id": "transgender_symbol",
       "name": "Transgender Symbol",
       "keywords": [
-        "lgbtq"
+        "lgbtq",
+        "трансгендерный символ",
+        "ЛГБТ"
       ],
       "skins": [
         {
@@ -33438,7 +38845,10 @@ window._emojiData =
         "x",
         "sign",
         "math",
-        "calculation"
+        "calculation",
+        "умножение",
+        "математика",
+        "вычисление"
       ],
       "skins": [
         {
@@ -33458,7 +38868,11 @@ window._emojiData =
         "calculation",
         "addition",
         "more",
-        "increase"
+        "increase",
+        "плюс",
+        "математика",
+        "сложение",
+        "увеличение"
       ],
       "skins": [
         {
@@ -33477,7 +38891,11 @@ window._emojiData =
         "math",
         "calculation",
         "subtract",
-        "less"
+        "less",
+        "минус",
+        "математика",
+        "вычитание",
+        "уменьшение"
       ],
       "skins": [
         {
@@ -33495,7 +38913,10 @@ window._emojiData =
         "division",
         "sign",
         "math",
-        "calculation"
+        "calculation",
+        "деление",
+        "математика",
+        "вычисление"
       ],
       "skins": [
         {
@@ -33509,7 +38930,9 @@ window._emojiData =
       "id": "heavy_equals_sign",
       "name": "Heavy Equals Sign",
       "keywords": [
-        "math"
+        "math",
+        "равно",
+        "математика"
       ],
       "skins": [
         {
@@ -33523,7 +38946,9 @@ window._emojiData =
       "id": "infinity",
       "name": "Infinity",
       "keywords": [
-        "forever"
+        "forever",
+        "бесконечность",
+        "навсегда"
       ],
       "skins": [
         {
@@ -33538,7 +38963,9 @@ window._emojiData =
       "name": "Double Exclamation Mark",
       "keywords": [
         "bangbang",
-        "surprise"
+        "surprise",
+        "двойной восклицательный знак",
+        "удивление"
       ],
       "skins": [
         {
@@ -33555,7 +38982,10 @@ window._emojiData =
         "interrobang",
         "wat",
         "punctuation",
-        "surprise"
+        "surprise",
+        "восклицательный вопросительный знак",
+        "удивление",
+        "пунктуация"
       ],
       "skins": [
         {
@@ -33570,7 +39000,10 @@ window._emojiData =
       "name": "Red Question Mark",
       "keywords": [
         "doubt",
-        "confused"
+        "confused",
+        "красный вопросительный знак",
+        "сомнение",
+        "запутанность"
       ],
       "skins": [
         {
@@ -33588,7 +39021,10 @@ window._emojiData =
         "doubts",
         "gray",
         "huh",
-        "confused"
+        "confused",
+        "белый вопросительный знак",
+        "сом DitItem сомнения",
+        "запутанность"
       ],
       "skins": [
         {
@@ -33607,7 +39043,11 @@ window._emojiData =
         "punctuation",
         "gray",
         "wow",
-        "warning"
+        "warning",
+        "белый восклицательный знак",
+        "удивление",
+        "пунктуация",
+        "предупреждение"
       ],
       "skins": [
         {
@@ -33626,7 +39066,12 @@ window._emojiData =
         "surprise",
         "punctuation",
         "wow",
-        "warning"
+        "warning",
+        "красный восклицательный знак",
+        "опасность",
+        "удивление",
+        "пунктуация",
+        "предупреждение"
       ],
       "skins": [
         {
@@ -33645,7 +39090,11 @@ window._emojiData =
         "moustache",
         "mustache",
         "squiggle",
-        "scribble"
+        "scribble",
+        "волнистая черта",
+        "линия",
+        "усы",
+        "каракули"
       ],
       "skins": [
         {
@@ -33662,7 +39111,11 @@ window._emojiData =
         "money",
         "sales",
         "dollar",
-        "travel"
+        "travel",
+        "обмен валют",
+        "деньги",
+        "доллар",
+        "путешествие"
       ],
       "skins": [
         {
@@ -33680,7 +39133,11 @@ window._emojiData =
         "sales",
         "payment",
         "currency",
-        "buck"
+        "buck",
+        "тяжелый знак доллара",
+        "деньги",
+        "платеж",
+        "валюта"
       ],
       "skins": [
         {
@@ -33698,7 +39155,10 @@ window._emojiData =
         "of",
         "aesculapius",
         "health",
-        "hospital"
+        "hospital",
+        "медицинский символ",
+        "здоровье",
+        "больница"
       ],
       "skins": [
         {
@@ -33716,7 +39176,11 @@ window._emojiData =
         "arrow",
         "environment",
         "garbage",
-        "trash"
+        "trash",
+        "символ переработки",
+        "стрелка",
+        "окружающая среда",
+        "мусор"
       ],
       "skins": [
         {
@@ -33734,7 +39198,10 @@ window._emojiData =
         "de",
         "lis",
         "decorative",
-        "scout"
+        "scout",
+        "флер-де-лис",
+        "декоративный",
+        "скаут"
       ],
       "skins": [
         {
@@ -33749,7 +39216,10 @@ window._emojiData =
       "name": "Trident Emblem",
       "keywords": [
         "weapon",
-        "spear"
+        "spear",
+        "трезубец",
+        "оружие",
+        "копье"
       ],
       "skins": [
         {
@@ -33764,7 +39234,10 @@ window._emojiData =
       "name": "Name Badge",
       "keywords": [
         "fire",
-        "forbid"
+        "forbid",
+        "бейдж с именем",
+        "огонь",
+        "запрет"
       ],
       "skins": [
         {
@@ -33779,7 +39252,10 @@ window._emojiData =
       "name": "Japanese Symbol for Beginner",
       "keywords": [
         "badge",
-        "shield"
+        "shield",
+        "японский символ для начинающих",
+        "значок",
+        "щит"
       ],
       "skins": [
         {
@@ -33794,7 +39270,9 @@ window._emojiData =
       "name": "Hollow Red Circle",
       "keywords": [
         "o",
-        "round"
+        "round",
+        "полый красный круг",
+        "круглый"
       ],
       "skins": [
         {
@@ -33816,7 +39294,15 @@ window._emojiData =
         "vote",
         "election",
         "answer",
-        "tick"
+        "tick",
+        "белая галочка",
+        "зеленый",
+        "квадрат",
+        "ок",
+        "согласен",
+        "голосование",
+        "ответ",
+        "галочка"
       ],
       "skins": [
         {
@@ -33839,7 +39325,16 @@ window._emojiData =
         "vote",
         "election",
         "yes",
-        "tick"
+        "tick",
+        "бюллетень с галочкой",
+        "ок",
+        "согласен",
+        "подтвердить",
+        "черный",
+        "квадрат",
+        "голосование",
+        "да",
+        "галочка"
       ],
       "skins": [
         {
@@ -33858,7 +39353,12 @@ window._emojiData =
         "nike",
         "answer",
         "yes",
-        "tick"
+        "tick",
+        "тяжелая галочка",
+        "ок",
+        "ответ",
+        "да",
+        "галочка"
       ],
       "skins": [
         {
@@ -33877,7 +39377,12 @@ window._emojiData =
         "delete",
         "remove",
         "cancel",
-        "red"
+        "red",
+        "крест",
+        "нет",
+        "удалить",
+        "отменить",
+        "красный"
       ],
       "skins": [
         {
@@ -33897,7 +39402,12 @@ window._emojiData =
         "green",
         "square",
         "no",
-        "deny"
+        "deny",
+        "отрицательный крест",
+        "квадрат",
+        "зеленый",
+        "нет",
+        "отказать"
       ],
       "skins": [
         {
@@ -33914,7 +39424,11 @@ window._emojiData =
         "scribble",
         "draw",
         "shape",
-        "squiggle"
+        "squiggle",
+        "завиток",
+        "каракули",
+        "рисовать",
+        "форма"
       ],
       "skins": [
         {
@@ -33929,7 +39443,10 @@ window._emojiData =
       "name": "Double Curly Loop",
       "keywords": [
         "tape",
-        "cassette"
+        "cassette",
+        "двойной завиток",
+        "лента",
+        "кассета"
       ],
       "skins": [
         {
@@ -33948,7 +39465,14 @@ window._emojiData =
         "stats",
         "business",
         "economics",
-        "bad"
+        "bad",
+        "знак чередования частей",
+        "график",
+        "презентация",
+        "статистика",
+        "бизнес",
+        "экономика",
+        "плохо"
       ],
       "skins": [
         {
@@ -33965,7 +39489,12 @@ window._emojiData =
         "star",
         "sparkle",
         "green",
-        "square"
+        "square",
+        "восьмиконечная звездочка",
+        "звезда",
+        "блеск",
+        "зеленый",
+        "квадрат"
       ],
       "skins": [
         {
@@ -33985,7 +39514,12 @@ window._emojiData =
         "orange",
         "square",
         "shape",
-        "polygon"
+        "polygon",
+        "восьмиконечная черная звезда",
+        "оранжевый",
+        "квадрат",
+        "форма",
+        "многоугольник"
       ],
       "skins": [
         {
@@ -34004,7 +39538,10 @@ window._emojiData =
         "square",
         "awesome",
         "good",
-        "fireworks"
+        "fireworks",
+        "искры",
+        "звезды",
+        "фейерверк"
       ],
       "skins": [
         {
@@ -34022,7 +39559,10 @@ window._emojiData =
         "license",
         "circle",
         "law",
-        "legal"
+        "legal",
+        "авторское право",
+        "лицензия",
+        "закон"
       ],
       "skins": [
         {
@@ -34037,7 +39577,9 @@ window._emojiData =
       "name": "Registered",
       "keywords": [
         "alphabet",
-        "circle"
+        "circle",
+        "зарегистрировано",
+        "алфавит"
       ],
       "skins": [
         {
@@ -34055,7 +39597,10 @@ window._emojiData =
         "trademark",
         "brand",
         "law",
-        "legal"
+        "legal",
+        "торговая марка",
+        "бренд",
+        "закон"
       ],
       "skins": [
         {
@@ -34070,11 +39615,13 @@ window._emojiData =
       "name": "Hash Key",
       "keywords": [
         "keycap",
-        "",
         "symbol",
         "blue",
         "square",
-        "twitter"
+        "twitter",
+        "решетка",
+        "символ",
+        "твиттер"
       ],
       "skins": [
         {
@@ -34090,7 +39637,8 @@ window._emojiData =
       "keywords": [
         "keycap",
         "star",
-        ""
+        "звездочка",
+        "клавиша"
       ],
       "skins": [
         {
@@ -34108,7 +39656,9 @@ window._emojiData =
         "numbers",
         "blue",
         "square",
-        "null"
+        "null",
+        "ноль",
+        "числа"
       ],
       "skins": [
         {
@@ -34125,7 +39675,9 @@ window._emojiData =
         "one",
         "blue",
         "square",
-        "numbers"
+        "numbers",
+        "один",
+        "числа"
       ],
       "skins": [
         {
@@ -34143,7 +39695,10 @@ window._emojiData =
         "numbers",
         "prime",
         "blue",
-        "square"
+        "square",
+        "два",
+        "числа",
+        "простое"
       ],
       "skins": [
         {
@@ -34161,7 +39716,10 @@ window._emojiData =
         "numbers",
         "prime",
         "blue",
-        "square"
+        "square",
+        "три",
+        "числа",
+        "простое"
       ],
       "skins": [
         {
@@ -34178,7 +39736,9 @@ window._emojiData =
         "four",
         "numbers",
         "blue",
-        "square"
+        "square",
+        "четыре",
+        "числа"
       ],
       "skins": [
         {
@@ -34196,7 +39756,10 @@ window._emojiData =
         "numbers",
         "blue",
         "square",
-        "prime"
+        "prime",
+        "пять",
+        "числа",
+        "простое"
       ],
       "skins": [
         {
@@ -34213,7 +39776,9 @@ window._emojiData =
         "six",
         "numbers",
         "blue",
-        "square"
+        "square",
+        "шесть",
+        "числа"
       ],
       "skins": [
         {
@@ -34231,7 +39796,10 @@ window._emojiData =
         "numbers",
         "blue",
         "square",
-        "prime"
+        "prime",
+        "семь",
+        "числа",
+        "простое"
       ],
       "skins": [
         {
@@ -34248,7 +39816,9 @@ window._emojiData =
         "eight",
         "blue",
         "square",
-        "numbers"
+        "numbers",
+        "восемь",
+        "числа"
       ],
       "skins": [
         {
@@ -34265,7 +39835,9 @@ window._emojiData =
         "nine",
         "blue",
         "square",
-        "numbers"
+        "numbers",
+        "девять",
+        "числа"
       ],
       "skins": [
         {
@@ -34282,7 +39854,9 @@ window._emojiData =
         "ten",
         "numbers",
         "blue",
-        "square"
+        "square",
+        "десять",
+        "числа"
       ],
       "skins": [
         {
@@ -34301,7 +39875,10 @@ window._emojiData =
         "alphabet",
         "words",
         "blue",
-        "square"
+        "square",
+        "латинские заглавные",
+        "алфавит",
+        "слова"
       ],
       "skins": [
         {
@@ -34318,7 +39895,9 @@ window._emojiData =
         "abcd",
         "blue",
         "square",
-        "alphabet"
+        "alphabet",
+        "латинские строчные",
+        "алфавит"
       ],
       "skins": [
         {
@@ -34339,7 +39918,12 @@ window._emojiData =
         "ampersand",
         "percent",
         "glyphs",
-        "characters"
+        "characters",
+        "символы",
+        "музыка",
+        "нота",
+        "глифы",
+        "знаки"
       ],
       "skins": [
         {
@@ -34356,7 +39940,9 @@ window._emojiData =
         "abc",
         "blue",
         "square",
-        "alphabet"
+        "alphabet",
+        "латинские буквы",
+        "алфавит"
       ],
       "skins": [
         {
@@ -34373,7 +39959,11 @@ window._emojiData =
         "red",
         "square",
         "alphabet",
-        "letter"
+        "letter",
+        "кнопка A",
+        "группа крови",
+        "алфавит",
+        "буква"
       ],
       "skins": [
         {
@@ -34390,7 +39980,10 @@ window._emojiData =
         "button",
         "red",
         "square",
-        "alphabet"
+        "alphabet",
+        "кнопка AB",
+        "группа крови",
+        "алфавит"
       ],
       "skins": [
         {
@@ -34407,7 +40000,11 @@ window._emojiData =
         "red",
         "square",
         "alphabet",
-        "letter"
+        "letter",
+        "кнопка B",
+        "группа крови",
+        "алфавит",
+        "буква"
       ],
       "skins": [
         {
@@ -34424,7 +40021,10 @@ window._emojiData =
         "alphabet",
         "words",
         "red",
-        "square"
+        "square",
+        "кнопка CL",
+        "алфавит",
+        "слова"
       ],
       "skins": [
         {
@@ -34440,7 +40040,9 @@ window._emojiData =
       "keywords": [
         "words",
         "blue",
-        "square"
+        "square",
+        "кнопка COOL",
+        "слова"
       ],
       "skins": [
         {
@@ -34456,7 +40058,9 @@ window._emojiData =
       "keywords": [
         "blue",
         "square",
-        "words"
+        "words",
+        "кнопка FREE",
+        "бесплатно"
       ],
       "skins": [
         {
@@ -34474,7 +40078,11 @@ window._emojiData =
         "blue",
         "square",
         "alphabet",
-        "letter"
+        "letter",
+        "информация",
+        "источник",
+        "алфавит",
+        "буква"
       ],
       "skins": [
         {
@@ -34490,7 +40098,9 @@ window._emojiData =
       "keywords": [
         "purple",
         "square",
-        "words"
+        "words",
+        "кнопка ID",
+        "идентификация"
       ],
       "skins": [
         {
@@ -34507,7 +40117,10 @@ window._emojiData =
         "alphabet",
         "blue",
         "circle",
-        "letter"
+        "letter",
+        "круглый M",
+        "алфавит",
+        "буква"
       ],
       "skins": [
         {
@@ -34524,7 +40137,10 @@ window._emojiData =
         "blue",
         "square",
         "words",
-        "start"
+        "start",
+        "кнопка NEW",
+        "новый",
+        "начало"
       ],
       "skins": [
         {
@@ -34542,7 +40158,10 @@ window._emojiData =
         "square",
         "words",
         "shape",
-        "icon"
+        "icon",
+        "кнопка NG",
+        "не годится",
+        "иконка"
       ],
       "skins": [
         {
@@ -34560,7 +40179,11 @@ window._emojiData =
         "alphabet",
         "red",
         "square",
-        "letter"
+        "letter",
+        "кнопка O",
+        "группа крови",
+        "алфавит",
+        "буква"
       ],
       "skins": [
         {
@@ -34578,7 +40201,11 @@ window._emojiData =
         "agree",
         "yes",
         "blue",
-        "square"
+        "square",
+        "кнопка OK",
+        "хорошо",
+        "согласен",
+        "да"
       ],
       "skins": [
         {
@@ -34597,7 +40224,12 @@ window._emojiData =
         "blue",
         "square",
         "alphabet",
-        "letter"
+        "letter",
+        "кнопка P",
+        "парковка",
+        "машины",
+        "алфавит",
+        "буква"
       ],
       "skins": [
         {
@@ -34616,7 +40248,10 @@ window._emojiData =
         "square",
         "words",
         "emergency",
-        "911"
+        "911",
+        "кнопка SOS",
+        "помощь",
+        "чрезвычайная ситуация"
       ],
       "skins": [
         {
@@ -34634,7 +40269,10 @@ window._emojiData =
         "blue",
         "square",
         "above",
-        "high"
+        "high",
+        "кнопка UP",
+        "вверх",
+        "высоко"
       ],
       "skins": [
         {
@@ -34650,7 +40288,9 @@ window._emojiData =
       "keywords": [
         "words",
         "orange",
-        "square"
+        "square",
+        "кнопка VS",
+        "против"
       ],
       "skins": [
         {
@@ -34669,7 +40309,11 @@ window._emojiData =
         "button",
         "blue",
         "square",
-        "destination"
+        "destination",
+        "японский",
+        "коко",
+        "здесь",
+        "пункт назначения"
       ],
       "skins": [
         {
@@ -34688,7 +40332,11 @@ window._emojiData =
         "charge",
         "button",
         "blue",
-        "square"
+        "square",
+        "японский",
+        "са",
+        "обслуживание",
+        "плата"
       ],
       "skins": [
         {
@@ -34710,7 +40358,12 @@ window._emojiData =
         "moon",
         "orange",
         "square",
-        "kanji"
+        "kanji",
+        "японский",
+        "ежемесячная сумма",
+        "месяц",
+        "луна",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34735,7 +40388,11 @@ window._emojiData =
         "square",
         "chinese",
         "have",
-        "kanji"
+        "kanji",
+        "японский",
+        "не бесплатно",
+        "иметь",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34755,7 +40412,11 @@ window._emojiData =
         "point",
         "green",
         "square",
-        "kanji"
+        "kanji",
+        "японский",
+        "зарезервировано",
+        "указать",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34776,7 +40437,11 @@ window._emojiData =
         "kanji",
         "obtain",
         "get",
-        "circle"
+        "circle",
+        "японский",
+        "выгода",
+        "получить",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34797,7 +40462,11 @@ window._emojiData =
         "chinese",
         "kanji",
         "pink",
-        "square"
+        "square",
+        "японский",
+        "скидка",
+        "разделить",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34818,7 +40487,11 @@ window._emojiData =
         "chinese",
         "kanji",
         "orange",
-        "square"
+        "square",
+        "японский",
+        "бесплатно",
+        "ничего",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34840,7 +40513,11 @@ window._emojiData =
         "limit",
         "restricted",
         "red",
-        "square"
+        "square",
+        "японский",
+        "запрещено",
+        "ограничено",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34864,7 +40541,13 @@ window._emojiData =
         "agree",
         "yes",
         "orange",
-        "circle"
+        "circle",
+        "японский",
+        "приемлемо",
+        "хорошо",
+        "согласен",
+        "да",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34883,7 +40566,10 @@ window._emojiData =
         "chinese",
         "kanji",
         "orange",
-        "square"
+        "square",
+        "японский",
+        "заявление",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34904,7 +40590,11 @@ window._emojiData =
         "join",
         "kanji",
         "red",
-        "square"
+        "square",
+        "японский",
+        "проходной балл",
+        "объединить",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34925,7 +40615,12 @@ window._emojiData =
         "empty",
         "sky",
         "blue",
-        "square"
+        "square",
+        "японский",
+        "вакансия",
+        "пусто",
+        "небо",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34945,7 +40640,10 @@ window._emojiData =
         "chinese",
         "kanji",
         "red",
-        "circle"
+        "circle",
+        "поздравления",
+        "японский",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34966,7 +40664,11 @@ window._emojiData =
         "sshh",
         "kanji",
         "red",
-        "circle"
+        "circle",
+        "секрет",
+        "японский",
+        "конфиденциальность",
+        "кандзи"
       ],
       "skins": [
         {
@@ -34989,7 +40691,11 @@ window._emojiData =
         "opening",
         "hours",
         "orange",
-        "square"
+        "square",
+        "японский",
+        "открыто для бизнеса",
+        "часы работы",
+        "кандзи"
       ],
       "skins": [
         {
@@ -35010,7 +40716,11 @@ window._emojiData =
         "chinese",
         "red",
         "square",
-        "kanji"
+        "kanji",
+        "японский",
+        "нет вакансий",
+        "полный",
+        "кандзи"
       ],
       "skins": [
         {
@@ -35026,7 +40736,11 @@ window._emojiData =
       "keywords": [
         "shape",
         "error",
-        "danger"
+        "danger",
+        "красный круг",
+        "форма",
+        "ошибка",
+        "опасность"
       ],
       "skins": [
         {
@@ -35041,7 +40755,10 @@ window._emojiData =
       "name": "Orange Circle",
       "keywords": [
         "large",
-        "round"
+        "round",
+        "оранжевый круг",
+        "большой",
+        "круглый"
       ],
       "skins": [
         {
@@ -35056,7 +40773,10 @@ window._emojiData =
       "name": "Yellow Circle",
       "keywords": [
         "large",
-        "round"
+        "round",
+        "желтый круг",
+        "большой",
+        "круглый"
       ],
       "skins": [
         {
@@ -35071,7 +40791,10 @@ window._emojiData =
       "name": "Green Circle",
       "keywords": [
         "large",
-        "round"
+        "round",
+        "зеленый круг",
+        "большой",
+        "круглый"
       ],
       "skins": [
         {
@@ -35088,7 +40811,12 @@ window._emojiData =
         "large",
         "shape",
         "icon",
-        "button"
+        "button",
+        "синий круг",
+        "большой",
+        "форма",
+        "иконка",
+        "кнопка"
       ],
       "skins": [
         {
@@ -35103,7 +40831,10 @@ window._emojiData =
       "name": "Purple Circle",
       "keywords": [
         "large",
-        "round"
+        "round",
+        "фиолетовый круг",
+        "большой",
+        "круглый"
       ],
       "skins": [
         {
@@ -35118,7 +40849,10 @@ window._emojiData =
       "name": "Brown Circle",
       "keywords": [
         "large",
-        "round"
+        "round",
+        "коричневый круг",
+        "большой",
+        "круглый"
       ],
       "skins": [
         {
@@ -35134,7 +40868,11 @@ window._emojiData =
       "keywords": [
         "shape",
         "button",
-        "round"
+        "round",
+        "черный круг",
+        "форма",
+        "кнопка",
+        "круглый"
       ],
       "skins": [
         {
@@ -35149,7 +40887,10 @@ window._emojiData =
       "name": "White Circle",
       "keywords": [
         "shape",
-        "round"
+        "round",
+        "белый круг",
+        "форма",
+        "круглый"
       ],
       "skins": [
         {
@@ -35163,7 +40904,9 @@ window._emojiData =
       "id": "large_red_square",
       "name": "Red Square",
       "keywords": [
-        "large"
+        "large",
+        "красный квадрат",
+        "большой"
       ],
       "skins": [
         {
@@ -35177,7 +40920,9 @@ window._emojiData =
       "id": "large_orange_square",
       "name": "Orange Square",
       "keywords": [
-        "large"
+        "large",
+        "оранжевый квадрат",
+        "большой"
       ],
       "skins": [
         {
@@ -35191,7 +40936,9 @@ window._emojiData =
       "id": "large_yellow_square",
       "name": "Yellow Square",
       "keywords": [
-        "large"
+        "large",
+        "желтый квадрат",
+        "большой"
       ],
       "skins": [
         {
@@ -35205,7 +40952,9 @@ window._emojiData =
       "id": "large_green_square",
       "name": "Green Square",
       "keywords": [
-        "large"
+        "large",
+        "зеленый квадрат",
+        "большой"
       ],
       "skins": [
         {
@@ -35219,7 +40968,9 @@ window._emojiData =
       "id": "large_blue_square",
       "name": "Blue Square",
       "keywords": [
-        "large"
+        "large",
+        "синий квадрат",
+        "большой"
       ],
       "skins": [
         {
@@ -35233,7 +40984,9 @@ window._emojiData =
       "id": "large_purple_square",
       "name": "Purple Square",
       "keywords": [
-        "large"
+        "large",
+        "фиолетовый квадрат",
+        "большой"
       ],
       "skins": [
         {
@@ -35247,7 +41000,9 @@ window._emojiData =
       "id": "large_brown_square",
       "name": "Brown Square",
       "keywords": [
-        "large"
+        "large",
+        "коричневый квадрат",
+        "большой"
       ],
       "skins": [
         {
@@ -35263,7 +41018,11 @@ window._emojiData =
       "keywords": [
         "shape",
         "icon",
-        "button"
+        "button",
+        "черный большой квадрат",
+        "форма",
+        "иконка",
+        "кнопка"
       ],
       "skins": [
         {
@@ -35280,7 +41039,12 @@ window._emojiData =
         "shape",
         "icon",
         "stone",
-        "button"
+        "button",
+        "белый большой квадрат",
+        "форма",
+        "камень",
+        "иконка",
+        "кнопка"
       ],
       "skins": [
         {
@@ -35296,7 +41060,11 @@ window._emojiData =
       "keywords": [
         "shape",
         "button",
-        "icon"
+        "icon",
+        "черный средний квадрат",
+        "форма",
+        "кнопка",
+        "иконка"
       ],
       "skins": [
         {
@@ -35312,7 +41080,11 @@ window._emojiData =
       "keywords": [
         "shape",
         "stone",
-        "icon"
+        "icon",
+        "белый средний квадрат",
+        "форма",
+        "камень",
+        "иконка"
       ],
       "skins": [
         {
@@ -35328,7 +41100,11 @@ window._emojiData =
       "keywords": [
         "icon",
         "shape",
-        "button"
+        "button",
+        "черный средний маленький квадрат",
+        "иконка",
+        "форма",
+        "кнопка"
       ],
       "skins": [
         {
@@ -35345,7 +41121,12 @@ window._emojiData =
         "shape",
         "stone",
         "icon",
-        "button"
+        "button",
+        "белый средний маленький квадрат",
+        "форма",
+        "камень",
+        "иконка",
+        "кнопка"
       ],
       "skins": [
         {
@@ -35360,7 +41141,10 @@ window._emojiData =
       "name": "Black Small Square",
       "keywords": [
         "shape",
-        "icon"
+        "icon",
+        "черный маленький квадрат",
+        "форма",
+        "иконка"
       ],
       "skins": [
         {
@@ -35375,7 +41159,10 @@ window._emojiData =
       "name": "White Small Square",
       "keywords": [
         "shape",
-        "icon"
+        "icon",
+        "белый маленький квадрат",
+        "форма",
+        "иконка"
       ],
       "skins": [
         {
@@ -35391,7 +41178,11 @@ window._emojiData =
       "keywords": [
         "shape",
         "jewel",
-        "gem"
+        "gem",
+        "большой оранжевый ромб",
+        "форма",
+        "драгоценность",
+        "камень"
       ],
       "skins": [
         {
@@ -35407,7 +41198,11 @@ window._emojiData =
       "keywords": [
         "shape",
         "jewel",
-        "gem"
+        "gem",
+        "большой синий ромб",
+        "форма",
+        "драгоценность",
+        "камень"
       ],
       "skins": [
         {
@@ -35423,7 +41218,11 @@ window._emojiData =
       "keywords": [
         "shape",
         "jewel",
-        "gem"
+        "gem",
+        "маленький оранжевый ромб",
+        "форма",
+        "драгоценность",
+        "камень"
       ],
       "skins": [
         {
@@ -35439,7 +41238,11 @@ window._emojiData =
       "keywords": [
         "shape",
         "jewel",
-        "gem"
+        "gem",
+        "маленький синий ромб",
+        "форма",
+        "драгоценность",
+        "камень"
       ],
       "skins": [
         {
@@ -35456,7 +41259,11 @@ window._emojiData =
         "small",
         "shape",
         "direction",
-        "top"
+        "top",
+        "маленький красный треугольник вверх",
+        "форма",
+        "направление",
+        "верх"
       ],
       "skins": [
         {
@@ -35473,7 +41280,11 @@ window._emojiData =
         "small",
         "shape",
         "direction",
-        "bottom"
+        "bottom",
+        "маленький красный треугольник вниз",
+        "форма",
+        "направление",
+        "низ"
       ],
       "skins": [
         {
@@ -35493,7 +41304,15 @@ window._emojiData =
         "blue",
         "gem",
         "crystal",
-        "fancy"
+        "fancy",
+        "ромб с точкой",
+        "форма",
+        "внутри",
+        "драгоценность",
+        "синий",
+        "камень",
+        "кристалл",
+        "изысканный"
       ],
       "skins": [
         {
@@ -35510,7 +41329,12 @@ window._emojiData =
         "input",
         "old",
         "music",
-        "circle"
+        "circle",
+        "радиокнопка",
+        "ввод",
+        "старый",
+        "музыка",
+        "круг"
       ],
       "skins": [
         {
@@ -35525,7 +41349,10 @@ window._emojiData =
       "name": "White Square Button",
       "keywords": [
         "shape",
-        "input"
+        "input",
+        "белая квадратная кнопка",
+        "форма",
+        "ввод"
       ],
       "skins": [
         {
@@ -35541,7 +41368,11 @@ window._emojiData =
       "keywords": [
         "shape",
         "input",
-        "frame"
+        "frame",
+        "черная квадратная кнопка",
+        "форма",
+        "ввод",
+        "рамка"
       ],
       "skins": [
         {
@@ -35559,7 +41390,12 @@ window._emojiData =
         "contest",
         "finishline",
         "race",
-        "gokart"
+        "gokart",
+        "клетчатый флаг",
+        "соревнование",
+        "финишная линия",
+        "гонка",
+        "картинг"
       ],
       "skins": [
         {
@@ -35577,7 +41413,13 @@ window._emojiData =
         "post",
         "mark",
         "milestone",
-        "place"
+        "place",
+        "треугольный флаг",
+        "на",
+        "столбе",
+        "метка",
+        "веха",
+        "место"
       ],
       "skins": [
         {
@@ -35594,7 +41436,12 @@ window._emojiData =
         "japanese",
         "nation",
         "country",
-        "border"
+        "border",
+        "скрещенные флаги",
+        "японский",
+        "нация",
+        "страна",
+        "граница"
       ],
       "skins": [
         {
@@ -35609,7 +41456,10 @@ window._emojiData =
       "name": "Black Flag",
       "keywords": [
         "waving",
-        "pirate"
+        "pirate",
+        "черный флаг",
+        "махать",
+        "пират"
       ],
       "skins": [
         {
@@ -35630,7 +41480,15 @@ window._emojiData =
         "surrender",
         "give",
         "up",
-        "fail"
+        "fail",
+        "белый флаг",
+        "махать",
+        "проигрыш",
+        "проигравший",
+        "потерянный",
+        "сдаться",
+        "отказаться",
+        "неудача"
       ],
       "skins": [
         {
@@ -35652,7 +41510,16 @@ window._emojiData =
         "homosexual",
         "lesbian",
         "bisexual",
-        "transgender"
+        "transgender",
+        "радужный флаг",
+        "гордость",
+        "гей",
+        "ЛГБТ",
+        "квир",
+        "гомосексуал",
+        "лесбиянка",
+        "бисексуал",
+        "трансгендер"
       ],
       "skins": [
         {
@@ -35666,7 +41533,9 @@ window._emojiData =
       "id": "transgender_flag",
       "name": "Transgender Flag",
       "keywords": [
-        "lgbtq"
+        "lgbtq",
+        "трансгендерный флаг",
+        "ЛГБТ"
       ],
       "skins": [
         {
@@ -35682,7 +41551,11 @@ window._emojiData =
       "keywords": [
         "skull",
         "crossbones",
-        "banner"
+        "banner",
+        "пиратский флаг",
+        "череп",
+        "скрещенные кости",
+        "знамя"
       ],
       "skins": [
         {
@@ -35696,7 +41569,8 @@ window._emojiData =
       "id": "flag-ac",
       "name": "Ascension Island Flag",
       "keywords": [
-        "ac"
+        "ac",
+        "флаг острова Вознесения"
       ],
       "skins": [
         {
@@ -35713,7 +41587,11 @@ window._emojiData =
         "ad",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Андорры",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35730,7 +41608,11 @@ window._emojiData =
         "ae",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Объединенных Арабских Эмиратов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35747,7 +41629,11 @@ window._emojiData =
         "af",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Афганистана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35764,7 +41650,11 @@ window._emojiData =
         "ag",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Антигуа и Барбуды",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35781,7 +41671,11 @@ window._emojiData =
         "ai",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Ангильи",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35798,7 +41692,11 @@ window._emojiData =
         "al",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Албании",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35815,7 +41713,11 @@ window._emojiData =
         "am",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Армении",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35832,7 +41734,11 @@ window._emojiData =
         "ao",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Анголы",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35849,7 +41755,11 @@ window._emojiData =
         "aq",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Антарктиды",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35866,7 +41776,11 @@ window._emojiData =
         "ar",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Аргентины",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35884,7 +41798,11 @@ window._emojiData =
         "ws",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Американского Самоа",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35901,7 +41819,11 @@ window._emojiData =
         "at",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Австрии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35918,7 +41840,11 @@ window._emojiData =
         "au",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Австралии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35935,7 +41861,11 @@ window._emojiData =
         "aw",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Арубы",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35954,7 +41884,11 @@ window._emojiData =
         "Aland",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Аландских островов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35971,7 +41905,11 @@ window._emojiData =
         "az",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Азербайджана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -35988,7 +41926,11 @@ window._emojiData =
         "ba",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Боснии и Герцеговины",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36005,7 +41947,11 @@ window._emojiData =
         "bb",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Барбадоса",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36022,7 +41968,11 @@ window._emojiData =
         "bd",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Бангладеш",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36039,7 +41989,11 @@ window._emojiData =
         "be",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Бельгии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36056,7 +42010,11 @@ window._emojiData =
         "bf",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Буркина-Фасо",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36073,7 +42031,11 @@ window._emojiData =
         "bg",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Болгарии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36090,7 +42052,11 @@ window._emojiData =
         "bh",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Бахрейна",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36107,7 +42073,11 @@ window._emojiData =
         "bi",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Бурунди",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36124,7 +42094,11 @@ window._emojiData =
         "bj",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Бенина",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36144,7 +42118,11 @@ window._emojiData =
         "saint",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сен-Бартелеми",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36161,7 +42139,11 @@ window._emojiData =
         "bm",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Бермуд",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36179,7 +42161,11 @@ window._emojiData =
         "darussalam",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Брунея",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36196,7 +42182,11 @@ window._emojiData =
         "bo",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Боливии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36214,7 +42204,11 @@ window._emojiData =
         "bonaire",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Карибских Нидерландов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36231,7 +42225,11 @@ window._emojiData =
         "br",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Бразилии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36248,7 +42246,11 @@ window._emojiData =
         "bs",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Багам",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36265,7 +42267,11 @@ window._emojiData =
         "bt",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Бутана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36280,7 +42286,9 @@ window._emojiData =
       "name": "Bouvet Island Flag",
       "keywords": [
         "bv",
-        "norway"
+        "norway",
+        "флаг острова Буве",
+        "Норвегия"
       ],
       "skins": [
         {
@@ -36297,7 +42305,11 @@ window._emojiData =
         "bw",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Ботсваны",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36314,7 +42326,11 @@ window._emojiData =
         "by",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Беларуси",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36331,7 +42347,11 @@ window._emojiData =
         "bz",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Белиза",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36348,7 +42368,11 @@ window._emojiData =
         "ca",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Канады",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36360,13 +42384,17 @@ window._emojiData =
     },
     "flag-cc": {
       "id": "flag-cc",
-      "name": "Cocos (keeling) Islands Flag",
+      "name": "Cocos (Keeling) Islands Flag",
       "keywords": [
         "cc",
         "keeling",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Кокосовых островов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36385,7 +42413,13 @@ window._emojiData =
         "republic",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Конго - Киншаса",
+        "демократическая",
+        "республика",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36402,7 +42436,11 @@ window._emojiData =
         "cf",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Центральноафриканской Республики",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36419,7 +42457,11 @@ window._emojiData =
         "cg",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Конго - Браззавиль",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36436,7 +42478,11 @@ window._emojiData =
         "ch",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Швейцарии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36448,7 +42494,7 @@ window._emojiData =
     },
     "flag-ci": {
       "id": "flag-ci",
-      "name": "Côte D’ivoire Flag",
+      "name": "Côte d’Ivoire Flag",
       "keywords": [
         "ci",
         "cote",
@@ -36458,7 +42504,12 @@ window._emojiData =
         "coast",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Кот-д’Ивуара",
+        "берег слоновой кости",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36475,7 +42526,11 @@ window._emojiData =
         "ck",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Островов Кука",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36492,7 +42547,11 @@ window._emojiData =
         "cl",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Чили",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36509,7 +42568,11 @@ window._emojiData =
         "cm",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Камеруна",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36528,7 +42591,13 @@ window._emojiData =
         "prc",
         "country",
         "nation",
-        "banner"
+        "banner",
+        "флаг Китая",
+        "китайский",
+        "КНР",
+        "страна",
+        "нация",
+        "знамя"
       ],
       "skins": [
         {
@@ -36545,7 +42614,11 @@ window._emojiData =
         "co",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Колумбии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36559,7 +42632,8 @@ window._emojiData =
       "id": "flag-cp",
       "name": "Clipperton Island Flag",
       "keywords": [
-        "cp"
+        "cp",
+        "флаг острова Клиппертон"
       ],
       "skins": [
         {
@@ -36576,7 +42650,11 @@ window._emojiData =
         "cr",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Коста-Рики",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36593,7 +42671,11 @@ window._emojiData =
         "cu",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Кубы",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36611,7 +42693,11 @@ window._emojiData =
         "cabo",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Кабо-Верде",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36629,7 +42715,11 @@ window._emojiData =
         "curacao",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Кюрасао",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36646,7 +42736,11 @@ window._emojiData =
         "cx",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг острова Рождества",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36663,7 +42757,11 @@ window._emojiData =
         "cy",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Кипра",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36680,7 +42778,11 @@ window._emojiData =
         "cz",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Чехии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36698,7 +42800,12 @@ window._emojiData =
         "german",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Германии",
+        "немецкий",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36712,7 +42819,8 @@ window._emojiData =
       "id": "flag-dg",
       "name": "Diego Garcia Flag",
       "keywords": [
-        "dg"
+        "dg",
+        "флаг Диего-Гарсия"
       ],
       "skins": [
         {
@@ -36729,7 +42837,11 @@ window._emojiData =
         "dj",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Джибути",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36746,7 +42858,11 @@ window._emojiData =
         "dk",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Дании",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36763,7 +42879,11 @@ window._emojiData =
         "dm",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Доминики",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36780,7 +42900,11 @@ window._emojiData =
         "do",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Доминиканской Республики",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36797,7 +42921,11 @@ window._emojiData =
         "dz",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Алжира",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36811,7 +42939,8 @@ window._emojiData =
       "id": "flag-ea",
       "name": "Ceuta & Melilla Flag",
       "keywords": [
-        "ea"
+        "ea",
+        "флаг Сеуты и Мелильи"
       ],
       "skins": [
         {
@@ -36828,7 +42957,11 @@ window._emojiData =
         "ec",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Эквадора",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36845,7 +42978,11 @@ window._emojiData =
         "ee",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Эстонии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36862,7 +42999,11 @@ window._emojiData =
         "eg",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Египта",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36879,7 +43020,11 @@ window._emojiData =
         "eh",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Западной Сахары",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36896,7 +43041,11 @@ window._emojiData =
         "er",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Эритреи",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36913,7 +43062,11 @@ window._emojiData =
         "es",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Испании",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36930,7 +43083,11 @@ window._emojiData =
         "et",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Эфиопии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36945,7 +43102,9 @@ window._emojiData =
       "name": "European Union Flag",
       "keywords": [
         "eu",
-        "banner"
+        "banner",
+        "флаг Европейского Союза",
+        "знамя"
       ],
       "skins": [
         {
@@ -36962,7 +43121,11 @@ window._emojiData =
         "fi",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Финляндии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36979,7 +43142,11 @@ window._emojiData =
         "fj",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Фиджи",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -36997,7 +43164,12 @@ window._emojiData =
         "malvinas",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Фолклендских островов",
+        "Мальвины",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37016,7 +43188,13 @@ window._emojiData =
         "states",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Микронезии",
+        "федеративные",
+        "штаты",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37033,7 +43211,11 @@ window._emojiData =
         "fo",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Фарерских островов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37051,7 +43233,12 @@ window._emojiData =
         "banner",
         "nation",
         "french",
-        "country"
+        "country",
+        "флаг Франции",
+        "знамя",
+        "нация",
+        "французский",
+        "страна"
       ],
       "skins": [
         {
@@ -37068,7 +43255,11 @@ window._emojiData =
         "ga",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Габона",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37096,7 +43287,17 @@ window._emojiData =
         "english",
         "england",
         "union",
-        "jack"
+        "jack",
+        "флаг Соединенного Королевства",
+        "Великобритания",
+        "Северная Ирландия",
+        "нация",
+        "страна",
+        "знамя",
+        "британский",
+        "Англия",
+        "союз",
+        "джек"
       ],
       "skins": [
         {
@@ -37113,7 +43314,11 @@ window._emojiData =
         "gd",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гренады",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37130,7 +43335,11 @@ window._emojiData =
         "ge",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Грузии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37147,7 +43356,11 @@ window._emojiData =
         "gf",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Французской Гвианы",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37164,7 +43377,11 @@ window._emojiData =
         "gg",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гернси",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37181,7 +43398,11 @@ window._emojiData =
         "gh",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Ганы",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37198,7 +43419,11 @@ window._emojiData =
         "gi",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гибралтара",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37215,7 +43440,11 @@ window._emojiData =
         "gl",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гренландии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37232,7 +43461,11 @@ window._emojiData =
         "gm",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гамбии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37249,7 +43482,11 @@ window._emojiData =
         "gn",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гвинеи",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37266,7 +43503,11 @@ window._emojiData =
         "gp",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гваделупы",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37284,7 +43525,11 @@ window._emojiData =
         "gn",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Экваториальной Гвинеи",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37301,7 +43546,11 @@ window._emojiData =
         "gr",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Греции",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37318,7 +43567,11 @@ window._emojiData =
         "gs",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Южной Георгии и Южных Сандвичевых островов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37335,7 +43588,11 @@ window._emojiData =
         "gt",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гватемалы",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37352,7 +43609,11 @@ window._emojiData =
         "gu",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гуама",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37371,7 +43632,13 @@ window._emojiData =
         "bissau",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гвинеи-Бисау",
+        "Гвинея",
+        "Бисау",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37388,7 +43655,11 @@ window._emojiData =
         "gy",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гайаны",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37400,12 +43671,16 @@ window._emojiData =
     },
     "flag-hk": {
       "id": "flag-hk",
-      "name": "Hong Kong Sar China Flag",
+      "name": "Hong Kong SAR China Flag",
       "keywords": [
         "hk",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гонконга",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37417,9 +43692,10 @@ window._emojiData =
     },
     "flag-hm": {
       "id": "flag-hm",
-      "name": "Heard & Mcdonald Islands Flag",
+      "name": "Heard & McDonald Islands Flag",
       "keywords": [
-        "hm"
+        "hm",
+        "флаг островов Херд и Макдональд"
       ],
       "skins": [
         {
@@ -37436,7 +43712,11 @@ window._emojiData =
         "hn",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гондураса",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37453,7 +43733,11 @@ window._emojiData =
         "hr",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Хорватии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37470,7 +43754,11 @@ window._emojiData =
         "ht",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Гаити",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37487,7 +43775,11 @@ window._emojiData =
         "hu",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Венгрии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37504,7 +43796,11 @@ window._emojiData =
         "ic",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Канарских островов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37521,7 +43817,11 @@ window._emojiData =
         "id",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Индонезии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37538,7 +43838,11 @@ window._emojiData =
         "ie",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Ирландии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37555,7 +43859,11 @@ window._emojiData =
         "il",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Израиля",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37572,7 +43880,11 @@ window._emojiData =
         "im",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг острова Мэн",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37589,7 +43901,11 @@ window._emojiData =
         "in",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Индии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37606,7 +43922,11 @@ window._emojiData =
         "io",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Британской территории в Индийском океане",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37623,7 +43943,11 @@ window._emojiData =
         "iq",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Ирака",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37642,7 +43966,13 @@ window._emojiData =
         "republic",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Ирана",
+        "исламская",
+        "республика",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37659,7 +43989,11 @@ window._emojiData =
         "is",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Исландии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37676,7 +44010,11 @@ window._emojiData =
         "it",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Италии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37693,7 +44031,11 @@ window._emojiData =
         "je",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Джерси",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37710,7 +44052,11 @@ window._emojiData =
         "jm",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Ямайки",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37727,7 +44073,11 @@ window._emojiData =
         "jo",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Иордании",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37746,7 +44096,12 @@ window._emojiData =
         "nation",
         "country",
         "banner",
-        "ja"
+        "ja",
+        "флаг Японии",
+        "японский",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37763,7 +44118,11 @@ window._emojiData =
         "ke",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Кении",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37780,7 +44139,11 @@ window._emojiData =
         "kg",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Кыргызстана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37797,7 +44160,11 @@ window._emojiData =
         "kh",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Камбоджи",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37814,7 +44181,11 @@ window._emojiData =
         "ki",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Кирибати",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37831,7 +44202,11 @@ window._emojiData =
         "km",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Комор",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37850,7 +44225,12 @@ window._emojiData =
         "saint",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сент-Китс и Невис",
+        "святой",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37867,7 +44247,11 @@ window._emojiData =
         "kp",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Северной Кореи",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37884,7 +44268,11 @@ window._emojiData =
         "kr",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Южной Кореи",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37901,7 +44289,11 @@ window._emojiData =
         "kw",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Кувейта",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37918,7 +44310,11 @@ window._emojiData =
         "ky",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Каймановых островов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37935,7 +44331,11 @@ window._emojiData =
         "kz",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Казахстана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37955,7 +44355,14 @@ window._emojiData =
         "republic",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Лаоса",
+        "лаосский",
+        "демократическая",
+        "республика",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37972,7 +44379,11 @@ window._emojiData =
         "lb",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Ливана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -37991,7 +44402,12 @@ window._emojiData =
         "saint",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сент-Люсии",
+        "святой",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38008,7 +44424,11 @@ window._emojiData =
         "li",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Лихтенштейна",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38025,7 +44445,11 @@ window._emojiData =
         "lk",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Шри-Ланки",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38042,7 +44466,11 @@ window._emojiData =
         "lr",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Либерии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38059,7 +44487,11 @@ window._emojiData =
         "ls",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Лесото",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38076,7 +44508,11 @@ window._emojiData =
         "lt",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Литвы",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38093,7 +44529,11 @@ window._emojiData =
         "lu",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Люксембурга",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38110,7 +44550,11 @@ window._emojiData =
         "lv",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Латвии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38127,7 +44571,11 @@ window._emojiData =
         "ly",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Ливии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38144,7 +44592,11 @@ window._emojiData =
         "ma",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Марокко",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38161,7 +44613,11 @@ window._emojiData =
         "mc",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Монако",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38179,7 +44635,12 @@ window._emojiData =
         "republic",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Молдовы",
+        "республика",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38196,7 +44657,11 @@ window._emojiData =
         "me",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Черногории",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38211,7 +44676,9 @@ window._emojiData =
       "name": "St. Martin Flag",
       "keywords": [
         "mf",
-        "st"
+        "st",
+        "флаг Сен-Мартена",
+        "святой"
       ],
       "skins": [
         {
@@ -38228,7 +44695,11 @@ window._emojiData =
         "mg",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Мадагаскара",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38245,7 +44716,11 @@ window._emojiData =
         "mh",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Маршалловых островов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38262,7 +44737,11 @@ window._emojiData =
         "mk",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Северной Македонии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38279,7 +44758,11 @@ window._emojiData =
         "ml",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Мали",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38291,12 +44774,17 @@ window._emojiData =
     },
     "flag-mm": {
       "id": "flag-mm",
-      "name": "Myanmar (burma) Flag",
+      "name": "Myanmar (Burma) Flag",
       "keywords": [
         "mm",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Мьянмы",
+        "Бирма",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38313,7 +44801,11 @@ window._emojiData =
         "mn",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Монголии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38325,12 +44817,16 @@ window._emojiData =
     },
     "flag-mo": {
       "id": "flag-mo",
-      "name": "Macao Sar China Flag",
+      "name": "Macao SAR China Flag",
       "keywords": [
         "mo",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Макао",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38347,7 +44843,11 @@ window._emojiData =
         "mp",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Северных Марианских островов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38364,7 +44864,11 @@ window._emojiData =
         "mq",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Мартиники",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38381,7 +44885,11 @@ window._emojiData =
         "mr",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Мавритании",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38398,7 +44906,11 @@ window._emojiData =
         "ms",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Монтсеррата",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38415,7 +44927,11 @@ window._emojiData =
         "mt",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Мальты",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38432,7 +44948,11 @@ window._emojiData =
         "mu",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Маврикия",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38449,7 +44969,11 @@ window._emojiData =
         "mv",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Мальдив",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38466,7 +44990,11 @@ window._emojiData =
         "mw",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Малави",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38483,7 +45011,11 @@ window._emojiData =
         "mx",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Мексики",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38500,7 +45032,11 @@ window._emojiData =
         "my",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Малайзии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38517,7 +45053,11 @@ window._emojiData =
         "mz",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Мозамбика",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38534,7 +45074,11 @@ window._emojiData =
         "na",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Намибии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38551,7 +45095,11 @@ window._emojiData =
         "nc",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Новой Каледонии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38568,7 +45116,11 @@ window._emojiData =
         "ne",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Нигера",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38585,7 +45137,11 @@ window._emojiData =
         "nf",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг острова Норфолк",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38602,7 +45158,11 @@ window._emojiData =
         "ng",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Нигерии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38619,7 +45179,11 @@ window._emojiData =
         "ni",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Никарагуа",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38636,7 +45200,11 @@ window._emojiData =
         "nl",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Нидерландов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38653,7 +45221,11 @@ window._emojiData =
         "no",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Норвегии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38670,7 +45242,11 @@ window._emojiData =
         "np",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Непала",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38687,7 +45263,11 @@ window._emojiData =
         "nr",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Науру",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38704,7 +45284,11 @@ window._emojiData =
         "nu",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Ниуэ",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38721,7 +45305,11 @@ window._emojiData =
         "nz",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Новой Зеландии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38739,7 +45327,12 @@ window._emojiData =
         "symbol",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Омана",
+        "символ",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38756,7 +45349,11 @@ window._emojiData =
         "pa",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Панамы",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38773,7 +45370,11 @@ window._emojiData =
         "pe",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Перу",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38790,7 +45391,11 @@ window._emojiData =
         "pf",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Французской Полинезии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38807,7 +45412,11 @@ window._emojiData =
         "pg",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Папуа-Новой Гвинеи",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38824,7 +45433,11 @@ window._emojiData =
         "ph",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Филиппин",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38841,7 +45454,11 @@ window._emojiData =
         "pk",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Пакистана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38858,7 +45475,11 @@ window._emojiData =
         "pl",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Польши",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38877,7 +45498,12 @@ window._emojiData =
         "saint",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сен-Пьера и Микелона",
+        "святой",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38894,7 +45520,11 @@ window._emojiData =
         "pn",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг островов Питкэрн",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38911,7 +45541,11 @@ window._emojiData =
         "pr",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Пуэрто-Рико",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38929,7 +45563,12 @@ window._emojiData =
         "palestine",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Палестинских территорий",
+        "Палестина",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38946,7 +45585,11 @@ window._emojiData =
         "pt",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Португалии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38963,7 +45606,11 @@ window._emojiData =
         "pw",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Палау",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38980,7 +45627,11 @@ window._emojiData =
         "py",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Парагвая",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -38997,7 +45648,11 @@ window._emojiData =
         "qa",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Катара",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39015,7 +45670,11 @@ window._emojiData =
         "reunion",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Реюньона",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39032,7 +45691,11 @@ window._emojiData =
         "ro",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Румынии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39049,7 +45712,11 @@ window._emojiData =
         "rs",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сербии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39068,7 +45735,13 @@ window._emojiData =
         "federation",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг России",
+        "русский",
+        "федерация",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39085,7 +45758,11 @@ window._emojiData =
         "rw",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Руанды",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39102,7 +45779,11 @@ window._emojiData =
         "sa",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Саудовской Аравии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39119,7 +45800,11 @@ window._emojiData =
         "sb",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Соломоновых островов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39136,7 +45821,11 @@ window._emojiData =
         "sc",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сейшельских островов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39153,7 +45842,11 @@ window._emojiData =
         "sd",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Судана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39170,7 +45863,11 @@ window._emojiData =
         "se",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Швеции",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39187,7 +45884,11 @@ window._emojiData =
         "sg",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сингапура",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39209,7 +45910,15 @@ window._emojiData =
         "cunha",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Святой Елены",
+        "святой",
+        "вознесение",
+        "тристан",
+        "кунья",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39226,7 +45935,11 @@ window._emojiData =
         "si",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Словении",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39240,7 +45953,8 @@ window._emojiData =
       "id": "flag-sj",
       "name": "Svalbard & Jan Mayen Flag",
       "keywords": [
-        "sj"
+        "sj",
+        "флаг Шпицбергена и Ян-Майена"
       ],
       "skins": [
         {
@@ -39257,7 +45971,11 @@ window._emojiData =
         "sk",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Словакии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39274,7 +45992,11 @@ window._emojiData =
         "sl",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сьерра-Леоне",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39291,7 +46013,11 @@ window._emojiData =
         "sm",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сан-Марино",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39308,7 +46034,11 @@ window._emojiData =
         "sn",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сенегала",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39325,7 +46055,11 @@ window._emojiData =
         "so",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сомали",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39342,7 +46076,11 @@ window._emojiData =
         "sr",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Суринама",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39360,7 +46098,11 @@ window._emojiData =
         "sd",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Южного Судана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39380,7 +46122,14 @@ window._emojiData =
         "principe",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сан-Томе и Принсипи",
+        "сан",
+        "томе",
+        "принсипи",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39397,7 +46146,11 @@ window._emojiData =
         "sv",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сальвадора",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39415,7 +46168,12 @@ window._emojiData =
         "dutch",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Синт-Мартена",
+        "голландский",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39435,7 +46193,14 @@ window._emojiData =
         "republic",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сирии",
+        "сирийский",
+        "арабская",
+        "республика",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39452,7 +46217,11 @@ window._emojiData =
         "sz",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Эсватини",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39464,9 +46233,10 @@ window._emojiData =
     },
     "flag-ta": {
       "id": "flag-ta",
-      "name": "Tristan Da Cunha Flag",
+      "name": "Tristan da Cunha Flag",
       "keywords": [
-        "ta"
+        "ta",
+        "флаг Тристан-да-Кунья"
       ],
       "skins": [
         {
@@ -39483,7 +46253,11 @@ window._emojiData =
         "tc",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг островов Теркс и Кайкос",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39500,7 +46274,11 @@ window._emojiData =
         "td",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Чада",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39517,7 +46295,11 @@ window._emojiData =
         "tf",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Французских Южных территорий",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39534,7 +46316,11 @@ window._emojiData =
         "tg",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Того",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39551,7 +46337,11 @@ window._emojiData =
         "th",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Таиланда",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39568,7 +46358,11 @@ window._emojiData =
         "tj",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Таджикистана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39585,7 +46379,11 @@ window._emojiData =
         "tk",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Токелау",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39604,7 +46402,13 @@ window._emojiData =
         "leste",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Восточного Тимора",
+        "тимор",
+        "лесте",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39621,7 +46425,11 @@ window._emojiData =
         "tm",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Туркменистана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39638,7 +46446,11 @@ window._emojiData =
         "tn",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Туниса",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39655,7 +46467,11 @@ window._emojiData =
         "to",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Тонга",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39672,7 +46488,11 @@ window._emojiData =
         "tr",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Турции",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39689,7 +46509,11 @@ window._emojiData =
         "tt",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Тринидада и Тобаго",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39706,7 +46530,11 @@ window._emojiData =
         "tv",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Тувалу",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39723,7 +46551,11 @@ window._emojiData =
         "tw",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Тайваня",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39742,7 +46574,13 @@ window._emojiData =
         "republic",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Танзании",
+        "объединенная",
+        "республика",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39759,7 +46597,11 @@ window._emojiData =
         "ua",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Украины",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39776,7 +46618,11 @@ window._emojiData =
         "ug",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Уганды",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39788,11 +46634,12 @@ window._emojiData =
     },
     "flag-um": {
       "id": "flag-um",
-      "name": "U.s. Outlying Islands Flag",
+      "name": "U.S. Outlying Islands Flag",
       "keywords": [
         "um",
         "u",
-        "s"
+        "s",
+        "флаг Внешних малых островов США"
       ],
       "skins": [
         {
@@ -39807,7 +46654,9 @@ window._emojiData =
       "name": "United Nations Flag",
       "keywords": [
         "un",
-        "banner"
+        "banner",
+        "флаг ООН",
+        "знамя"
       ],
       "skins": [
         {
@@ -39825,7 +46674,12 @@ window._emojiData =
         "america",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Соединенных Штатов",
+        "Америка",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39842,7 +46696,11 @@ window._emojiData =
         "uy",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Уругвая",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39859,7 +46717,11 @@ window._emojiData =
         "uz",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Узбекистана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39876,7 +46738,11 @@ window._emojiData =
         "va",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Ватикана",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39895,7 +46761,12 @@ window._emojiData =
         "saint",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Сент-Винсента и Гренадин",
+        "святой",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39914,7 +46785,13 @@ window._emojiData =
         "republic",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Венесуэлы",
+        "боливарианская",
+        "республика",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39932,7 +46809,11 @@ window._emojiData =
         "bvi",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Британских Виргинских островов",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39944,7 +46825,7 @@ window._emojiData =
     },
     "flag-vi": {
       "id": "flag-vi",
-      "name": "U.s. Virgin Islands Flag",
+      "name": "U.S. Virgin Islands Flag",
       "keywords": [
         "vi",
         "u",
@@ -39952,7 +46833,11 @@ window._emojiData =
         "us",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Виргинских островов США",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39971,7 +46856,13 @@ window._emojiData =
         "nam",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Вьетнама",
+        "вьет",
+        "нам",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -39988,7 +46879,11 @@ window._emojiData =
         "vu",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Вануату",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -40005,7 +46900,11 @@ window._emojiData =
         "wf",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Уоллиса и Футуны",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -40022,7 +46921,11 @@ window._emojiData =
         "ws",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Самоа",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -40039,7 +46942,11 @@ window._emojiData =
         "xk",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Косово",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -40056,7 +46963,11 @@ window._emojiData =
         "ye",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Йемена",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -40073,7 +46984,11 @@ window._emojiData =
         "yt",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Майотты",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -40090,7 +47005,11 @@ window._emojiData =
         "za",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Южной Африки",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -40107,7 +47026,11 @@ window._emojiData =
         "zm",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Замбии",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -40124,7 +47047,11 @@ window._emojiData =
         "zw",
         "nation",
         "country",
-        "banner"
+        "banner",
+        "флаг Зимбабве",
+        "нация",
+        "страна",
+        "знамя"
       ],
       "skins": [
         {
@@ -40138,7 +47065,9 @@ window._emojiData =
       "id": "flag-england",
       "name": "England Flag",
       "keywords": [
-        "english"
+        "english",
+        "английский",
+        "флаг Англии"
       ],
       "skins": [
         {
@@ -40152,7 +47081,9 @@ window._emojiData =
       "id": "flag-scotland",
       "name": "Scotland Flag",
       "keywords": [
-        "scottish"
+        "scottish",
+        "шотландский",
+        "флаг Шотландии"
       ],
       "skins": [
         {
@@ -40166,7 +47097,9 @@ window._emojiData =
       "id": "flag-wales",
       "name": "Wales Flag",
       "keywords": [
-        "welsh"
+        "welsh",
+        "валлийский",
+        "флаг Уэльса"
       ],
       "skins": [
         {
