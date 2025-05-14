@@ -8,6 +8,7 @@ const protectImages = (isProfile) => {
     11459956,
     24663769,
     21263165,
+    18842129,
   ]
 
   const imgHash = (img, onHash) => {
